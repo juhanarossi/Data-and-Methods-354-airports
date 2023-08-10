@@ -1,0 +1,186 @@
+AIRLINE_ID,UNIQUE_CARRIER_NAME,AIRCRAFT_TYPE,Description,AIRCRAFT_FAMILY,2019,2020,2021,2022
+19790.0,Delta Air Lines Inc.,339,Airbus Industrie A330-900,Airbus A330,14.0,6.0,509.0,454.0
+19790.0,Delta Air Lines Inc.,359,Airbus Industrie A350-900,Airbus A350,29.0,61.0,763.0,1307.0
+21253.0,"Multi-Aero, Inc. d/b/a Air Choice One",415,Cessna C208B/Grand Caravan,Single turboprop,6376.0,5852.0,2832.0,911.0
+22081.0,"Tailwind Air, LLC",415,Cessna C208B/Grand Caravan,Single turboprop,0.0,0.0,11.0,82.0
+21618.0,"Southern Airways Express, dba Mokulele Airlines",415,Cessna C208B/Grand Caravan,Single turboprop,0.0,0.0,0.0,13084.0
+21599.0,Boutique Air,479,Pilatus PC-12,Single turboprop,17537.0,13640.0,7324.0,4644.0
+21894.0,"ADVANCED AIR, LLC",479,Pilatus PC-12,Single turboprop,1406.0,739.0,623.0,1142.0
+21080.0,Tradewind Aviation,479,Pilatus PC-12,Single turboprop,1351.0,1278.0,1245.0,1671.0
+20330.0,Ryan Air f/k/a Arctic Transportation,479,Pilatus PC-12,Single turboprop,0.0,1.0,0.0,0.0
+20272.0,Kenmore Air Harbor,479,Pilatus PC-12,Single turboprop,0.0,0.0,8.0,3.0
+21618.0,"Southern Airways Express, dba Mokulele Airlines",479,Pilatus PC-12,Single turboprop,0.0,0.0,0.0,340.0
+20500.0,GoJet Airlines LLC d/b/a United Express,530,Bombardier CRJ550,Bombardier CRJ,4609.0,32057.0,58149.0,50833.0
+19790.0,Delta Air Lines Inc.,608,Boeing 717-200,Boeing 717,152285.0,86741.0,87244.0,120106.0
+19393.0,Southwest Airlines Co.,612,Boeing 737-700/700LR/Max 7,Boeing 737,999642.0,602378.0,638413.0,764065.0
+19790.0,Delta Air Lines Inc.,612,Boeing 737-700/700LR/Max 7,Boeing 737,9030.0,4925.0,0.0,0.0
+19977.0,United Air Lines Inc.,612,Boeing 737-700/700LR/Max 7,Boeing 737,35948.0,16804.0,26838.0,36690.0
+19930.0,Alaska Airlines Inc.,612,Boeing 737-700/700LR/Max 7,Boeing 737,3845.0,1901.0,2526.0,5287.0
+20422.0,Sun Country Airlines d/b/a MN Airlines,612,Boeing 737-700/700LR/Max 7,Boeing 737,1585.0,1.0,502.0,257.0
+20207.0,TEM Enterprises dba  Avelo Airlines,612,Boeing 737-700/700LR/Max 7,Boeing 737,0.0,0.0,678.0,5812.0
+19393.0,Southwest Airlines Co.,614,Boeing 737-800,Boeing 737,314230.0,268698.0,343869.0,426812.0
+19790.0,Delta Air Lines Inc.,614,Boeing 737-800,Boeing 737,82578.0,59043.0,68916.0,74278.0
+19805.0,American Airlines Inc.,614,Boeing 737-800,Boeing 737,334423.0,192289.0,238223.0,285250.0
+19930.0,Alaska Airlines Inc.,614,Boeing 737-800,Boeing 737,43626.0,17550.0,32933.0,38602.0
+19977.0,United Air Lines Inc.,614,Boeing 737-800,Boeing 737,124566.0,57964.0,95813.0,127182.0
+20422.0,Sun Country Airlines d/b/a MN Airlines,614,Boeing 737-800,Boeing 737,19300.0,11424.0,16389.0,19488.0
+20207.0,TEM Enterprises dba  Avelo Airlines,614,Boeing 737-800,Boeing 737,0.0,0.0,2314.0,4102.0
+19790.0,Delta Air Lines Inc.,622,Boeing 757-200,Boeing 757,92138.0,49505.0,63678.0,87439.0
+19977.0,United Air Lines Inc.,622,Boeing 757-200,Boeing 757,33499.0,10483.0,11623.0,14048.0
+19805.0,American Airlines Inc.,622,Boeing 757-200,Boeing 757,17900.0,5022.0,0.0,0.0
+19790.0,Delta Air Lines Inc.,623,Boeing 757-300,Boeing 757,16392.0,9612.0,15717.0,15679.0
+19977.0,United Air Lines Inc.,623,Boeing 757-300,Boeing 757,16656.0,9035.0,13761.0,11016.0
+19790.0,Delta Air Lines Inc.,624,Boeing 767-400/ER,Boeing 767,2772.0,1974.0,11751.0,3391.0
+19977.0,United Air Lines Inc.,624,Boeing 767-400/ER,Boeing 767,1021.0,472.0,1023.0,1797.0
+19790.0,Delta Air Lines Inc.,626,Boeing 767-300/300ER,Boeing 767,6244.0,7756.0,15619.0,15105.0
+19805.0,American Airlines Inc.,626,Boeing 767-300/300ER,Boeing 767,5796.0,1540.0,0.0,0.0
+19977.0,United Air Lines Inc.,626,Boeing 767-300/300ER,Boeing 767,2231.0,2110.0,7517.0,3208.0
+19690.0,Hawaiian Airlines Inc.,626,Boeing 767-300/300ER,Boeing 767,14.0,0.0,0.0,0.0
+21492.0,"Eastern Airlines f/k/a Dynamic Airways, LLC",626,Boeing 767-300/300ER,Boeing 767,0.0,1.0,0.0,2.0
+19790.0,Delta Air Lines Inc.,627,Boeing 777-200ER/200LR/233LR,Boeing 777,753.0,349.0,0.0,0.0
+19977.0,United Air Lines Inc.,627,Boeing 777-200ER/200LR/233LR,Boeing 777,13230.0,6148.0,5448.0,12857.0
+19805.0,American Airlines Inc.,627,Boeing 777-200ER/200LR/233LR,Boeing 777,4633.0,3095.0,11074.0,3591.0
+20304.0,SkyWest Airlines Inc.,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,350402.0,197118.0,204866.0,173686.0
+20363.0,Endeavor Air Inc.,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,69315.0,52174.0,78167.0,56793.0
+20397.0,PSA Airlines Inc.,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,60268.0,7815.0,0.0,0.0
+20366.0,ExpressJet Airlines LLC d/b/a aha!,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,7867.0,0.0,0.0,0.0
+20046.0,Air Wisconsin Airlines Corp,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,103036.0,50443.0,86241.0,64601.0
+20378.0,Mesa Airlines Inc.,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,250.0,2.0,0.0,0.0
+21712.0,Elite Airways LLC,629,Canadair RJ-200ER /RJ-440,Bombardier CRJ,162.0,60.0,221.0,22.0
+20304.0,SkyWest Airlines Inc.,631,Canadair RJ-700,Bombardier CRJ,173071.0,111212.0,156218.0,149063.0
+20363.0,Endeavor Air Inc.,631,Canadair RJ-700,Bombardier CRJ,6756.0,10116.0,17592.0,12200.0
+20378.0,Mesa Airlines Inc.,631,Canadair RJ-700,Bombardier CRJ,32592.0,15473.0,529.0,0.0
+20397.0,PSA Airlines Inc.,631,Canadair RJ-700,Bombardier CRJ,97899.0,75552.0,95069.0,80471.0
+20500.0,GoJet Airlines LLC d/b/a United Express,631,Canadair RJ-700,Bombardier CRJ,61442.0,3694.0,0.0,0.0
+20398.0,Envoy Air,631,Canadair RJ-700,Bombardier CRJ,15543.0,0.0,0.0,0.0
+20366.0,ExpressJet Airlines LLC d/b/a aha!,631,Canadair RJ-700,Bombardier CRJ,138.0,0.0,0.0,0.0
+21712.0,Elite Airways LLC,631,Canadair RJ-700,Bombardier CRJ,337.0,62.0,421.0,69.0
+19977.0,United Air Lines Inc.,634,Boeing 737-900,Boeing 737,11805.0,2618.0,144.0,10855.0
+19930.0,Alaska Airlines Inc.,634,Boeing 737-900,Boeing 737,14003.0,4492.0,9473.0,11389.0
+20363.0,Endeavor Air Inc.,638,Canadair CRJ 900,Bombardier CRJ,177494.0,142438.0,170521.0,155398.0
+20397.0,PSA Airlines Inc.,638,Canadair CRJ 900,Bombardier CRJ,124961.0,101799.0,125720.0,127895.0
+20304.0,SkyWest Airlines Inc.,638,Canadair CRJ 900,Bombardier CRJ,72423.0,46220.0,69086.0,66427.0
+20500.0,GoJet Airlines LLC d/b/a United Express,638,Canadair CRJ 900,Bombardier CRJ,11705.0,970.0,0.0,0.0
+20378.0,Mesa Airlines Inc.,638,Canadair CRJ 900,Bombardier CRJ,111597.0,61238.0,71273.0,52930.0
+21712.0,Elite Airways LLC,638,Canadair CRJ 900,Bombardier CRJ,0.0,0.0,261.0,29.0
+19790.0,Delta Air Lines Inc.,655,McDonnell Douglas DC9 Super 80/MD81/82/83/88,MD-series,128503.0,22143.0,0.0,0.0
+19805.0,American Airlines Inc.,655,McDonnell Douglas DC9 Super 80/MD81/82/83/88,MD-series,28317.0,0.0,0.0,0.0
+19790.0,Delta Air Lines Inc.,656,McDonnell Douglas MD-90,MD-series,54297.0,9052.0,0.0,0.0
+20304.0,SkyWest Airlines Inc.,673,Embraer ERJ-175,Embraer E-jet,231640.0,222798.0,313375.0,334080.0
+20378.0,Mesa Airlines Inc.,673,Embraer ERJ-175,Embraer E-jet,77243.0,51498.0,83455.0,58267.0
+20398.0,Envoy Air,673,Embraer ERJ-175,Embraer E-jet,93517.0,88743.0,140199.0,147367.0
+20452.0,Republic Airline,673,Embraer ERJ-175,Embraer E-jet,222172.0,160891.0,281153.0,259444.0
+20366.0,ExpressJet Airlines LLC d/b/a aha!,673,Embraer ERJ-175,Embraer E-jet,9335.0,8238.0,0.0,0.0
+21167.0,Compass Airlines,673,Embraer ERJ-175,Embraer E-jet,93520.0,14706.0,0.0,0.0
+19687.0,Horizon Air,673,Embraer ERJ-175,Embraer E-jet,46605.0,41683.0,48016.0,40123.0
+20366.0,ExpressJet Airlines LLC d/b/a aha!,675,Embraer-145,Embraer ERJ,113583.0,40875.0,402.0,1473.0
+20427.0,Piedmont Airlines,675,Embraer-145,Embraer ERJ,118574.0,66995.0,98241.0,84140.0
+20398.0,Envoy Air,675,Embraer-145,Embraer ERJ,113166.0,73613.0,103588.0,86530.0
+20237.0,Trans States Airlines,675,Embraer-145,Embraer ERJ,72261.0,17123.0,0.0,0.0
+20445.0,CommuteAir LLC dba CommuteAir,675,Embraer-145,Embraer ERJ,55294.0,31586.0,74932.0,76612.0
+21477.0,Via Airlines d/b/a Sterling Airways,675,Embraer-145,Embraer ERJ,418.0,0.0,0.0,0.0
+21879.0,Key Lime Air Corporation,675,Embraer-145,Embraer ERJ,0.0,367.0,2046.0,4210.0
+21635.0,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,675,Embraer-145,Embraer ERJ,0.0,80.0,893.0,1905.0
+20452.0,Republic Airline,677,Embraer-Emb-170,Embraer E-jet,99205.0,48759.0,46514.0,43157.0
+20398.0,Envoy Air,677,Embraer-Emb-170,Embraer E-jet,0.0,0.0,1972.0,9223.0
+19805.0,American Airlines Inc.,678,Embraer 190,Embraer E-jet,32122.0,6734.0,0.0,0.0
+20409.0,JetBlue Airways,678,Embraer 190,Embraer E-jet,103243.0,33640.0,58124.0,79019.0
+22080.0,Breeze Aviation Group DBA  Breeze,678,Embraer 190,Embraer E-jet,0.0,0.0,3476.0,5451.0
+19790.0,Delta Air Lines Inc.,687,Airbus Industrie A330-300/333,Airbus A330,1433.0,1015.0,4555.0,2626.0
+19805.0,American Airlines Inc.,687,Airbus Industrie A330-300/333,Airbus A330,618.0,485.0,0.0,0.0
+19790.0,Delta Air Lines Inc.,694,Airbus Industrie A320-100/200,Airbus A319/A320,79726.0,38157.0,69587.0,81167.0
+19805.0,American Airlines Inc.,694,Airbus Industrie A320-100/200,Airbus A319/A320,65688.0,43377.0,58590.0,65374.0
+19977.0,United Air Lines Inc.,694,Airbus Industrie A320-100/200,Airbus A319/A320,119153.0,50097.0,56579.0,97756.0
+20409.0,JetBlue Airways,694,Airbus Industrie A320-100/200,Airbus A319/A320,125341.0,63392.0,83097.0,104873.0
+20416.0,Spirit Air Lines,694,Airbus Industrie A320-100/200,Airbus A319/A320,101107.0,62150.0,80889.0,81025.0
+20436.0,Frontier Airlines Inc.,694,Airbus Industrie A320-100/200,Airbus A319/A320,30269.0,14435.0,21252.0,16832.0
+19930.0,Alaska Airlines Inc.,694,Airbus Industrie A320-100/200,Airbus A319/A320,37806.0,21019.0,21962.0,24867.0
+20368.0,Allegiant Air,694,Airbus Industrie A320-100/200,Airbus A319/A320,62813.0,55575.0,76462.0,81587.0
+22080.0,Breeze Aviation Group DBA  Breeze,694,Airbus Industrie A320-100/200,Airbus A319/A320,0.0,0.0,0.0,51.0
+19790.0,Delta Air Lines Inc.,696,Airbus Industrie A330-200,Airbus A330,170.0,108.0,3157.0,1346.0
+19690.0,Hawaiian Airlines Inc.,696,Airbus Industrie A330-200,Airbus A330,5391.0,2482.0,4874.0,5927.0
+19805.0,American Airlines Inc.,696,Airbus Industrie A330-200,Airbus A330,2092.0,940.0,0.0,0.0
+19790.0,Delta Air Lines Inc.,698,Airbus Industrie A319,Airbus A319/A320,70795.0,48288.0,51473.0,70371.0
+19805.0,American Airlines Inc.,698,Airbus Industrie A319,Airbus A319/A320,161822.0,117045.0,134707.0,156364.0
+19977.0,United Air Lines Inc.,698,Airbus Industrie A319,Airbus A319/A320,85155.0,50503.0,65602.0,92457.0
+20416.0,Spirit Air Lines,698,Airbus Industrie A319,Airbus A319/A320,38877.0,18175.0,19648.0,35483.0
+20436.0,Frontier Airlines Inc.,698,Airbus Industrie A319,Airbus A319/A320,10517.0,1880.0,1259.0,0.0
+19930.0,Alaska Airlines Inc.,698,Airbus Industrie A319,Airbus A319/A320,35248.0,2593.0,0.0,0.0
+20368.0,Allegiant Air,698,Airbus Industrie A319,Airbus A319/A320,41692.0,28903.0,35629.0,31353.0
+19790.0,Delta Air Lines Inc.,699,Airbus Industrie A321/Lr,Airbus A321,119743.0,91841.0,154833.0,174913.0
+19805.0,American Airlines Inc.,699,Airbus Industrie A321/Lr,Airbus A321,250864.0,143996.0,207423.0,248029.0
+20409.0,JetBlue Airways,699,Airbus Industrie A321/Lr,Airbus A321,52669.0,31354.0,37792.0,48636.0
+20416.0,Spirit Air Lines,699,Airbus Industrie A321/Lr,Airbus A321,41448.0,24989.0,34408.0,39193.0
+20436.0,Frontier Airlines Inc.,699,Airbus Industrie A321/Lr,Airbus A321,27830.0,12763.0,24038.0,22682.0
+19805.0,American Airlines Inc.,721,Airbus Industrie A321-200n,Airbus A321,3327.0,9911.0,24452.0,46829.0
+19930.0,Alaska Airlines Inc.,721,Airbus Industrie A321-200n,Airbus A321,6651.0,6789.0,7592.0,7969.0
+19690.0,Hawaiian Airlines Inc.,721,Airbus Industrie A321-200n,Airbus A321,4513.0,1931.0,5287.0,5553.0
+20409.0,JetBlue Airways,721,Airbus Industrie A321-200n,Airbus A321,0.0,776.0,8090.0,8158.0
+19790.0,Delta Air Lines Inc.,721,Airbus Industrie A321-200n,Airbus A321,0.0,0.0,0.0,3907.0
+20436.0,Frontier Airlines Inc.,721,Airbus Industrie A321-200n,Airbus A321,0.0,0.0,0.0,328.0
+20436.0,Frontier Airlines Inc.,722,Airbus Industrie A320-200n,Airbus A319/A320,63254.0,56042.0,86227.0,107683.0
+20416.0,Spirit Air Lines,722,Airbus Industrie A320-200n,Airbus A319/A320,17345.0,23427.0,45915.0,63538.0
+19790.0,Delta Air Lines Inc.,723,A200-100 BD-500-1A10,Airbus A220,19951.0,27653.0,40912.0,59794.0
+19393.0,Southwest Airlines Co.,838,Boeing B737 Max 800,Boeing 737 Max,9351.0,0.0,35447.0,45110.0
+19805.0,American Airlines Inc.,838,Boeing B737 Max 800,Boeing 737 Max,3072.0,6.0,20594.0,25928.0
+19977.0,United Air Lines Inc.,838,Boeing B737 Max 800,Boeing 737 Max,0.0,0.0,5357.0,21518.0
+19790.0,Delta Air Lines Inc.,888,Boeing 737-900ER,Boeing 737,145119.0,88162.0,135312.0,141267.0
+19930.0,Alaska Airlines Inc.,888,Boeing 737-900ER,Boeing 737,75516.0,50679.0,71161.0,71273.0
+19977.0,United Air Lines Inc.,888,Boeing 737-900ER,Boeing 737,155815.0,67330.0,101109.0,122934.0
+20253.0,Cape Air,125,Cessna C-402/402A/402B,Small twin turboprop,56353.0,44648.0,52609.0,43617.0
+19805.0,American Airlines Inc.,637,Boeing 777-300/300ER/333ER,Boeing 777,549.0,835.0,4539.0,1068.0
+19977.0,United Air Lines Inc.,637,Boeing 777-300/300ER/333ER,Boeing 777,429.0,550.0,2655.0,4090.0
+20398.0,Envoy Air,676,Embraer-140,Embraer ERJ,94324.0,38220.0,4958.0,0.0
+19977.0,United Air Lines Inc.,837,Boeing 787-10 Dreamliner,Boeing 787,2055.0,1576.0,1187.0,2698.0
+19977.0,United Air Lines Inc.,839,Boeing B737 Max 900,Boeing 737 Max,1974.0,0.0,26353.0,36473.0
+19930.0,Alaska Airlines Inc.,839,Boeing B737 Max 900,Boeing 737 Max,0.0,0.0,3539.0,22948.0
+19805.0,American Airlines Inc.,887,B787-800 Dreamliner,Boeing 787,3239.0,2244.0,3753.0,2628.0
+19977.0,United Air Lines Inc.,887,B787-800 Dreamliner,Boeing 787,1081.0,1268.0,1417.0,722.0
+19805.0,American Airlines Inc.,889,B787-900 Dreamliner,Boeing 787,1768.0,1496.0,3059.0,2446.0
+19977.0,United Air Lines Inc.,889,B787-900 Dreamliner,Boeing 787,613.0,1265.0,2601.0,2363.0
+21879.0,Key Lime Air Corporation,455,Fairchild Metro 23,Small twin turboprop,363.0,628.0,624.0,1158.0
+21879.0,Key Lime Air Corporation,632,Dornier 328 Jet,Dornier 328 Jet,2865.0,1520.0,2083.0,2732.0
+21618.0,"Southern Airways Express, dba Mokulele Airlines",416,Cessna 208 Caravan,Single turboprop,16805.0,12817.0,11906.0,939.0
+21242.0,"Mokulele Flight Services, Inc.",416,Cessna 208 Caravan,Single turboprop,1019.0,246.0,0.0,0.0
+21743.0,Tropic Ocean Airways LLC,416,Cessna 208 Caravan,Single turboprop,6.0,41.0,26.0,3.0
+21636.0,Gem Air LLC,416,Cessna 208 Caravan,Single turboprop,31.0,20.0,18.0,0.0
+20272.0,Kenmore Air Harbor,416,Cessna 208 Caravan,Single turboprop,3760.0,1497.0,2594.0,3460.0
+21599.0,Boutique Air,458,Beechcraft Super King Air,Small twin turboprop,1825.0,2299.0,4738.0,1213.0
+21894.0,"ADVANCED AIR, LLC",458,Beechcraft Super King Air,Small twin turboprop,1508.0,1253.0,1283.0,1769.0
+21964.0,"Rectrix Aviation, Inc.",458,Beechcraft Super King Air,Small twin turboprop,3962.0,0.0,0.0,0.0
+21618.0,"Southern Airways Express, dba Mokulele Airlines",458,Beechcraft Super King Air,Small twin turboprop,0.0,0.0,0.0,12.0
+19687.0,Horizon Air,482,De Havilland DHC8-400 Dash-8,Dash 8,73211.0,49321.0,56923.0,43261.0
+21635.0,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,674,Embraer-135,Embraer ERJ,9118.0,7511.0,6922.0,8035.0
+21635.0,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,669,Bombardier Challenger 604/605,Bombardier CRJ,199.0,51.0,14.0,13.0
+21635.0,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,685,Cessna 510 Mustang/560XL Citation Excel,Business jet,2.0,0.0,0.0,0.0
+21635.0,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,658,Bombardier BD-700 Global Express,Bombardier CRJ,3.0,0.0,0.0,0.0
+20401.0,Silver Airways,441,Aerospatiale/Aeritalia ATR-42,ATR-42/72,2019.0,4759.0,6817.0,6090.0
+20401.0,Silver Airways,456,Saab-Fairchild 340/B,Small twin turboprop,12527.0,1099.0,150.0,0.0
+20257.0,Bemidji Airlines,403,Beech 99 Airliner,Small twin turboprop,160.0,221.0,115.0,117.0
+20257.0,Bemidji Airlines,404,Beech C99,Small twin turboprop,283.0,250.0,315.0,111.0
+21712.0,Elite Airways LLC,628,Canadair RJ-100/RJ-100ER,Bombardier CRJ,91.0,0.0,0.0,0.0
+20401.0,Silver Airways,442,Aerospatiale/Aeritalia ATR-72,ATR-42/72,107.0,1119.0,2793.0,3114.0
+21635.0,CFM Inc d/b/a Contour Airlines d/b/a One Jet Shuttle,469,British Aerospace Jetstream 31,Small twin turboprop,732.0,0.0,0.0,0.0
+21636.0,Gem Air LLC,35,Cessna C206/207/209/210 Stationair,Single turboprop,63.0,36.0,22.0,0.0
+21636.0,Gem Air LLC,36,Cessna 172 Skyhawk,Single turboprop,4.0,7.0,3.0,0.0
+21636.0,Gem Air LLC,194,Piper PA-31 (Navajo)/T-1020,Boeing 787,30.0,23.0,20.0,0.0
+21835.0,"Public Charters, Inc. d/b/a North Country Sky d/b/a Regional Sky d/b/a Texas Sky",194,Piper PA-31 (Navajo)/T-1020,Boeing 787,0.0,0.0,12.0,0.0
+21636.0,Gem Air LLC,195,Piper PA-34/39 (Twin Commanche),Small twin turboprop,13.0,6.0,6.0,0.0
+21477.0,Via Airlines d/b/a Sterling Airways,461,Embraer EMB-120 Brasilia,Small twin turboprop,4.0,0.0,0.0,0.0
+20257.0,Bemidji Airlines,133,Beech 65/65A-80/65B-80 (Queen Air),Small twin turboprop,1.0,0.0,1.0,1.0
+20273.0,New England Airlines Inc.,79,Piper PA-32 (Cherokee 6),Single turboprop,34.0,13.0,128.0,6.0
+20273.0,New England Airlines Inc.,131,Pilatus Britten-Norman BN2/A Islander,Small twin turboprop,8208.0,6497.0,7930.0,7438.0
+21636.0,Gem Air LLC,131,Pilatus Britten-Norman BN2/A Islander,Small twin turboprop,0.0,5.0,12.0,0.0
+20272.0,Kenmore Air Harbor,30,Cessna 180,Single turboprop,12.0,8.0,0.0,1.0
+20272.0,Kenmore Air Harbor,40,De Havilland DHC2 Beaver,Single turboprop,785.0,438.0,483.0,820.0
+20289.0,Friday Harbor Seaplanes,40,De Havilland DHC2 Beaver,Single turboprop,470.0,289.0,738.0,641.0
+20272.0,Kenmore Air Harbor,42,De Havilland DHC3 Otter,Single turboprop,2634.0,730.0,1647.0,1818.0
+20272.0,Kenmore Air Harbor,91,Float/Amphib Turbine,Single turboprop,222.0,110.0,270.0,314.0
+19790.0,Delta Air Lines Inc.,724,A220-300 BD-500-1A11,Airbus A220,0.0,194.0,9255.0,16436.0
+20409.0,JetBlue Airways,724,A220-300 BD-500-1A11,Airbus A220,0.0,0.0,2501.0,12225.0
+22080.0,Breeze Aviation Group DBA  Breeze,724,A220-300 BD-500-1A11,Airbus A220,0.0,0.0,0.0,3410.0
+21492.0,"Eastern Airlines f/k/a Dynamic Airways, LLC",625,Boeing 767-200/ER/EM,Boeing 767,0.0,2.0,0.0,0.0
+21894.0,"ADVANCED AIR, LLC",449,Dornier 328,Dornier 328 Jet,0.0,0.0,132.0,576.0
+22080.0,Breeze Aviation Group DBA  Breeze,748,Embraer EMB195,Embraer E-jet,0.0,0.0,1765.0,3788.0
+22080.0,Breeze Aviation Group DBA  Breeze,617,Boeing 737-400,Boeing 737,0.0,0.0,0.0,2.0
+21894.0,"ADVANCED AIR, LLC",609,Bombardier BD-100-1A10 Challenger 300,Bombardier CRJ,0.0,0.0,0.0,1.0

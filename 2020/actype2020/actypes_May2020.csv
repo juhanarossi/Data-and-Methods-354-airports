@@ -1,0 +1,2630 @@
+ORIGIN_AIRPORT_ID,AIRCRAFT_TYPE,NAME,DEPARTURES_PERFORMED,PASSENGERS,ORIGIN_STATE_ABR
+10056,35.0,"Kodiak Island, AK: Trident Basin Seaplane Base",16.0,7.0,AK
+10056,40.0,"Kodiak Island, AK: Trident Basin Seaplane Base",14.0,23.0,AK
+10135,530.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",3.0,14.0,PA
+10135,629.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",27.0,116.0,PA
+10135,631.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",25.0,962.0,PA
+10135,638.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",35.0,1046.0,PA
+10135,673.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",12.0,158.0,PA
+10135,675.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",22.0,499.0,PA
+10135,694.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",40.0,3525.0,PA
+10135,698.0,"Allentown/Bethlehem/Easton, PA: Lehigh Valley International",3.0,369.0,PA
+10136,673.0,"Abilene, TX: Abilene Regional",1.0,9.0,TX
+10136,675.0,"Abilene, TX: Abilene Regional",47.0,890.0,TX
+10136,676.0,"Abilene, TX: Abilene Regional",44.0,724.0,TX
+10139,412.0,"Ambler, AK: Ambler River",3.0,0.0,AK
+10139,415.0,"Ambler, AK: Ambler River",32.0,61.0,AK
+10140,458.0,"Albuquerque, NM: Albuquerque International Sunport",62.0,48.0,NM
+10140,479.0,"Albuquerque, NM: Albuquerque International Sunport",49.0,72.0,NM
+10140,612.0,"Albuquerque, NM: Albuquerque International Sunport",202.0,7763.0,NM
+10140,614.0,"Albuquerque, NM: Albuquerque International Sunport",78.0,3444.0,NM
+10140,629.0,"Albuquerque, NM: Albuquerque International Sunport",3.0,30.0,NM
+10140,631.0,"Albuquerque, NM: Albuquerque International Sunport",19.0,514.0,NM
+10140,634.0,"Albuquerque, NM: Albuquerque International Sunport",12.0,606.0,NM
+10140,638.0,"Albuquerque, NM: Albuquerque International Sunport",34.0,988.0,NM
+10140,673.0,"Albuquerque, NM: Albuquerque International Sunport",236.0,5349.0,NM
+10140,694.0,"Albuquerque, NM: Albuquerque International Sunport",11.0,84.0,NM
+10140,698.0,"Albuquerque, NM: Albuquerque International Sunport",35.0,1262.0,NM
+10140,699.0,"Albuquerque, NM: Albuquerque International Sunport",4.0,142.0,NM
+10140,722.0,"Albuquerque, NM: Albuquerque International Sunport",5.0,47.0,NM
+10140,888.0,"Albuquerque, NM: Albuquerque International Sunport",44.0,2347.0,NM
+10141,629.0,"Aberdeen, SD: Aberdeen Regional",32.0,175.0,SD
+10146,629.0,"Albany, GA: Southwest Georgia Regional",23.0,225.0,GA
+10154,125.0,"Nantucket, MA: Nantucket Memorial",320.0,676.0,MA
+10154,479.0,"Nantucket, MA: Nantucket Memorial",20.0,64.0,MA
+10155,631.0,"Waco, TX: Waco Regional",4.0,41.0,TX
+10155,675.0,"Waco, TX: Waco Regional",44.0,539.0,TX
+10155,676.0,"Waco, TX: Waco Regional",15.0,132.0,TX
+10157,629.0,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",54.0,892.0,CA
+10157,673.0,"Arcata/Eureka, CA: California Redwood Coast Humboldt County",4.0,32.0,CA
+10158,694.0,"Atlantic City, NJ: Atlantic City International",14.0,1846.0,NJ
+10158,722.0,"Atlantic City, NJ: Atlantic City International",13.0,1127.0,NJ
+10165,612.0,"Adak Island, AK: Adak",6.0,68.0,AK
+10165,614.0,"Adak Island, AK: Adak",3.0,45.0,AK
+10170,79.0,"Kodiak, AK: Kodiak Airport",118.0,74.0,AK
+10170,416.0,"Kodiak, AK: Kodiak Airport",34.0,45.0,AK
+10170,479.0,"Kodiak, AK: Kodiak Airport",1.0,0.0,AK
+10170,612.0,"Kodiak, AK: Kodiak Airport",16.0,710.0,AK
+10170,614.0,"Kodiak, AK: Kodiak Airport",5.0,309.0,AK
+10184,416.0,"Allakaket, AK: Allakaket Airport",27.0,38.0,AK
+10185,629.0,"Alexandria, LA: Alexandria International",23.0,331.0,LA
+10185,675.0,"Alexandria, LA: Alexandria International",38.0,999.0,LA
+10185,676.0,"Alexandria, LA: Alexandria International",8.0,226.0,LA
+10204,35.0,"Angoon, AK: Angoon Seaplane Base",3.0,0.0,AK
+10204,40.0,"Angoon, AK: Angoon Seaplane Base",4.0,3.0,AK
+10204,416.0,"Angoon, AK: Angoon Seaplane Base",35.0,49.0,AK
+10208,629.0,"Augusta, GA: Augusta Regional at Bush Field",1.0,18.0,GA
+10208,631.0,"Augusta, GA: Augusta Regional at Bush Field",26.0,961.0,GA
+10208,638.0,"Augusta, GA: Augusta Regional at Bush Field",55.0,1404.0,GA
+10208,673.0,"Augusta, GA: Augusta Regional at Bush Field",30.0,1445.0,GA
+10208,675.0,"Augusta, GA: Augusta Regional at Bush Field",55.0,1902.0,GA
+10221,455.0,"Alliance, NE: Alliance Municipal",52.0,34.0,NE
+10225,416.0,"Wainwright, AK: Wainwright Airport",86.0,164.0,AK
+10237,406.0,"Atka, AK: Atka Airport",12.0,2.0,AK
+10241,35.0,"Akiak, AK: Akiak Airport",40.0,57.0,AK
+10241,36.0,"Akiak, AK: Akiak Airport",16.0,15.0,AK
+10241,79.0,"Akiak, AK: Akiak Airport",4.0,7.0,AK
+10241,416.0,"Akiak, AK: Akiak Airport",1.0,0.0,AK
+10243,79.0,"Akhiok, AK: Akhiok Airport",14.0,15.0,AK
+10243,416.0,"Akhiok, AK: Akhiok Airport",4.0,10.0,AK
+10245,35.0,"King Salmon, AK: King Salmon Airport",73.0,38.0,AK
+10245,79.0,"King Salmon, AK: King Salmon Airport",27.0,6.0,AK
+10245,194.0,"King Salmon, AK: King Salmon Airport",5.0,0.0,AK
+10245,406.0,"King Salmon, AK: King Salmon Airport",2.0,0.0,AK
+10245,416.0,"King Salmon, AK: King Salmon Airport",49.0,13.0,AK
+10245,612.0,"King Salmon, AK: King Salmon Airport",2.0,32.0,AK
+10245,614.0,"King Salmon, AK: King Salmon Airport",2.0,54.0,AK
+10247,194.0,"Anaktuvuk Pass, AK: Anaktuvuk Pass Airport",2.0,4.0,AK
+10247,416.0,"Anaktuvuk Pass, AK: Anaktuvuk Pass Airport",29.0,66.0,AK
+10247,479.0,"Anaktuvuk Pass, AK: Anaktuvuk Pass Airport",17.0,61.0,AK
+10257,612.0,"Albany, NY: Albany International",49.0,1970.0,NY
+10257,614.0,"Albany, NY: Albany International",45.0,1821.0,NY
+10257,631.0,"Albany, NY: Albany International",67.0,1182.0,NY
+10257,638.0,"Albany, NY: Albany International",44.0,794.0,NY
+10257,673.0,"Albany, NY: Albany International",3.0,53.0,NY
+10257,675.0,"Albany, NY: Albany International",72.0,1898.0,NY
+10257,694.0,"Albany, NY: Albany International",33.0,2137.0,NY
+10257,698.0,"Albany, NY: Albany International",50.0,3163.0,NY
+10257,722.0,"Albany, NY: Albany International",12.0,686.0,NY
+10268,675.0,"Waterloo, IA: Waterloo Regional",25.0,124.0,IA
+10272,479.0,"Alamosa, CO: San Luis Valley Regional/Bergman Field",106.0,196.0,CO
+10275,482.0,"Walla Walla, WA: Walla Walla Regional",57.0,1514.0,WA
+10278,35.0,"Lazy Bay, AK: Alitak Seaplane Base",4.0,1.0,AK
+10278,40.0,"Lazy Bay, AK: Alitak Seaplane Base",4.0,2.0,AK
+10279,612.0,"Amarillo, TX: Rick Husband Amarillo International",56.0,1683.0,TX
+10279,614.0,"Amarillo, TX: Rick Husband Amarillo International",5.0,124.0,TX
+10279,629.0,"Amarillo, TX: Rick Husband Amarillo International",22.0,315.0,TX
+10279,638.0,"Amarillo, TX: Rick Husband Amarillo International",105.0,2464.0,TX
+10279,673.0,"Amarillo, TX: Rick Husband Amarillo International",4.0,93.0,TX
+10279,675.0,"Amarillo, TX: Rick Husband Amarillo International",4.0,30.0,TX
+10299,406.0,"Anchorage, AK: Ted Stevens Anchorage International",2.0,8.0,AK
+10299,416.0,"Anchorage, AK: Ted Stevens Anchorage International",140.0,864.0,AK
+10299,459.0,"Anchorage, AK: Ted Stevens Anchorage International",2.0,0.0,AK
+10299,479.0,"Anchorage, AK: Ted Stevens Anchorage International",23.0,28.0,AK
+10299,612.0,"Anchorage, AK: Ted Stevens Anchorage International",205.0,7673.0,AK
+10299,614.0,"Anchorage, AK: Ted Stevens Anchorage International",148.0,7020.0,AK
+10299,634.0,"Anchorage, AK: Ted Stevens Anchorage International",24.0,1592.0,AK
+10299,888.0,"Anchorage, AK: Ted Stevens Anchorage International",167.0,13119.0,AK
+10304,35.0,"Aniak, AK: Aniak Airport",203.0,22.0,AK
+10304,416.0,"Aniak, AK: Aniak Airport",31.0,3.0,AK
+10304,479.0,"Aniak, AK: Aniak Airport",1.0,2.0,AK
+10313,35.0,"Anvik, AK: Anvik Airport",17.0,1.0,AK
+10313,416.0,"Anvik, AK: Anvik Airport",2.0,0.0,AK
+10322,416.0,"Altoona, PA: Altoona-Blair County",115.0,37.0,PA
+10324,35.0,"Amook Bay, AK: Amook Bay Airport",3.0,0.0,AK
+10324,40.0,"Amook Bay, AK: Amook Bay Airport",3.0,3.0,AK
+10333,629.0,"Alpena, MI: Alpena County Regional",38.0,99.0,MI
+10349,416.0,"Arctic Village, AK: Arctic Village Airport",31.0,42.0,AK
+10349,479.0,"Arctic Village, AK: Arctic Village Airport",1.0,0.0,AK
+10361,675.0,"Watertown, NY: Watertown International",32.0,357.0,NY
+10372,631.0,"Aspen, CO: Aspen Pitkin County Sardy Field",93.0,1238.0,CO
+10396,416.0,"Atqasuk, AK: Atqasuk Edward Burnell Sr. Memorial",52.0,127.0,AK
+10397,415.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",26.0,46.0,GA
+10397,479.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",130.0,143.0,GA
+10397,608.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1267.0,43856.0,GA
+10397,612.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1093.0,49435.0,GA
+10397,614.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",842.0,50299.0,GA
+10397,622.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",322.0,20815.0,GA
+10397,623.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1.0,73.0,GA
+10397,624.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1.0,134.0,GA
+10397,626.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",5.0,323.0,GA
+10397,629.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",701.0,9587.0,GA
+10397,631.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",2.0,105.0,GA
+10397,638.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",809.0,19409.0,GA
+10397,655.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1108.0,53150.0,GA
+10397,656.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",101.0,4897.0,GA
+10397,673.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",300.0,10177.0,GA
+10397,677.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",7.0,196.0,GA
+10397,678.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",1.0,21.0,GA
+10397,687.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",7.0,997.0,GA
+10397,694.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",33.0,2237.0,GA
+10397,698.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",412.0,21976.0,GA
+10397,699.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",656.0,45942.0,GA
+10397,722.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",89.0,10075.0,GA
+10397,723.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",4.0,157.0,GA
+10397,888.0,"Atlanta, GA: Hartsfield-Jackson Atlanta International",336.0,24086.0,GA
+10405,26.0,"Atmautluak, AK: Atmautluak Airport",21.0,26.0,AK
+10405,35.0,"Atmautluak, AK: Atmautluak Airport",77.0,98.0,AK
+10405,36.0,"Atmautluak, AK: Atmautluak Airport",15.0,10.0,AK
+10405,79.0,"Atmautluak, AK: Atmautluak Airport",8.0,8.0,AK
+10408,629.0,"Appleton, WI: Appleton International",62.0,983.0,WI
+10408,638.0,"Appleton, WI: Appleton International",42.0,659.0,WI
+10408,675.0,"Appleton, WI: Appleton International",21.0,663.0,WI
+10408,694.0,"Appleton, WI: Appleton International",22.0,1537.0,WI
+10408,698.0,"Appleton, WI: Appleton International",10.0,705.0,WI
+10409,629.0,"Watertown, SD: Watertown Regional",32.0,145.0,SD
+10414,125.0,"Augusta/Waterville, ME: Augusta State",103.0,40.0,ME
+10416,26.0,"Alakanuk, AK: Alakanuk Airport",83.0,48.0,AK
+10416,194.0,"Alakanuk, AK: Alakanuk Airport",6.0,2.0,AK
+10416,416.0,"Alakanuk, AK: Alakanuk Airport",38.0,47.0,AK
+10423,612.0,"Austin, TX: Austin - Bergstrom International",397.0,15142.0,TX
+10423,614.0,"Austin, TX: Austin - Bergstrom International",406.0,20129.0,TX
+10423,638.0,"Austin, TX: Austin - Bergstrom International",1.0,21.0,TX
+10423,655.0,"Austin, TX: Austin - Bergstrom International",1.0,39.0,TX
+10423,673.0,"Austin, TX: Austin - Bergstrom International",126.0,4258.0,TX
+10423,694.0,"Austin, TX: Austin - Bergstrom International",100.0,5929.0,TX
+10423,698.0,"Austin, TX: Austin - Bergstrom International",146.0,8157.0,TX
+10423,699.0,"Austin, TX: Austin - Bergstrom International",97.0,5516.0,TX
+10423,722.0,"Austin, TX: Austin - Bergstrom International",34.0,2943.0,TX
+10423,723.0,"Austin, TX: Austin - Bergstrom International",61.0,1973.0,TX
+10423,888.0,"Austin, TX: Austin - Bergstrom International",3.0,60.0,TX
+10431,608.0,"Asheville, NC: Asheville Regional",1.0,16.0,NC
+10431,631.0,"Asheville, NC: Asheville Regional",14.0,265.0,NC
+10431,638.0,"Asheville, NC: Asheville Regional",131.0,2963.0,NC
+10431,675.0,"Asheville, NC: Asheville Regional",31.0,196.0,NC
+10431,694.0,"Asheville, NC: Asheville Regional",49.0,4098.0,NC
+10431,698.0,"Asheville, NC: Asheville Regional",17.0,901.0,NC
+10434,629.0,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",56.0,653.0,PA
+10434,631.0,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",6.0,130.0,PA
+10434,638.0,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",55.0,2257.0,PA
+10434,675.0,"Scranton/Wilkes-Barre, PA: Wilkes Barre Scranton International",22.0,426.0,PA
+10466,694.0,"Phoenix, AZ: Phoenix - Mesa Gateway",265.0,26814.0,AZ
+10466,698.0,"Phoenix, AZ: Phoenix - Mesa Gateway",13.0,719.0,AZ
+10469,629.0,"Kalamazoo, MI: Kalamazoo/Battle Creek International",37.0,217.0,MI
+10469,631.0,"Kalamazoo, MI: Kalamazoo/Battle Creek International",1.0,1.0,MI
+10469,675.0,"Kalamazoo, MI: Kalamazoo/Battle Creek International",24.0,534.0,MI
+10529,608.0,"Hartford, CT: Bradley International",2.0,64.0,CT
+10529,612.0,"Hartford, CT: Bradley International",84.0,2910.0,CT
+10529,614.0,"Hartford, CT: Bradley International",119.0,4844.0,CT
+10529,631.0,"Hartford, CT: Bradley International",6.0,134.0,CT
+10529,638.0,"Hartford, CT: Bradley International",51.0,1112.0,CT
+10529,655.0,"Hartford, CT: Bradley International",62.0,3159.0,CT
+10529,673.0,"Hartford, CT: Bradley International",91.0,2337.0,CT
+10529,675.0,"Hartford, CT: Bradley International",40.0,1298.0,CT
+10529,677.0,"Hartford, CT: Bradley International",5.0,88.0,CT
+10529,694.0,"Hartford, CT: Bradley International",36.0,2242.0,CT
+10529,698.0,"Hartford, CT: Bradley International",100.0,6275.0,CT
+10529,699.0,"Hartford, CT: Bradley International",8.0,335.0,CT
+10529,722.0,"Hartford, CT: Bradley International",21.0,2100.0,CT
+10551,26.0,"Bethel, AK: Bethel Airport",286.0,178.0,AK
+10551,35.0,"Bethel, AK: Bethel Airport",557.0,507.0,AK
+10551,36.0,"Bethel, AK: Bethel Airport",116.0,84.0,AK
+10551,79.0,"Bethel, AK: Bethel Airport",151.0,153.0,AK
+10551,194.0,"Bethel, AK: Bethel Airport",21.0,73.0,AK
+10551,416.0,"Bethel, AK: Bethel Airport",478.0,698.0,AK
+10551,612.0,"Bethel, AK: Bethel Airport",16.0,993.0,AK
+10551,614.0,"Bethel, AK: Bethel Airport",5.0,506.0,AK
+10557,416.0,"Bradford, PA: Bradford Regional",101.0,83.0,PA
+10558,629.0,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",59.0,323.0,NE
+10558,631.0,"Scottsbluff, NE: Western Neb. Regional/William B. Heilig Field",1.0,2.0,NE
+10561,629.0,"Bakersfield, CA: Meadows Field",40.0,629.0,CA
+10561,631.0,"Bakersfield, CA: Meadows Field",36.0,1506.0,CA
+10561,638.0,"Bakersfield, CA: Meadows Field",17.0,603.0,CA
+10562,722.0,"Mobile, AL: Mobile International",4.0,17.0,AL
+10577,629.0,"Binghamton, NY: Greater Binghamton/Edwin A. Link Field",20.0,107.0,NY
+10581,631.0,"Bangor, ME: Bangor International",24.0,373.0,ME
+10581,638.0,"Bangor, ME: Bangor International",42.0,726.0,ME
+10581,675.0,"Bangor, ME: Bangor International",48.0,911.0,ME
+10581,694.0,"Bangor, ME: Bangor International",12.0,435.0,ME
+10581,698.0,"Bangor, ME: Bangor International",13.0,517.0,ME
+10589,125.0,"Bar Harbor, ME: Hancock County-Bar Harbor",70.0,33.0,ME
+10589,456.0,"Bar Harbor, ME: Hancock County-Bar Harbor",12.0,16.0,ME
+10599,530.0,"Birmingham, AL: Birmingham-Shuttlesworth International",1.0,7.0,AL
+10599,608.0,"Birmingham, AL: Birmingham-Shuttlesworth International",62.0,2301.0,AL
+10599,612.0,"Birmingham, AL: Birmingham-Shuttlesworth International",82.0,3997.0,AL
+10599,614.0,"Birmingham, AL: Birmingham-Shuttlesworth International",14.0,659.0,AL
+10599,629.0,"Birmingham, AL: Birmingham-Shuttlesworth International",3.0,29.0,AL
+10599,631.0,"Birmingham, AL: Birmingham-Shuttlesworth International",67.0,2565.0,AL
+10599,638.0,"Birmingham, AL: Birmingham-Shuttlesworth International",51.0,2079.0,AL
+10599,673.0,"Birmingham, AL: Birmingham-Shuttlesworth International",132.0,4818.0,AL
+10599,675.0,"Birmingham, AL: Birmingham-Shuttlesworth International",3.0,40.0,AL
+10613,79.0,"Block Island, RI: Block Island State",1.0,0.0,RI
+10613,131.0,"Block Island, RI: Block Island State",90.0,229.0,RI
+10620,125.0,"Billings, MT: Billings Logan International",401.0,848.0,MT
+10620,482.0,"Billings, MT: Billings Logan International",30.0,1001.0,MT
+10620,673.0,"Billings, MT: Billings Logan International",138.0,3947.0,MT
+10620,694.0,"Billings, MT: Billings Logan International",12.0,833.0,MT
+10620,698.0,"Billings, MT: Billings Logan International",7.0,433.0,MT
+10620,721.0,"Billings, MT: Billings Logan International",1.0,65.0,MT
+10620,722.0,"Billings, MT: Billings Logan International",4.0,301.0,MT
+10627,631.0,"Bismarck/Mandan, ND: Bismarck Municipal",48.0,1181.0,ND
+10627,638.0,"Bismarck/Mandan, ND: Bismarck Municipal",63.0,1432.0,ND
+10627,673.0,"Bismarck/Mandan, ND: Bismarck Municipal",27.0,570.0,ND
+10627,694.0,"Bismarck/Mandan, ND: Bismarck Municipal",9.0,798.0,ND
+10627,698.0,"Bismarck/Mandan, ND: Bismarck Municipal",8.0,486.0,ND
+10631,403.0,"Bemidji, MN: Bemidji Regional",17.0,0.0,MN
+10631,404.0,"Bemidji, MN: Bemidji Regional",2.0,0.0,MN
+10631,629.0,"Bemidji, MN: Bemidji Regional",31.0,256.0,MN
+10640,194.0,"Buckland, AK: Buckland Airport",2.0,0.0,AK
+10640,412.0,"Buckland, AK: Buckland Airport",1.0,0.0,AK
+10640,415.0,"Buckland, AK: Buckland Airport",42.0,90.0,AK
+10654,669.0,"Beckley, WV: Raleigh County Memorial",9.0,23.0,WV
+10654,674.0,"Beckley, WV: Raleigh County Memorial",95.0,272.0,WV
+10666,482.0,"Bellingham, WA: Bellingham International",22.0,609.0,WA
+10676,694.0,"Belleville, IL: Scott AFB MidAmerica St Louis",47.0,4611.0,IL
+10676,698.0,"Belleville, IL: Scott AFB MidAmerica St Louis",18.0,1446.0,IL
+10685,638.0,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",56.0,1227.0,IL
+10685,694.0,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",10.0,900.0,IL
+10685,698.0,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",8.0,611.0,IL
+10685,722.0,"Bloomington/Normal, IL: Central Il Regional Airport at Bloomington",6.0,135.0,IL
+10693,125.0,"Nashville, TN: Nashville International",110.0,68.0,TN
+10693,608.0,"Nashville, TN: Nashville International",62.0,2081.0,TN
+10693,612.0,"Nashville, TN: Nashville International",817.0,36497.0,TN
+10693,614.0,"Nashville, TN: Nashville International",535.0,28124.0,TN
+10693,631.0,"Nashville, TN: Nashville International",69.0,1971.0,TN
+10693,638.0,"Nashville, TN: Nashville International",1.0,17.0,TN
+10693,655.0,"Nashville, TN: Nashville International",62.0,2272.0,TN
+10693,673.0,"Nashville, TN: Nashville International",202.0,5069.0,TN
+10693,674.0,"Nashville, TN: Nashville International",80.0,284.0,TN
+10693,694.0,"Nashville, TN: Nashville International",35.0,1327.0,TN
+10693,698.0,"Nashville, TN: Nashville International",199.0,13979.0,TN
+10693,699.0,"Nashville, TN: Nashville International",42.0,2997.0,TN
+10693,722.0,"Nashville, TN: Nashville International",27.0,2043.0,TN
+10693,888.0,"Nashville, TN: Nashville International",27.0,1925.0,TN
+10713,35.0,"Boise, ID: Boise Air Terminal",11.0,4.0,ID
+10713,36.0,"Boise, ID: Boise Air Terminal",1.0,1.0,ID
+10713,194.0,"Boise, ID: Boise Air Terminal",1.0,0.0,ID
+10713,482.0,"Boise, ID: Boise Air Terminal",67.0,2126.0,ID
+10713,612.0,"Boise, ID: Boise Air Terminal",79.0,4987.0,ID
+10713,614.0,"Boise, ID: Boise Air Terminal",20.0,1664.0,ID
+10713,629.0,"Boise, ID: Boise Air Terminal",7.0,79.0,ID
+10713,631.0,"Boise, ID: Boise Air Terminal",17.0,758.0,ID
+10713,673.0,"Boise, ID: Boise Air Terminal",485.0,14213.0,ID
+10713,698.0,"Boise, ID: Boise Air Terminal",27.0,1508.0,ID
+10721,125.0,"Boston, MA: Logan International",863.0,876.0,MA
+10721,456.0,"Boston, MA: Logan International",12.0,10.0,MA
+10721,479.0,"Boston, MA: Logan International",87.0,52.0,MA
+10721,612.0,"Boston, MA: Logan International",147.0,4906.0,MA
+10721,614.0,"Boston, MA: Logan International",432.0,25081.0,MA
+10721,631.0,"Boston, MA: Logan International",0.0,0.0,MA
+10721,638.0,"Boston, MA: Logan International",21.0,500.0,MA
+10721,673.0,"Boston, MA: Logan International",189.0,3785.0,MA
+10721,675.0,"Boston, MA: Logan International",5.0,34.0,MA
+10721,677.0,"Boston, MA: Logan International",55.0,1537.0,MA
+10721,678.0,"Boston, MA: Logan International",243.0,4720.0,MA
+10721,687.0,"Boston, MA: Logan International",1.0,15.0,MA
+10721,694.0,"Boston, MA: Logan International",245.0,12430.0,MA
+10721,698.0,"Boston, MA: Logan International",164.0,5123.0,MA
+10721,699.0,"Boston, MA: Logan International",413.0,27786.0,MA
+10721,722.0,"Boston, MA: Logan International",17.0,1759.0,MA
+10721,888.0,"Boston, MA: Logan International",68.0,3824.0,MA
+10728,675.0,"Beaumont/Port Arthur, TX: Jack Brooks Regional",5.0,77.0,TX
+10728,676.0,"Beaumont/Port Arthur, TX: Jack Brooks Regional",27.0,539.0,TX
+10731,629.0,"Brunswick, GA: Brunswick Golden Isles",26.0,283.0,GA
+10739,629.0,"Brainerd, MN: Brainerd Lakes Regional",34.0,126.0,MN
+10739,638.0,"Brainerd, MN: Brainerd Lakes Regional",1.0,0.0,MN
+10744,415.0,"Burlington, IA: Southeast Iowa Regional",102.0,81.0,IA
+10747,638.0,"Brownsville, TX: Brownsville South Padre Island International",1.0,32.0,TX
+10747,673.0,"Brownsville, TX: Brownsville South Padre Island International",5.0,79.0,TX
+10747,675.0,"Brownsville, TX: Brownsville South Padre Island International",48.0,933.0,TX
+10747,676.0,"Brownsville, TX: Brownsville South Padre Island International",23.0,714.0,TX
+10754,416.0,"Barrow, AK: Wiley Post/Will Rogers Memorial",167.0,293.0,AK
+10754,612.0,"Barrow, AK: Wiley Post/Will Rogers Memorial",20.0,898.0,AK
+10754,614.0,"Barrow, AK: Wiley Post/Will Rogers Memorial",1.0,52.0,AK
+10775,416.0,"Barter Island, AK: Barter Island Airport",45.0,83.0,AK
+10775,479.0,"Barter Island, AK: Barter Island Airport",15.0,18.0,AK
+10779,629.0,"Butte, MT: Bert Mooney",31.0,244.0,MT
+10781,614.0,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",1.0,60.0,LA
+10781,631.0,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",59.0,1253.0,LA
+10781,638.0,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",31.0,527.0,LA
+10781,673.0,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",87.0,2311.0,LA
+10781,675.0,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",49.0,749.0,LA
+10781,676.0,"Baton Rouge, LA: Baton Rouge Metropolitan/Ryan Field",5.0,70.0,LA
+10783,416.0,"Bettles, AK: Bettles Airport",19.0,35.0,AK
+10785,629.0,"Burlington, VT: Burlington International",34.0,303.0,VT
+10785,631.0,"Burlington, VT: Burlington International",60.0,1116.0,VT
+10785,638.0,"Burlington, VT: Burlington International",30.0,794.0,VT
+10785,673.0,"Burlington, VT: Burlington International",53.0,539.0,VT
+10785,675.0,"Burlington, VT: Burlington International",39.0,552.0,VT
+10785,678.0,"Burlington, VT: Burlington International",18.0,120.0,VT
+10785,722.0,"Burlington, VT: Burlington International",4.0,229.0,VT
+10792,612.0,"Buffalo, NY: Buffalo Niagara International",176.0,5411.0,NY
+10792,614.0,"Buffalo, NY: Buffalo Niagara International",52.0,1820.0,NY
+10792,629.0,"Buffalo, NY: Buffalo Niagara International",28.0,312.0,NY
+10792,631.0,"Buffalo, NY: Buffalo Niagara International",1.0,39.0,NY
+10792,638.0,"Buffalo, NY: Buffalo Niagara International",56.0,926.0,NY
+10792,656.0,"Buffalo, NY: Buffalo Niagara International",31.0,1081.0,NY
+10792,673.0,"Buffalo, NY: Buffalo Niagara International",148.0,4365.0,NY
+10792,675.0,"Buffalo, NY: Buffalo Niagara International",47.0,775.0,NY
+10792,678.0,"Buffalo, NY: Buffalo Niagara International",52.0,661.0,NY
+10792,694.0,"Buffalo, NY: Buffalo Niagara International",1.0,51.0,NY
+10792,698.0,"Buffalo, NY: Buffalo Niagara International",16.0,346.0,NY
+10792,722.0,"Buffalo, NY: Buffalo Niagara International",12.0,929.0,NY
+10800,612.0,"Burbank, CA: Bob Hope",390.0,13204.0,CA
+10800,614.0,"Burbank, CA: Bob Hope",90.0,3169.0,CA
+10800,629.0,"Burbank, CA: Bob Hope",26.0,457.0,CA
+10800,631.0,"Burbank, CA: Bob Hope",61.0,1304.0,CA
+10800,638.0,"Burbank, CA: Bob Hope",3.0,51.0,CA
+10800,673.0,"Burbank, CA: Bob Hope",97.0,2591.0,CA
+10821,416.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",212.0,63.0,MD
+10821,479.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",49.0,42.0,MD
+10821,612.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1705.0,69755.0,MD
+10821,614.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1042.0,47827.0,MD
+10821,629.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1.0,15.0,MD
+10821,631.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",24.0,491.0,MD
+10821,638.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",1.0,38.0,MD
+10821,669.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",2.0,5.0,MD
+10821,673.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",6.0,139.0,MD
+10821,674.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",52.0,226.0,MD
+10821,675.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",19.0,547.0,MD
+10821,694.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",38.0,2460.0,MD
+10821,698.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",122.0,5573.0,MD
+10821,699.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",29.0,2167.0,MD
+10821,722.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",18.0,2175.0,MD
+10821,888.0,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall",66.0,2810.0,MD
+10849,482.0,"Bozeman, MT: Bozeman Yellowstone International",25.0,687.0,MT
+10849,614.0,"Bozeman, MT: Bozeman Yellowstone International",27.0,1307.0,MT
+10849,673.0,"Bozeman, MT: Bozeman Yellowstone International",115.0,2597.0,MT
+10849,694.0,"Bozeman, MT: Bozeman Yellowstone International",9.0,292.0,MT
+10849,698.0,"Bozeman, MT: Bozeman Yellowstone International",12.0,580.0,MT
+10849,722.0,"Bozeman, MT: Bozeman Yellowstone International",6.0,375.0,MT
+10849,888.0,"Bozeman, MT: Bozeman Yellowstone International",1.0,16.0,MT
+10868,608.0,"Columbia, SC: Columbia Metropolitan",62.0,1549.0,SC
+10868,629.0,"Columbia, SC: Columbia Metropolitan",29.0,270.0,SC
+10868,631.0,"Columbia, SC: Columbia Metropolitan",68.0,2022.0,SC
+10868,638.0,"Columbia, SC: Columbia Metropolitan",51.0,1723.0,SC
+10868,673.0,"Columbia, SC: Columbia Metropolitan",24.0,976.0,SC
+10868,675.0,"Columbia, SC: Columbia Metropolitan",42.0,440.0,SC
+10874,530.0,"Akron, OH: Akron-Canton Regional",33.0,556.0,OH
+10874,614.0,"Akron, OH: Akron-Canton Regional",2.0,30.0,OH
+10874,631.0,"Akron, OH: Akron-Canton Regional",56.0,1859.0,OH
+10874,638.0,"Akron, OH: Akron-Canton Regional",14.0,274.0,OH
+10874,675.0,"Akron, OH: Akron-Canton Regional",4.0,20.0,OH
+10917,194.0,"Cold Bay, AK: Cold Bay Airport",82.0,80.0,AK
+10917,406.0,"Cold Bay, AK: Cold Bay Airport",8.0,24.0,AK
+10917,459.0,"Cold Bay, AK: Cold Bay Airport",1.0,0.0,AK
+10917,612.0,"Cold Bay, AK: Cold Bay Airport",6.0,159.0,AK
+10917,614.0,"Cold Bay, AK: Cold Bay Airport",5.0,142.0,AK
+10925,479.0,"Chadron, NE: Chadron Municipal",56.0,105.0,NE
+10926,612.0,"Cordova, AK: Merle K Mudhole Smith",32.0,345.0,AK
+10926,614.0,"Cordova, AK: Merle K Mudhole Smith",2.0,15.0,AK
+10926,634.0,"Cordova, AK: Merle K Mudhole Smith",14.0,196.0,AK
+10926,888.0,"Cordova, AK: Merle K Mudhole Smith",14.0,149.0,AK
+10930,674.0,"Crescent City, CA: Jack McNamara Field",31.0,142.0,CA
+10938,194.0,"Central, AK: Central Airport",20.0,2.0,AK
+10950,479.0,"Cortez, CO: Cortez Municipal",118.0,282.0,CO
+10961,40.0,"Craig, AK: Craig Seaplane Base",48.0,11.0,AK
+10967,629.0,"Cape Girardeau, MO: Cape Girardeau Regional",29.0,142.0,MO
+10980,629.0,"Chattanooga, TN: Lovell Field",5.0,23.0,TN
+10980,631.0,"Chattanooga, TN: Lovell Field",52.0,2221.0,TN
+10980,638.0,"Chattanooga, TN: Lovell Field",99.0,3521.0,TN
+10980,673.0,"Chattanooga, TN: Lovell Field",1.0,11.0,TN
+10980,675.0,"Chattanooga, TN: Lovell Field",21.0,325.0,TN
+10980,694.0,"Chattanooga, TN: Lovell Field",8.0,759.0,TN
+10980,698.0,"Chattanooga, TN: Lovell Field",3.0,215.0,TN
+10990,608.0,"Charlottesville, VA: Charlottesville Albemarle",2.0,11.0,VA
+10990,629.0,"Charlottesville, VA: Charlottesville Albemarle",29.0,343.0,VA
+10990,631.0,"Charlottesville, VA: Charlottesville Albemarle",34.0,1120.0,VA
+10990,638.0,"Charlottesville, VA: Charlottesville Albemarle",28.0,830.0,VA
+10990,675.0,"Charlottesville, VA: Charlottesville Albemarle",28.0,245.0,VA
+10994,608.0,"Charleston, SC: Charleston AFB/International",41.0,1151.0,SC
+10994,612.0,"Charleston, SC: Charleston AFB/International",117.0,4628.0,SC
+10994,614.0,"Charleston, SC: Charleston AFB/International",38.0,1349.0,SC
+10994,629.0,"Charleston, SC: Charleston AFB/International",1.0,6.0,SC
+10994,631.0,"Charleston, SC: Charleston AFB/International",31.0,988.0,SC
+10994,638.0,"Charleston, SC: Charleston AFB/International",90.0,4273.0,SC
+10994,655.0,"Charleston, SC: Charleston AFB/International",26.0,1159.0,SC
+10994,673.0,"Charleston, SC: Charleston AFB/International",195.0,6256.0,SC
+10994,675.0,"Charleston, SC: Charleston AFB/International",6.0,44.0,SC
+10994,677.0,"Charleston, SC: Charleston AFB/International",1.0,18.0,SC
+10994,678.0,"Charleston, SC: Charleston AFB/International",19.0,462.0,SC
+10994,694.0,"Charleston, SC: Charleston AFB/International",23.0,1215.0,SC
+10994,698.0,"Charleston, SC: Charleston AFB/International",20.0,779.0,SC
+10994,699.0,"Charleston, SC: Charleston AFB/International",6.0,214.0,SC
+10994,888.0,"Charleston, SC: Charleston AFB/International",13.0,350.0,SC
+10996,35.0,"Chuathbaluk, AK: Chuathbaluk Airport",14.0,0.0,AK
+11003,530.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",58.0,719.0,IA
+11003,629.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",2.0,11.0,IA
+11003,631.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",105.0,2390.0,IA
+11003,638.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",52.0,782.0,IA
+11003,673.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",7.0,172.0,IA
+11003,675.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",18.0,186.0,IA
+11003,694.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",33.0,2312.0,IA
+11003,698.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",9.0,595.0,IA
+11003,722.0,"Cedar Rapids/Iowa City, IA: The Eastern Iowa",6.0,397.0,IA
+11007,416.0,"Chalkyitsik, AK: Chalkyitsik Airport",15.0,21.0,AK
+11013,629.0,"Sault Ste. Marie, MI: Chippewa County International",56.0,169.0,MI
+11027,629.0,"Clarksburg/Fairmont, WV: North Central West Virginia",54.0,166.0,WV
+11027,694.0,"Clarksburg/Fairmont, WV: North Central West Virginia",3.0,204.0,WV
+11027,698.0,"Clarksburg/Fairmont, WV: North Central West Virginia",3.0,180.0,WV
+11028,35.0,"Crooked Creek, AK: Crooked Creek Airport",9.0,2.0,AK
+11028,416.0,"Crooked Creek, AK: Crooked Creek Airport",3.0,0.0,AK
+11036,35.0,"Chicken, AK: Chicken Airport",9.0,1.0,AK
+11042,608.0,"Cleveland, OH: Cleveland-Hopkins International",62.0,2690.0,OH
+11042,612.0,"Cleveland, OH: Cleveland-Hopkins International",195.0,8118.0,OH
+11042,614.0,"Cleveland, OH: Cleveland-Hopkins International",74.0,3170.0,OH
+11042,631.0,"Cleveland, OH: Cleveland-Hopkins International",8.0,186.0,OH
+11042,638.0,"Cleveland, OH: Cleveland-Hopkins International",94.0,2628.0,OH
+11042,673.0,"Cleveland, OH: Cleveland-Hopkins International",81.0,3132.0,OH
+11042,675.0,"Cleveland, OH: Cleveland-Hopkins International",70.0,1838.0,OH
+11042,678.0,"Cleveland, OH: Cleveland-Hopkins International",18.0,292.0,OH
+11042,694.0,"Cleveland, OH: Cleveland-Hopkins International",70.0,6847.0,OH
+11042,698.0,"Cleveland, OH: Cleveland-Hopkins International",58.0,4967.0,OH
+11042,722.0,"Cleveland, OH: Cleveland-Hopkins International",74.0,8325.0,OH
+11042,888.0,"Cleveland, OH: Cleveland-Hopkins International",8.0,323.0,OH
+11049,631.0,"College Station/Bryan, TX: Easterwood Field",9.0,92.0,TX
+11049,675.0,"College Station/Bryan, TX: Easterwood Field",46.0,625.0,TX
+11049,676.0,"College Station/Bryan, TX: Easterwood Field",23.0,373.0,TX
+11053,35.0,"Clarks Point, AK: Clarks Point Airport",20.0,10.0,AK
+11053,416.0,"Clarks Point, AK: Clarks Point Airport",15.0,16.0,AK
+11057,608.0,"Charlotte, NC: Charlotte Douglas International",120.0,4557.0,NC
+11057,612.0,"Charlotte, NC: Charlotte Douglas International",73.0,2962.0,NC
+11057,614.0,"Charlotte, NC: Charlotte Douglas International",341.0,25603.0,NC
+11057,631.0,"Charlotte, NC: Charlotte Douglas International",1269.0,40108.0,NC
+11057,638.0,"Charlotte, NC: Charlotte Douglas International",2464.0,93239.0,NC
+11057,669.0,"Charlotte, NC: Charlotte Douglas International",4.0,7.0,NC
+11057,673.0,"Charlotte, NC: Charlotte Douglas International",765.0,30355.0,NC
+11057,674.0,"Charlotte, NC: Charlotte Douglas International",49.0,143.0,NC
+11057,675.0,"Charlotte, NC: Charlotte Douglas International",1037.0,19359.0,NC
+11057,677.0,"Charlotte, NC: Charlotte Douglas International",3.0,39.0,NC
+11057,678.0,"Charlotte, NC: Charlotte Douglas International",18.0,341.0,NC
+11057,694.0,"Charlotte, NC: Charlotte Douglas International",762.0,54014.0,NC
+11057,698.0,"Charlotte, NC: Charlotte Douglas International",719.0,43614.0,NC
+11057,699.0,"Charlotte, NC: Charlotte Douglas International",1445.0,140504.0,NC
+11057,721.0,"Charlotte, NC: Charlotte Douglas International",19.0,2636.0,NC
+11057,722.0,"Charlotte, NC: Charlotte Douglas International",5.0,461.0,NC
+11066,530.0,"Columbus, OH: John Glenn Columbus International",5.0,56.0,OH
+11066,608.0,"Columbus, OH: John Glenn Columbus International",1.0,21.0,OH
+11066,612.0,"Columbus, OH: John Glenn Columbus International",240.0,8825.0,OH
+11066,614.0,"Columbus, OH: John Glenn Columbus International",171.0,6692.0,OH
+11066,631.0,"Columbus, OH: John Glenn Columbus International",2.0,61.0,OH
+11066,638.0,"Columbus, OH: John Glenn Columbus International",36.0,763.0,OH
+11066,655.0,"Columbus, OH: John Glenn Columbus International",61.0,2913.0,OH
+11066,656.0,"Columbus, OH: John Glenn Columbus International",1.0,39.0,OH
+11066,673.0,"Columbus, OH: John Glenn Columbus International",365.0,11359.0,OH
+11066,675.0,"Columbus, OH: John Glenn Columbus International",21.0,540.0,OH
+11066,677.0,"Columbus, OH: John Glenn Columbus International",32.0,675.0,OH
+11066,694.0,"Columbus, OH: John Glenn Columbus International",31.0,946.0,OH
+11066,698.0,"Columbus, OH: John Glenn Columbus International",6.0,251.0,OH
+11066,721.0,"Columbus, OH: John Glenn Columbus International",1.0,41.0,OH
+11066,722.0,"Columbus, OH: John Glenn Columbus International",23.0,2513.0,OH
+11067,675.0,"Champaign/Urbana, IL: University of Illinois/Willard",54.0,449.0,IL
+11067,676.0,"Champaign/Urbana, IL: University of Illinois/Willard",22.0,285.0,IL
+11076,629.0,"Hancock/Houghton, MI: Houghton County Memorial",61.0,381.0,MI
+11085,479.0,"Carlsbad, NM: Cavern City Air Terminal",79.0,162.0,NM
+11092,629.0,"Moab, UT: Canyonlands Regional",59.0,365.0,UT
+11097,629.0,"Cody, WY: Yellowstone Regional",36.0,404.0,WY
+11109,614.0,"Colorado Springs, CO: City of Colorado Springs Municipal",13.0,594.0,CO
+11109,629.0,"Colorado Springs, CO: City of Colorado Springs Municipal",66.0,1393.0,CO
+11109,631.0,"Colorado Springs, CO: City of Colorado Springs Municipal",63.0,2750.0,CO
+11109,638.0,"Colorado Springs, CO: City of Colorado Springs Municipal",12.0,377.0,CO
+11109,673.0,"Colorado Springs, CO: City of Colorado Springs Municipal",37.0,1263.0,CO
+11109,694.0,"Colorado Springs, CO: City of Colorado Springs Municipal",1.0,67.0,CO
+11109,698.0,"Colorado Springs, CO: City of Colorado Springs Municipal",1.0,45.0,CO
+11109,722.0,"Colorado Springs, CO: City of Colorado Springs Municipal",13.0,931.0,CO
+11111,629.0,"Columbia, MO: Columbia Regional",29.0,239.0,MO
+11111,631.0,"Columbia, MO: Columbia Regional",5.0,47.0,MO
+11111,675.0,"Columbia, MO: Columbia Regional",45.0,610.0,MO
+11111,676.0,"Columbia, MO: Columbia Regional",5.0,92.0,MO
+11122,629.0,"Casper, WY: Casper/Natrona County International",81.0,1075.0,WY
+11126,125.0,"Culebra, PR: Benjamin Rivera Noriega",35.0,46.0,PR
+11126,131.0,"Culebra, PR: Benjamin Rivera Noriega",116.0,112.0,PR
+11140,612.0,"Corpus Christi, TX: Corpus Christi International",58.0,985.0,TX
+11140,614.0,"Corpus Christi, TX: Corpus Christi International",3.0,46.0,TX
+11140,631.0,"Corpus Christi, TX: Corpus Christi International",51.0,1468.0,TX
+11140,638.0,"Corpus Christi, TX: Corpus Christi International",2.0,33.0,TX
+11140,673.0,"Corpus Christi, TX: Corpus Christi International",36.0,1499.0,TX
+11140,675.0,"Corpus Christi, TX: Corpus Christi International",58.0,982.0,TX
+11140,676.0,"Corpus Christi, TX: Corpus Christi International",4.0,96.0,TX
+11146,629.0,"Charleston/Dunbar, WV: West Virginia International Yeager",40.0,504.0,WV
+11146,631.0,"Charleston/Dunbar, WV: West Virginia International Yeager",41.0,789.0,WV
+11146,638.0,"Charleston/Dunbar, WV: West Virginia International Yeager",24.0,820.0,WV
+11146,694.0,"Charleston/Dunbar, WV: West Virginia International Yeager",1.0,52.0,WV
+11146,722.0,"Charleston/Dunbar, WV: West Virginia International Yeager",4.0,224.0,WV
+11150,629.0,"Columbus, GA: Columbus Airport",28.0,423.0,GA
+11193,612.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",61.0,1927.0,KY
+11193,614.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",124.0,5629.0,KY
+11193,629.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",1.0,12.0,KY
+11193,631.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",42.0,1373.0,KY
+11193,638.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",204.0,6184.0,KY
+11193,673.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",164.0,5900.0,KY
+11193,675.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",71.0,1536.0,KY
+11193,677.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",8.0,171.0,KY
+11193,694.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",144.0,15860.0,KY
+11193,698.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",19.0,1350.0,KY
+11193,722.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",40.0,4322.0,KY
+11193,888.0,"Cincinnati, OH: Cincinnati/Northern Kentucky International",4.0,206.0,KY
+11197,632.0,"Clovis, NM: Clovis Regional",54.0,54.0,NM
+11203,629.0,"Mosinee, WI: Central Wisconsin",53.0,661.0,WI
+11203,675.0,"Mosinee, WI: Central Wisconsin",20.0,532.0,WI
+11214,416.0,"Coldfoot, AK: Coldfoot Airport",3.0,4.0,AK
+11227,26.0,"Chefornak, AK: Chefornak Airport",33.0,26.0,AK
+11227,35.0,"Chefornak, AK: Chefornak Airport",35.0,31.0,AK
+11227,79.0,"Chefornak, AK: Chefornak Airport",12.0,10.0,AK
+11227,194.0,"Chefornak, AK: Chefornak Airport",2.0,7.0,AK
+11227,416.0,"Chefornak, AK: Chefornak Airport",35.0,126.0,AK
+11245,35.0,"Chisana, AK: Chisana Airport",8.0,2.0,AK
+11252,614.0,"Daytona Beach, FL: Daytona Beach International",1.0,15.0,FL
+11252,631.0,"Daytona Beach, FL: Daytona Beach International",2.0,103.0,FL
+11252,638.0,"Daytona Beach, FL: Daytona Beach International",59.0,3200.0,FL
+11252,655.0,"Daytona Beach, FL: Daytona Beach International",30.0,1331.0,FL
+11252,656.0,"Daytona Beach, FL: Daytona Beach International",1.0,37.0,FL
+11252,698.0,"Daytona Beach, FL: Daytona Beach International",4.0,133.0,FL
+11259,608.0,"Dallas, TX: Dallas Love Field",31.0,1275.0,TX
+11259,612.0,"Dallas, TX: Dallas Love Field",1492.0,73777.0,TX
+11259,614.0,"Dallas, TX: Dallas Love Field",802.0,45708.0,TX
+11259,673.0,"Dallas, TX: Dallas Love Field",35.0,1177.0,TX
+11267,608.0,"Dayton, OH: James M Cox/Dayton International",1.0,20.0,OH
+11267,629.0,"Dayton, OH: James M Cox/Dayton International",126.0,1669.0,OH
+11267,631.0,"Dayton, OH: James M Cox/Dayton International",64.0,834.0,OH
+11267,638.0,"Dayton, OH: James M Cox/Dayton International",110.0,3401.0,OH
+11267,673.0,"Dayton, OH: James M Cox/Dayton International",7.0,77.0,OH
+11267,675.0,"Dayton, OH: James M Cox/Dayton International",58.0,644.0,OH
+11267,676.0,"Dayton, OH: James M Cox/Dayton International",1.0,12.0,OH
+11267,694.0,"Dayton, OH: James M Cox/Dayton International",17.0,1557.0,OH
+11267,698.0,"Dayton, OH: James M Cox/Dayton International",3.0,165.0,OH
+11274,675.0,"Dubuque, IA: Dubuque Regional",20.0,276.0,IA
+11278,612.0,"Washington, DC: Ronald Reagan Washington National",331.0,10437.0,VA
+11278,614.0,"Washington, DC: Ronald Reagan Washington National",283.0,8375.0,VA
+11278,631.0,"Washington, DC: Ronald Reagan Washington National",10.0,72.0,VA
+11278,638.0,"Washington, DC: Ronald Reagan Washington National",3.0,23.0,VA
+11278,673.0,"Washington, DC: Ronald Reagan Washington National",289.0,6677.0,VA
+11278,675.0,"Washington, DC: Ronald Reagan Washington National",4.0,38.0,VA
+11278,677.0,"Washington, DC: Ronald Reagan Washington National",2.0,20.0,VA
+11278,678.0,"Washington, DC: Ronald Reagan Washington National",45.0,1102.0,VA
+11278,694.0,"Washington, DC: Ronald Reagan Washington National",162.0,6788.0,VA
+11278,698.0,"Washington, DC: Ronald Reagan Washington National",329.0,11588.0,VA
+11278,699.0,"Washington, DC: Ronald Reagan Washington National",70.0,2068.0,VA
+11278,721.0,"Washington, DC: Ronald Reagan Washington National",149.0,8183.0,VA
+11278,722.0,"Washington, DC: Ronald Reagan Washington National",35.0,3046.0,VA
+11283,629.0,"Dodge City, KS: Dodge City Regional",32.0,71.0,KS
+11288,125.0,"Decatur, IL: Decatur Airport",0.0,0.0,IL
+11288,629.0,"Decatur, IL: Decatur Airport",32.0,47.0,IL
+11292,455.0,"Denver, CO: Denver International",52.0,36.0,CO
+11292,479.0,"Denver, CO: Denver International",305.0,454.0,CO
+11292,612.0,"Denver, CO: Denver International",1578.0,76330.0,CO
+11292,614.0,"Denver, CO: Denver International",1748.0,105705.0,CO
+11292,622.0,"Denver, CO: Denver International",4.0,326.0,CO
+11292,623.0,"Denver, CO: Denver International",21.0,2174.0,CO
+11292,626.0,"Denver, CO: Denver International",5.0,453.0,CO
+11292,627.0,"Denver, CO: Denver International",14.0,1295.0,CO
+11292,629.0,"Denver, CO: Denver International",1031.0,14377.0,CO
+11292,631.0,"Denver, CO: Denver International",514.0,10675.0,CO
+11292,632.0,"Denver, CO: Denver International",54.0,50.0,CO
+11292,634.0,"Denver, CO: Denver International",4.0,372.0,CO
+11292,637.0,"Denver, CO: Denver International",2.0,264.0,CO
+11292,673.0,"Denver, CO: Denver International",1181.0,29104.0,CO
+11292,675.0,"Denver, CO: Denver International",18.0,156.0,CO
+11292,677.0,"Denver, CO: Denver International",13.0,219.0,CO
+11292,694.0,"Denver, CO: Denver International",464.0,24571.0,CO
+11292,698.0,"Denver, CO: Denver International",553.0,25779.0,CO
+11292,699.0,"Denver, CO: Denver International",77.0,8695.0,CO
+11292,721.0,"Denver, CO: Denver International",2.0,189.0,CO
+11292,722.0,"Denver, CO: Denver International",742.0,70724.0,CO
+11292,723.0,"Denver, CO: Denver International",92.0,3005.0,CO
+11292,887.0,"Denver, CO: Denver International",2.0,265.0,CO
+11292,888.0,"Denver, CO: Denver International",222.0,15827.0,CO
+11292,889.0,"Denver, CO: Denver International",5.0,650.0,CO
+11298,416.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",183.0,356.0,TX
+11298,458.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",51.0,94.0,TX
+11298,479.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",87.0,171.0,TX
+11298,614.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",2790.0,227780.0,TX
+11298,627.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",6.0,288.0,TX
+11298,629.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",64.0,724.0,TX
+11298,631.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",954.0,28584.0,TX
+11298,634.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",4.0,326.0,TX
+11298,637.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",3.0,315.0,TX
+11298,638.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1660.0,64646.0,TX
+11298,655.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1.0,46.0,TX
+11298,673.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1953.0,77991.0,TX
+11298,675.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",639.0,12670.0,TX
+11298,676.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",659.0,11210.0,TX
+11298,677.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1.0,35.0,TX
+11298,694.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",47.0,3158.0,TX
+11298,698.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",1158.0,73381.0,TX
+11298,699.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",819.0,70355.0,TX
+11298,721.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",23.0,2642.0,TX
+11298,722.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",73.0,8607.0,TX
+11298,723.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",104.0,4758.0,TX
+11298,887.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",12.0,1508.0,TX
+11298,888.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",58.0,3912.0,TX
+11298,889.0,"Dallas/Fort Worth, TX: Dallas/Fort Worth International",22.0,4304.0,TX
+11308,629.0,"Dothan, AL: Dothan Regional",29.0,448.0,AL
+11315,629.0,"Dickinson, ND: Dickinson - Theodore Roosevelt Regional",26.0,268.0,ND
+11336,26.0,"Dillingham, AK: Dillingham Airport",1.0,1.0,AK
+11336,35.0,"Dillingham, AK: Dillingham Airport",128.0,78.0,AK
+11336,79.0,"Dillingham, AK: Dillingham Airport",2.0,0.0,AK
+11336,194.0,"Dillingham, AK: Dillingham Airport",1.0,2.0,AK
+11336,416.0,"Dillingham, AK: Dillingham Airport",106.0,152.0,AK
+11336,612.0,"Dillingham, AK: Dillingham Airport",6.0,117.0,AK
+11337,629.0,"Duluth, MN: Duluth International",33.0,499.0,MN
+11337,638.0,"Duluth, MN: Duluth International",27.0,333.0,MN
+11367,40.0,"Dora Bay, AK: Dora Bay Airport",2.0,3.0,AK
+11392,194.0,"Anchorage, AK: Lake Hood",8.0,1.0,AK
+11411,194.0,"Deering, AK: Deering Airport",1.0,1.0,AK
+11411,412.0,"Deering, AK: Deering Airport",2.0,0.0,AK
+11411,415.0,"Deering, AK: Deering Airport",22.0,38.0,AK
+11413,629.0,"Durango, CO: Durango La Plata County",4.0,34.0,CO
+11413,631.0,"Durango, CO: Durango La Plata County",103.0,1984.0,CO
+11413,638.0,"Durango, CO: Durango La Plata County",6.0,111.0,CO
+11413,673.0,"Durango, CO: Durango La Plata County",2.0,28.0,CO
+11413,675.0,"Durango, CO: Durango La Plata County",1.0,8.0,CO
+11413,676.0,"Durango, CO: Durango La Plata County",2.0,16.0,CO
+11415,675.0,"Del Rio, TX: Del Rio International",5.0,64.0,TX
+11415,676.0,"Del Rio, TX: Del Rio International",24.0,303.0,TX
+11421,416.0,"Destin, FL: Destin Executive",2.0,4.0,FL
+11423,530.0,"Des Moines, IA: Des Moines International",26.0,464.0,IA
+11423,612.0,"Des Moines, IA: Des Moines International",36.0,691.0,IA
+11423,614.0,"Des Moines, IA: Des Moines International",31.0,700.0,IA
+11423,631.0,"Des Moines, IA: Des Moines International",97.0,2371.0,IA
+11423,638.0,"Des Moines, IA: Des Moines International",123.0,3354.0,IA
+11423,673.0,"Des Moines, IA: Des Moines International",63.0,1706.0,IA
+11423,694.0,"Des Moines, IA: Des Moines International",42.0,3163.0,IA
+11423,698.0,"Des Moines, IA: Des Moines International",40.0,2052.0,IA
+11423,722.0,"Des Moines, IA: Des Moines International",13.0,823.0,IA
+11433,530.0,"Detroit, MI: Detroit Metro Wayne County",3.0,42.0,MI
+11433,608.0,"Detroit, MI: Detroit Metro Wayne County",181.0,5174.0,MI
+11433,612.0,"Detroit, MI: Detroit Metro Wayne County",110.0,4356.0,MI
+11433,614.0,"Detroit, MI: Detroit Metro Wayne County",227.0,13491.0,MI
+11433,622.0,"Detroit, MI: Detroit Metro Wayne County",1.0,56.0,MI
+11433,626.0,"Detroit, MI: Detroit Metro Wayne County",5.0,231.0,MI
+11433,629.0,"Detroit, MI: Detroit Metro Wayne County",670.0,5174.0,MI
+11433,631.0,"Detroit, MI: Detroit Metro Wayne County",54.0,1681.0,MI
+11433,634.0,"Detroit, MI: Detroit Metro Wayne County",2.0,128.0,MI
+11433,638.0,"Detroit, MI: Detroit Metro Wayne County",980.0,18694.0,MI
+11433,673.0,"Detroit, MI: Detroit Metro Wayne County",252.0,4832.0,MI
+11433,675.0,"Detroit, MI: Detroit Metro Wayne County",63.0,1964.0,MI
+11433,677.0,"Detroit, MI: Detroit Metro Wayne County",2.0,43.0,MI
+11433,678.0,"Detroit, MI: Detroit Metro Wayne County",14.0,166.0,MI
+11433,694.0,"Detroit, MI: Detroit Metro Wayne County",77.0,6990.0,MI
+11433,698.0,"Detroit, MI: Detroit Metro Wayne County",446.0,19817.0,MI
+11433,699.0,"Detroit, MI: Detroit Metro Wayne County",273.0,18939.0,MI
+11433,722.0,"Detroit, MI: Detroit Metro Wayne County",82.0,9185.0,MI
+11433,723.0,"Detroit, MI: Detroit Metro Wayne County",55.0,1776.0,MI
+11433,888.0,"Detroit, MI: Detroit Metro Wayne County",231.0,14997.0,MI
+11441,416.0,"DuBois, PA: DuBois Regional",166.0,71.0,PA
+11445,194.0,"Unalaska, AK: Unalaska Airport",63.0,94.0,AK
+11445,406.0,"Unalaska, AK: Unalaska Airport",38.0,40.0,AK
+11445,459.0,"Unalaska, AK: Unalaska Airport",1.0,0.0,AK
+11447,629.0,"Devils Lake, ND: Devils Lake Regional",30.0,64.0,ND
+11463,416.0,"Eagle, AK: Eagle Airport",8.0,5.0,AK
+11463,479.0,"Eagle, AK: Eagle Airport",1.0,0.0,AK
+11468,629.0,"Kearney, NE: Kearney Regional",30.0,150.0,NE
+11470,482.0,"Wenatchee, WA: Pangborn Memorial",53.0,1288.0,WA
+11471,629.0,"Eau Claire, WI: Chippewa Valley Regional",60.0,351.0,WI
+11481,608.0,"Panama City, FL: Northwest Florida Beaches International",27.0,1105.0,FL
+11481,612.0,"Panama City, FL: Northwest Florida Beaches International",108.0,5744.0,FL
+11481,614.0,"Panama City, FL: Northwest Florida Beaches International",44.0,2745.0,FL
+11481,631.0,"Panama City, FL: Northwest Florida Beaches International",23.0,796.0,FL
+11481,638.0,"Panama City, FL: Northwest Florida Beaches International",42.0,1975.0,FL
+11481,655.0,"Panama City, FL: Northwest Florida Beaches International",30.0,1476.0,FL
+11481,656.0,"Panama City, FL: Northwest Florida Beaches International",1.0,9.0,FL
+11481,675.0,"Panama City, FL: Northwest Florida Beaches International",40.0,739.0,FL
+11484,40.0,"Edna Bay, AK: Edna Bay Airport",11.0,5.0,AK
+11492,26.0,"Eek, AK: Eek Airport",35.0,40.0,AK
+11492,35.0,"Eek, AK: Eek Airport",48.0,25.0,AK
+11492,36.0,"Eek, AK: Eek Airport",3.0,0.0,AK
+11492,79.0,"Eek, AK: Eek Airport",6.0,1.0,AK
+11492,416.0,"Eek, AK: Eek Airport",11.0,30.0,AK
+11503,631.0,"Eagle, CO: Eagle County Regional",19.0,231.0,CO
+11503,673.0,"Eagle, CO: Eagle County Regional",29.0,220.0,CO
+11511,35.0,"Egegik, AK: Egegik Airport",6.0,1.0,AK
+11511,79.0,"Egegik, AK: Egegik Airport",17.0,3.0,AK
+11511,416.0,"Egegik, AK: Egegik Airport",5.0,1.0,AK
+11525,629.0,"Elko, NV: Elko Regional",20.0,166.0,NV
+11531,416.0,"El Dorado, AR: South Arkansas Regional at Goodwin Field",79.0,133.0,AR
+11535,412.0,"Elim, AK: Elim Airport",1.0,0.0,AK
+11535,415.0,"Elim, AK: Elim Airport",58.0,95.0,AK
+11535,416.0,"Elim, AK: Elim Airport",1.0,0.0,AK
+11537,638.0,"Elmira/Corning, NY: Elmira/Corning Regional",35.0,474.0,NY
+11537,694.0,"Elmira/Corning, NY: Elmira/Corning Regional",12.0,922.0,NY
+11537,698.0,"Elmira/Corning, NY: Elmira/Corning Regional",4.0,321.0,NY
+11540,612.0,"El Paso, TX: El Paso International",82.0,5634.0,TX
+11540,614.0,"El Paso, TX: El Paso International",29.0,1816.0,TX
+11540,629.0,"El Paso, TX: El Paso International",3.0,58.0,TX
+11540,631.0,"El Paso, TX: El Paso International",18.0,873.0,TX
+11540,638.0,"El Paso, TX: El Paso International",116.0,6008.0,TX
+11540,673.0,"El Paso, TX: El Paso International",123.0,4429.0,TX
+11540,675.0,"El Paso, TX: El Paso International",2.0,38.0,TX
+11540,698.0,"El Paso, TX: El Paso International",38.0,1301.0,TX
+11540,699.0,"El Paso, TX: El Paso International",3.0,137.0,TX
+11540,722.0,"El Paso, TX: El Paso International",4.0,326.0,TX
+11545,35.0,"Elfin Cove, AK: Elfin Cove Seaplane Base",1.0,0.0,AK
+11545,40.0,"Elfin Cove, AK: Elfin Cove Seaplane Base",3.0,0.0,AK
+11545,416.0,"Elfin Cove, AK: Elfin Cove Seaplane Base",14.0,15.0,AK
+11550,26.0,"Emmonak, AK: Emmonak Airport",182.0,20.0,AK
+11550,35.0,"Emmonak, AK: Emmonak Airport",7.0,2.0,AK
+11550,194.0,"Emmonak, AK: Emmonak Airport",16.0,40.0,AK
+11550,416.0,"Emmonak, AK: Emmonak Airport",63.0,47.0,AK
+11555,406.0,"Kenai, AK: Kenai Municipal",3.0,8.0,AK
+11555,416.0,"Kenai, AK: Kenai Municipal",139.0,733.0,AK
+11555,612.0,"Kenai, AK: Kenai Municipal",1.0,17.0,AK
+11577,629.0,"Erie, PA: Erie International/Tom Ridge Field",34.0,335.0,PA
+11577,675.0,"Erie, PA: Erie International/Tom Ridge Field",33.0,815.0,PA
+11587,629.0,"Escanaba, MI: Delta County",32.0,81.0,MI
+11603,482.0,"Eugene, OR: Mahlon Sweet Field",54.0,1750.0,OR
+11603,629.0,"Eugene, OR: Mahlon Sweet Field",8.0,132.0,OR
+11603,631.0,"Eugene, OR: Mahlon Sweet Field",74.0,1555.0,OR
+11603,673.0,"Eugene, OR: Mahlon Sweet Field",110.0,2234.0,OR
+11603,694.0,"Eugene, OR: Mahlon Sweet Field",9.0,630.0,OR
+11603,698.0,"Eugene, OR: Mahlon Sweet Field",10.0,567.0,OR
+11612,629.0,"Evansville, IN: Evansville Regional",80.0,885.0,IN
+11612,631.0,"Evansville, IN: Evansville Regional",22.0,694.0,IN
+11612,638.0,"Evansville, IN: Evansville Regional",1.0,9.0,IN
+11612,673.0,"Evansville, IN: Evansville Regional",6.0,90.0,IN
+11612,675.0,"Evansville, IN: Evansville Regional",33.0,445.0,IN
+11612,676.0,"Evansville, IN: Evansville Regional",1.0,30.0,IN
+11612,694.0,"Evansville, IN: Evansville Regional",5.0,347.0,IN
+11612,698.0,"Evansville, IN: Evansville Regional",5.0,318.0,IN
+11615,125.0,"New Bedford/Fall River, MA: New Bedford Regional",23.0,53.0,MA
+11617,629.0,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",28.0,279.0,NC
+11617,631.0,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",58.0,1627.0,NC
+11617,638.0,"New Bern/Morehead/Beaufort, NC: Coastal Carolina Regional",4.0,99.0,NC
+11618,608.0,"Newark, NJ: Newark Liberty International",81.0,4438.0,NJ
+11618,612.0,"Newark, NJ: Newark Liberty International",56.0,2127.0,NJ
+11618,614.0,"Newark, NJ: Newark Liberty International",128.0,8656.0,NJ
+11618,622.0,"Newark, NJ: Newark Liberty International",6.0,398.0,NJ
+11618,623.0,"Newark, NJ: Newark Liberty International",18.0,2009.0,NJ
+11618,626.0,"Newark, NJ: Newark Liberty International",6.0,594.0,NJ
+11618,627.0,"Newark, NJ: Newark Liberty International",4.0,518.0,NJ
+11618,629.0,"Newark, NJ: Newark Liberty International",4.0,89.0,NJ
+11618,637.0,"Newark, NJ: Newark Liberty International",9.0,1026.0,NJ
+11618,638.0,"Newark, NJ: Newark Liberty International",55.0,1744.0,NJ
+11618,673.0,"Newark, NJ: Newark Liberty International",137.0,3902.0,NJ
+11618,675.0,"Newark, NJ: Newark Liberty International",1.0,24.0,NJ
+11618,677.0,"Newark, NJ: Newark Liberty International",12.0,305.0,NJ
+11618,678.0,"Newark, NJ: Newark Liberty International",1.0,5.0,NJ
+11618,694.0,"Newark, NJ: Newark Liberty International",150.0,12059.0,NJ
+11618,698.0,"Newark, NJ: Newark Liberty International",71.0,5387.0,NJ
+11618,699.0,"Newark, NJ: Newark Liberty International",28.0,2946.0,NJ
+11618,722.0,"Newark, NJ: Newark Liberty International",25.0,3139.0,NJ
+11618,837.0,"Newark, NJ: Newark Liberty International",7.0,442.0,NJ
+11618,887.0,"Newark, NJ: Newark Liberty International",45.0,2687.0,NJ
+11618,888.0,"Newark, NJ: Newark Liberty International",187.0,15037.0,NJ
+11618,889.0,"Newark, NJ: Newark Liberty International",6.0,558.0,NJ
+11619,35.0,"Excursion Inlet, AK: Excursion Inlet Seaplane Base",11.0,4.0,AK
+11624,441.0,"Key West, FL: Key West International",7.0,19.0,FL
+11624,442.0,"Key West, FL: Key West International",1.0,6.0,FL
+11624,612.0,"Key West, FL: Key West International",36.0,591.0,FL
+11624,673.0,"Key West, FL: Key West International",95.0,1616.0,FL
+11624,677.0,"Key West, FL: Key West International",22.0,90.0,FL
+11624,698.0,"Key West, FL: Key West International",4.0,27.0,FL
+11630,35.0,"Fairbanks, AK: Fairbanks International",15.0,10.0,AK
+11630,194.0,"Fairbanks, AK: Fairbanks International",66.0,47.0,AK
+11630,416.0,"Fairbanks, AK: Fairbanks International",282.0,399.0,AK
+11630,479.0,"Fairbanks, AK: Fairbanks International",34.0,52.0,AK
+11630,612.0,"Fairbanks, AK: Fairbanks International",13.0,601.0,AK
+11630,614.0,"Fairbanks, AK: Fairbanks International",40.0,1987.0,AK
+11630,634.0,"Fairbanks, AK: Fairbanks International",1.0,14.0,AK
+11630,673.0,"Fairbanks, AK: Fairbanks International",21.0,357.0,AK
+11630,723.0,"Fairbanks, AK: Fairbanks International",8.0,197.0,AK
+11630,888.0,"Fairbanks, AK: Fairbanks International",39.0,2528.0,AK
+11637,629.0,"Fargo, ND: Hector International",35.0,717.0,ND
+11637,638.0,"Fargo, ND: Hector International",54.0,1416.0,ND
+11637,673.0,"Fargo, ND: Hector International",38.0,870.0,ND
+11637,675.0,"Fargo, ND: Hector International",20.0,638.0,ND
+11637,694.0,"Fargo, ND: Hector International",14.0,1059.0,ND
+11637,698.0,"Fargo, ND: Hector International",6.0,241.0,ND
+11637,722.0,"Fargo, ND: Hector International",4.0,268.0,ND
+11638,614.0,"Fresno, CA: Fresno Yosemite International",48.0,4256.0,CA
+11638,629.0,"Fresno, CA: Fresno Yosemite International",124.0,2285.0,CA
+11638,631.0,"Fresno, CA: Fresno Yosemite International",33.0,1031.0,CA
+11638,638.0,"Fresno, CA: Fresno Yosemite International",1.0,16.0,CA
+11638,673.0,"Fresno, CA: Fresno Yosemite International",116.0,3177.0,CA
+11638,698.0,"Fresno, CA: Fresno Yosemite International",13.0,1013.0,CA
+11638,722.0,"Fresno, CA: Fresno Yosemite International",4.0,335.0,CA
+11641,629.0,"Fayetteville, NC: Fayetteville Regional/Grannis Field",59.0,1317.0,NC
+11641,631.0,"Fayetteville, NC: Fayetteville Regional/Grannis Field",25.0,1053.0,NC
+11641,638.0,"Fayetteville, NC: Fayetteville Regional/Grannis Field",39.0,1710.0,NC
+11646,40.0,"Friday Harbor, WA: Friday Harbor Seaplane Base",10.0,6.0,WA
+11648,482.0,"Kalispell, MT: Glacier Park International",30.0,889.0,MT
+11648,631.0,"Kalispell, MT: Glacier Park International",28.0,920.0,MT
+11648,673.0,"Kalispell, MT: Glacier Park International",35.0,664.0,MT
+11648,694.0,"Kalispell, MT: Glacier Park International",4.0,205.0,MT
+11648,698.0,"Kalispell, MT: Glacier Park International",2.0,88.0,MT
+11695,631.0,"Flagstaff, AZ: Flagstaff Pulliam",82.0,954.0,AZ
+11697,441.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",30.0,276.0,FL
+11697,442.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",3.0,36.0,FL
+11697,456.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",3.0,6.0,FL
+11697,612.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",490.0,19630.0,FL
+11697,614.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",299.0,14692.0,FL
+11697,622.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",60.0,5203.0,FL
+11697,624.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",1.0,121.0,FL
+11697,678.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",14.0,583.0,FL
+11697,694.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",275.0,22129.0,FL
+11697,698.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",223.0,15856.0,FL
+11697,699.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",179.0,16840.0,FL
+11697,722.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",69.0,7966.0,FL
+11697,888.0,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International",35.0,2936.0,FL
+11699,675.0,"Florence, SC: Florence Regional",61.0,726.0,SC
+11721,629.0,"Flint, MI: Bishop International",26.0,318.0,MI
+11721,631.0,"Flint, MI: Bishop International",29.0,1199.0,MI
+11721,638.0,"Flint, MI: Bishop International",34.0,885.0,MI
+11721,675.0,"Flint, MI: Bishop International",24.0,756.0,MI
+11721,694.0,"Flint, MI: Bishop International",28.0,2976.0,MI
+11721,698.0,"Flint, MI: Bishop International",6.0,479.0,MI
+11725,415.0,"Fort Dodge, IA: Fort Dodge Regional",124.0,173.0,IA
+11775,530.0,"Sioux Falls, SD: Joe Foss Field",32.0,506.0,SD
+11775,629.0,"Sioux Falls, SD: Joe Foss Field",2.0,27.0,SD
+11775,631.0,"Sioux Falls, SD: Joe Foss Field",22.0,504.0,SD
+11775,638.0,"Sioux Falls, SD: Joe Foss Field",52.0,916.0,SD
+11775,673.0,"Sioux Falls, SD: Joe Foss Field",106.0,2354.0,SD
+11775,675.0,"Sioux Falls, SD: Joe Foss Field",21.0,389.0,SD
+11775,694.0,"Sioux Falls, SD: Joe Foss Field",20.0,1165.0,SD
+11775,698.0,"Sioux Falls, SD: Joe Foss Field",12.0,564.0,SD
+11775,722.0,"Sioux Falls, SD: Joe Foss Field",4.0,240.0,SD
+11778,629.0,"Fort Smith, AR: Fort Smith Regional",24.0,212.0,AR
+11778,631.0,"Fort Smith, AR: Fort Smith Regional",3.0,19.0,AR
+11778,675.0,"Fort Smith, AR: Fort Smith Regional",26.0,714.0,AR
+11778,676.0,"Fort Smith, AR: Fort Smith Regional",4.0,55.0,AR
+11823,629.0,"Fort Wayne, IN: Fort Wayne International",57.0,725.0,IN
+11823,631.0,"Fort Wayne, IN: Fort Wayne International",94.0,2344.0,IN
+11823,638.0,"Fort Wayne, IN: Fort Wayne International",1.0,27.0,IN
+11823,675.0,"Fort Wayne, IN: Fort Wayne International",19.0,274.0,IN
+11823,694.0,"Fort Wayne, IN: Fort Wayne International",31.0,3100.0,IN
+11823,698.0,"Fort Wayne, IN: Fort Wayne International",5.0,329.0,IN
+11833,416.0,"Fort Yukon, AK: Fort Yukon Airport",66.0,148.0,AK
+11844,194.0,"Galena, AK: Edward G. Pitka Sr.",3.0,0.0,AK
+11844,416.0,"Galena, AK: Edward G. Pitka Sr.",80.0,139.0,AK
+11844,479.0,"Galena, AK: Edward G. Pitka Sr.",1.0,2.0,AK
+11845,194.0,"Gambell, AK: Gambell Airport",3.0,0.0,AK
+11845,405.0,"Gambell, AK: Gambell Airport",42.0,75.0,AK
+11845,406.0,"Gambell, AK: Gambell Airport",3.0,14.0,AK
+11845,412.0,"Gambell, AK: Gambell Airport",6.0,0.0,AK
+11865,629.0,"Gillette, WY: Northeast Wyoming Regional",43.0,443.0,WY
+11867,675.0,"Garden City, KS: Garden City Regional",3.0,35.0,KS
+11867,676.0,"Garden City, KS: Garden City Regional",28.0,392.0,KS
+11879,125.0,"Glendive, MT: Dawson Community",62.0,80.0,MT
+11884,482.0,"Spokane, WA: Spokane International",144.0,5255.0,WA
+11884,612.0,"Spokane, WA: Spokane International",113.0,6100.0,WA
+11884,614.0,"Spokane, WA: Spokane International",15.0,803.0,WA
+11884,673.0,"Spokane, WA: Spokane International",116.0,4059.0,WA
+11884,694.0,"Spokane, WA: Spokane International",14.0,706.0,WA
+11884,698.0,"Spokane, WA: Spokane International",85.0,4592.0,WA
+11884,699.0,"Spokane, WA: Spokane International",4.0,301.0,WA
+11884,722.0,"Spokane, WA: Spokane International",12.0,626.0,WA
+11898,629.0,"Grand Forks, ND: Grand Forks International",2.0,22.0,ND
+11898,638.0,"Grand Forks, ND: Grand Forks International",26.0,229.0,ND
+11898,698.0,"Grand Forks, ND: Grand Forks International",6.0,214.0,ND
+11905,675.0,"Longview, TX: East Texas Regional",19.0,370.0,TX
+11905,676.0,"Longview, TX: East Texas Regional",10.0,129.0,TX
+11908,125.0,"Glasgow, MT: Wokal Field Glasgow Valley County",62.0,143.0,MT
+11921,629.0,"Grand Junction, CO: Grand Junction Regional",52.0,678.0,CO
+11921,631.0,"Grand Junction, CO: Grand Junction Regional",31.0,662.0,CO
+11921,638.0,"Grand Junction, CO: Grand Junction Regional",2.0,45.0,CO
+11921,673.0,"Grand Junction, CO: Grand Junction Regional",33.0,1513.0,CO
+11921,694.0,"Grand Junction, CO: Grand Junction Regional",4.0,229.0,CO
+11921,698.0,"Grand Junction, CO: Grand Junction Regional",4.0,247.0,CO
+11924,35.0,"Gulkana, AK: Gulkana Airport",16.0,3.0,AK
+11924,194.0,"Gulkana, AK: Gulkana Airport",8.0,0.0,AK
+11931,479.0,"Greenville, MS: Greenville Mid Delta",81.0,149.0,MS
+11941,412.0,"Golovin, AK: Golovin Airport",1.0,0.0,AK
+11941,415.0,"Golovin, AK: Golovin Airport",46.0,72.0,AK
+11941,416.0,"Golovin, AK: Golovin Airport",1.0,0.0,AK
+11952,35.0,"Goodnews Bay, AK: Goodnews",14.0,10.0,AK
+11952,79.0,"Goodnews Bay, AK: Goodnews",25.0,14.0,AK
+11952,416.0,"Goodnews Bay, AK: Goodnews",6.0,1.0,AK
+11953,629.0,"Gainesville, FL: Gainesville Regional",1.0,5.0,FL
+11953,631.0,"Gainesville, FL: Gainesville Regional",45.0,939.0,FL
+11953,638.0,"Gainesville, FL: Gainesville Regional",94.0,2468.0,FL
+11973,638.0,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",81.0,2817.0,MS
+11973,675.0,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",66.0,1151.0,MS
+11973,676.0,"Gulfport/Biloxi, MS: Gulfport-Biloxi International",31.0,846.0,MS
+11977,530.0,"Green Bay, WI: Green Bay Austin Straubel International",26.0,372.0,WI
+11977,629.0,"Green Bay, WI: Green Bay Austin Straubel International",27.0,242.0,WI
+11977,631.0,"Green Bay, WI: Green Bay Austin Straubel International",9.0,131.0,WI
+11977,638.0,"Green Bay, WI: Green Bay Austin Straubel International",2.0,19.0,WI
+11977,675.0,"Green Bay, WI: Green Bay Austin Straubel International",17.0,446.0,WI
+11977,722.0,"Green Bay, WI: Green Bay Austin Straubel International",4.0,211.0,WI
+11980,675.0,"Grand Island, NE: Central Nebraska Regional",3.0,20.0,NE
+11980,676.0,"Grand Island, NE: Central Nebraska Regional",26.0,281.0,NE
+11980,694.0,"Grand Island, NE: Central Nebraska Regional",6.0,425.0,NE
+11980,698.0,"Grand Island, NE: Central Nebraska Regional",8.0,274.0,NE
+11982,631.0,"Killeen, TX: Robert Gray AAF",2.0,54.0,TX
+11982,673.0,"Killeen, TX: Robert Gray AAF",59.0,2735.0,TX
+11982,675.0,"Killeen, TX: Robert Gray AAF",18.0,172.0,TX
+11982,676.0,"Killeen, TX: Robert Gray AAF",1.0,5.0,TX
+11986,530.0,"Grand Rapids, MI: Gerald R. Ford International",33.0,658.0,MI
+11986,612.0,"Grand Rapids, MI: Gerald R. Ford International",56.0,1992.0,MI
+11986,614.0,"Grand Rapids, MI: Gerald R. Ford International",7.0,223.0,MI
+11986,629.0,"Grand Rapids, MI: Gerald R. Ford International",1.0,22.0,MI
+11986,631.0,"Grand Rapids, MI: Gerald R. Ford International",33.0,902.0,MI
+11986,638.0,"Grand Rapids, MI: Gerald R. Ford International",124.0,3752.0,MI
+11986,673.0,"Grand Rapids, MI: Gerald R. Ford International",62.0,2470.0,MI
+11986,675.0,"Grand Rapids, MI: Gerald R. Ford International",17.0,559.0,MI
+11986,677.0,"Grand Rapids, MI: Gerald R. Ford International",19.0,502.0,MI
+11986,694.0,"Grand Rapids, MI: Gerald R. Ford International",81.0,7467.0,MI
+11986,698.0,"Grand Rapids, MI: Gerald R. Ford International",7.0,259.0,MI
+11986,722.0,"Grand Rapids, MI: Gerald R. Ford International",12.0,822.0,MI
+11995,530.0,"Greensboro/High Point, NC: Piedmont Triad International",27.0,384.0,NC
+11995,608.0,"Greensboro/High Point, NC: Piedmont Triad International",57.0,1736.0,NC
+11995,629.0,"Greensboro/High Point, NC: Piedmont Triad International",7.0,46.0,NC
+11995,631.0,"Greensboro/High Point, NC: Piedmont Triad International",17.0,798.0,NC
+11995,638.0,"Greensboro/High Point, NC: Piedmont Triad International",19.0,600.0,NC
+11995,673.0,"Greensboro/High Point, NC: Piedmont Triad International",1.0,6.0,NC
+11995,675.0,"Greensboro/High Point, NC: Piedmont Triad International",117.0,2796.0,NC
+11995,694.0,"Greensboro/High Point, NC: Piedmont Triad International",11.0,517.0,NC
+11995,698.0,"Greensboro/High Point, NC: Piedmont Triad International",17.0,847.0,NC
+11996,530.0,"Greer, SC: Greenville-Spartanburg International",51.0,744.0,SC
+11996,608.0,"Greer, SC: Greenville-Spartanburg International",57.0,2080.0,SC
+11996,612.0,"Greer, SC: Greenville-Spartanburg International",53.0,924.0,SC
+11996,614.0,"Greer, SC: Greenville-Spartanburg International",7.0,201.0,SC
+11996,629.0,"Greer, SC: Greenville-Spartanburg International",1.0,0.0,SC
+11996,631.0,"Greer, SC: Greenville-Spartanburg International",64.0,1374.0,SC
+11996,638.0,"Greer, SC: Greenville-Spartanburg International",95.0,3406.0,SC
+11996,673.0,"Greer, SC: Greenville-Spartanburg International",60.0,1820.0,SC
+11996,675.0,"Greer, SC: Greenville-Spartanburg International",61.0,908.0,SC
+11996,694.0,"Greer, SC: Greenville-Spartanburg International",10.0,731.0,SC
+11996,698.0,"Greer, SC: Greenville-Spartanburg International",3.0,204.0,SC
+11996,722.0,"Greer, SC: Greenville-Spartanburg International",12.0,226.0,SC
+11997,35.0,"Gustavus, AK: Gustavus Airport",5.0,0.0,AK
+11997,415.0,"Gustavus, AK: Gustavus Airport",31.0,98.0,AK
+12003,482.0,"Great Falls, MT: Great Falls International",25.0,645.0,MT
+12003,629.0,"Great Falls, MT: Great Falls International",50.0,755.0,MT
+12003,638.0,"Great Falls, MT: Great Falls International",2.0,52.0,MT
+12003,673.0,"Great Falls, MT: Great Falls International",1.0,11.0,MT
+12003,694.0,"Great Falls, MT: Great Falls International",8.0,477.0,MT
+12007,629.0,"Columbus, MS: Golden Triangle Regional",30.0,318.0,MS
+12012,631.0,"Gunnison, CO: Gunnison-Crested Butte Regional",15.0,63.0,CO
+12016,614.0,"Guam, TT: Guam International",13.0,405.0,TT
+12016,627.0,"Guam, TT: Guam International",31.0,1330.0,TT
+12087,35.0,"Holy Cross, AK: Holy Cross Airport",45.0,4.0,AK
+12087,416.0,"Holy Cross, AK: Holy Cross Airport",4.0,0.0,AK
+12094,629.0,"Hayden, CO: Yampa Valley",22.0,199.0,CO
+12119,694.0,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",7.0,398.0,MD
+12119,698.0,"Hagerstown, MD: Hagerstown Regional-Richard A. Henson Field",4.0,227.0,MD
+12124,673.0,"Hilton Head, SC: Hilton Head Airport",116.0,2368.0,SC
+12127,479.0,"Hawthorne, CA: Jack Northrop Field/Hawthorne Municipal",30.0,43.0,CA
+12129,629.0,"Hibbing, MN: Range Regional",32.0,158.0,MN
+12141,35.0,"Healy, AK: Healy River",24.0,21.0,AK
+12156,482.0,"Helena, MT: Helena Regional",30.0,798.0,MT
+12156,629.0,"Helena, MT: Helena Regional",54.0,1070.0,MT
+12156,673.0,"Helena, MT: Helena Regional",28.0,376.0,MT
+12171,35.0,"Hoonah, AK: Hoonah Airport",7.0,5.0,AK
+12171,40.0,"Hoonah, AK: Hoonah Airport",2.0,7.0,AK
+12171,415.0,"Hoonah, AK: Hoonah Airport",39.0,156.0,AK
+12171,416.0,"Hoonah, AK: Hoonah Airport",3.0,2.0,AK
+12173,416.0,"Honolulu, HI: Daniel K Inouye International",125.0,459.0,HI
+12173,441.0,"Honolulu, HI: Daniel K Inouye International",123.0,676.0,HI
+12173,442.0,"Honolulu, HI: Daniel K Inouye International",85.0,0.0,HI
+12173,608.0,"Honolulu, HI: Daniel K Inouye International",545.0,18036.0,HI
+12173,614.0,"Honolulu, HI: Daniel K Inouye International",310.0,3913.0,HI
+12173,622.0,"Honolulu, HI: Daniel K Inouye International",62.0,4415.0,HI
+12173,627.0,"Honolulu, HI: Daniel K Inouye International",62.0,6684.0,HI
+12173,696.0,"Honolulu, HI: Daniel K Inouye International",93.0,5639.0,HI
+12173,721.0,"Honolulu, HI: Daniel K Inouye International",3.0,330.0,HI
+12173,887.0,"Honolulu, HI: Daniel K Inouye International",26.0,2429.0,HI
+12173,888.0,"Honolulu, HI: Daniel K Inouye International",62.0,4808.0,HI
+12173,889.0,"Honolulu, HI: Daniel K Inouye International",5.0,600.0,HI
+12174,416.0,"Hana, HI: Hana Airport",19.0,19.0,HI
+12175,35.0,"Haines, AK: Haines Airport",3.0,0.0,AK
+12175,415.0,"Haines, AK: Haines Airport",67.0,221.0,AK
+12175,416.0,"Haines, AK: Haines Airport",1.0,0.0,AK
+12177,675.0,"Hobbs, NM: Lea County Regional",13.0,139.0,NM
+12184,35.0,"Homer, AK: Homer Airport",90.0,45.0,AK
+12190,416.0,"Hot Springs, AR: Memorial Field",80.0,139.0,AR
+12191,608.0,"Houston, TX: William P Hobby",62.0,2651.0,TX
+12191,612.0,"Houston, TX: William P Hobby",1033.0,43342.0,TX
+12191,614.0,"Houston, TX: William P Hobby",434.0,23147.0,TX
+12191,631.0,"Houston, TX: William P Hobby",6.0,149.0,TX
+12191,638.0,"Houston, TX: William P Hobby",118.0,5169.0,TX
+12191,675.0,"Houston, TX: William P Hobby",5.0,122.0,TX
+12191,698.0,"Houston, TX: William P Hobby",1.0,48.0,TX
+12195,26.0,"Hooper Bay, AK: Hooper Bay Airport",2.0,0.0,AK
+12195,35.0,"Hooper Bay, AK: Hooper Bay Airport",1.0,0.0,AK
+12195,194.0,"Hooper Bay, AK: Hooper Bay Airport",1.0,0.0,AK
+12195,416.0,"Hooper Bay, AK: Hooper Bay Airport",119.0,154.0,AK
+12197,125.0,"White Plains, NY: Westchester County",0.0,0.0,NY
+12197,479.0,"White Plains, NY: Westchester County",34.0,172.0,NY
+12206,612.0,"Harlingen/San Benito, TX: Valley International",55.0,2180.0,TX
+12206,614.0,"Harlingen/San Benito, TX: Valley International",10.0,426.0,TX
+12206,631.0,"Harlingen/San Benito, TX: Valley International",5.0,97.0,TX
+12206,673.0,"Harlingen/San Benito, TX: Valley International",3.0,60.0,TX
+12206,675.0,"Harlingen/San Benito, TX: Valley International",44.0,968.0,TX
+12206,676.0,"Harlingen/San Benito, TX: Valley International",20.0,637.0,TX
+12206,722.0,"Harlingen/San Benito, TX: Valley International",4.0,466.0,TX
+12207,416.0,"Harrison, AR: Boone County",75.0,171.0,AR
+12214,416.0,"Huslia, AK: Huslia Airport",37.0,32.0,AK
+12217,441.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",8.0,55.0,AL
+12217,442.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",1.0,4.0,AL
+12217,608.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",60.0,1328.0,AL
+12217,629.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",3.0,25.0,AL
+12217,631.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",35.0,798.0,AL
+12217,638.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",31.0,886.0,AL
+12217,656.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",2.0,36.0,AL
+12217,673.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",90.0,2296.0,AL
+12217,675.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",51.0,591.0,AL
+12217,677.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",1.0,9.0,AL
+12217,722.0,"Huntsville, AL: Huntsville International-Carl T Jones Field",4.0,120.0,AL
+12223,675.0,"Ashland, WV: Tri-State/Milton J. Ferguson Field",59.0,533.0,WV
+12223,694.0,"Ashland, WV: Tri-State/Milton J. Ferguson Field",25.0,2142.0,WV
+12223,698.0,"Ashland, WV: Tri-State/Milton J. Ferguson Field",12.0,895.0,WV
+12235,416.0,"Hughes, AK: Hughes Airport",21.0,27.0,AK
+12244,673.0,"New Haven, CT: Tweed New Haven",22.0,545.0,CT
+12245,125.0,"Havre, MT: Havre City-County",64.0,109.0,MT
+12250,125.0,"Hyannis, MA: Cape Cod Gateway",212.0,380.0,MA
+12252,40.0,"Hydaburg, AK: Hydaburg Seaplane Base",12.0,0.0,AK
+12253,40.0,"Hollis, AK: Hollis Seaplane Base",11.0,2.0,AK
+12255,629.0,"Hays, KS: Hays Regional",59.0,219.0,KS
+12264,530.0,"Washington, DC: Washington Dulles International",5.0,45.0,VA
+12264,608.0,"Washington, DC: Washington Dulles International",27.0,931.0,VA
+12264,612.0,"Washington, DC: Washington Dulles International",149.0,4972.0,VA
+12264,614.0,"Washington, DC: Washington Dulles International",89.0,4479.0,VA
+12264,622.0,"Washington, DC: Washington Dulles International",2.0,69.0,VA
+12264,623.0,"Washington, DC: Washington Dulles International",1.0,60.0,VA
+12264,626.0,"Washington, DC: Washington Dulles International",4.0,287.0,VA
+12264,627.0,"Washington, DC: Washington Dulles International",6.0,338.0,VA
+12264,629.0,"Washington, DC: Washington Dulles International",114.0,578.0,VA
+12264,631.0,"Washington, DC: Washington Dulles International",294.0,9210.0,VA
+12264,638.0,"Washington, DC: Washington Dulles International",84.0,1906.0,VA
+12264,655.0,"Washington, DC: Washington Dulles International",83.0,3900.0,VA
+12264,656.0,"Washington, DC: Washington Dulles International",3.0,130.0,VA
+12264,673.0,"Washington, DC: Washington Dulles International",380.0,12907.0,VA
+12264,675.0,"Washington, DC: Washington Dulles International",604.0,8661.0,VA
+12264,677.0,"Washington, DC: Washington Dulles International",55.0,1402.0,VA
+12264,694.0,"Washington, DC: Washington Dulles International",154.0,8644.0,VA
+12264,698.0,"Washington, DC: Washington Dulles International",206.0,9385.0,VA
+12264,887.0,"Washington, DC: Washington Dulles International",2.0,138.0,VA
+12264,888.0,"Washington, DC: Washington Dulles International",80.0,4449.0,VA
+12264,889.0,"Washington, DC: Washington Dulles International",1.0,78.0,VA
+12265,694.0,"Niagara Falls, NY: Niagara Falls International",16.0,1232.0,NY
+12265,698.0,"Niagara Falls, NY: Niagara Falls International",18.0,777.0,NY
+12266,458.0,"Houston, TX: George Bush Intercontinental/Houston",50.0,26.0,TX
+12266,479.0,"Houston, TX: George Bush Intercontinental/Houston",1.0,0.0,TX
+12266,612.0,"Houston, TX: George Bush Intercontinental/Houston",200.0,10465.0,TX
+12266,614.0,"Houston, TX: George Bush Intercontinental/Houston",195.0,14123.0,TX
+12266,622.0,"Houston, TX: George Bush Intercontinental/Houston",4.0,348.0,TX
+12266,623.0,"Houston, TX: George Bush Intercontinental/Houston",15.0,938.0,TX
+12266,626.0,"Houston, TX: George Bush Intercontinental/Houston",14.0,1356.0,TX
+12266,627.0,"Houston, TX: George Bush Intercontinental/Houston",2.0,266.0,TX
+12266,629.0,"Houston, TX: George Bush Intercontinental/Houston",3.0,20.0,TX
+12266,631.0,"Houston, TX: George Bush Intercontinental/Houston",24.0,978.0,TX
+12266,634.0,"Houston, TX: George Bush Intercontinental/Houston",2.0,117.0,TX
+12266,637.0,"Houston, TX: George Bush Intercontinental/Houston",5.0,687.0,TX
+12266,638.0,"Houston, TX: George Bush Intercontinental/Houston",36.0,1199.0,TX
+12266,656.0,"Houston, TX: George Bush Intercontinental/Houston",62.0,3451.0,TX
+12266,673.0,"Houston, TX: George Bush Intercontinental/Houston",1443.0,44574.0,TX
+12266,675.0,"Houston, TX: George Bush Intercontinental/Houston",1037.0,15894.0,TX
+12266,677.0,"Houston, TX: George Bush Intercontinental/Houston",16.0,205.0,TX
+12266,694.0,"Houston, TX: George Bush Intercontinental/Houston",205.0,13775.0,TX
+12266,698.0,"Houston, TX: George Bush Intercontinental/Houston",382.0,24472.0,TX
+12266,699.0,"Houston, TX: George Bush Intercontinental/Houston",6.0,672.0,TX
+12266,722.0,"Houston, TX: George Bush Intercontinental/Houston",28.0,3323.0,TX
+12266,723.0,"Houston, TX: George Bush Intercontinental/Houston",32.0,1718.0,TX
+12266,887.0,"Houston, TX: George Bush Intercontinental/Houston",4.0,486.0,TX
+12266,888.0,"Houston, TX: George Bush Intercontinental/Houston",130.0,9056.0,TX
+12266,889.0,"Houston, TX: George Bush Intercontinental/Houston",17.0,1996.0,TX
+12268,412.0,"Kiana, AK: Bob Baker Memorial",3.0,0.0,AK
+12268,415.0,"Kiana, AK: Bob Baker Memorial",46.0,108.0,AK
+12278,608.0,"Wichita, KS: Wichita Dwight D Eisenhower National",26.0,597.0,KS
+12278,612.0,"Wichita, KS: Wichita Dwight D Eisenhower National",50.0,963.0,KS
+12278,614.0,"Wichita, KS: Wichita Dwight D Eisenhower National",12.0,291.0,KS
+12278,629.0,"Wichita, KS: Wichita Dwight D Eisenhower National",54.0,857.0,KS
+12278,631.0,"Wichita, KS: Wichita Dwight D Eisenhower National",1.0,26.0,KS
+12278,638.0,"Wichita, KS: Wichita Dwight D Eisenhower National",82.0,3587.0,KS
+12278,673.0,"Wichita, KS: Wichita Dwight D Eisenhower National",146.0,3564.0,KS
+12278,675.0,"Wichita, KS: Wichita Dwight D Eisenhower National",35.0,348.0,KS
+12278,677.0,"Wichita, KS: Wichita Dwight D Eisenhower National",3.0,16.0,KS
+12278,694.0,"Wichita, KS: Wichita Dwight D Eisenhower National",7.0,570.0,KS
+12278,698.0,"Wichita, KS: Wichita Dwight D Eisenhower National",9.0,402.0,KS
+12278,722.0,"Wichita, KS: Wichita Dwight D Eisenhower National",4.0,155.0,KS
+12280,629.0,"Idaho Falls, ID: Idaho Falls Regional",32.0,470.0,ID
+12280,631.0,"Idaho Falls, ID: Idaho Falls Regional",1.0,18.0,ID
+12280,673.0,"Idaho Falls, ID: Idaho Falls Regional",82.0,1577.0,ID
+12280,694.0,"Idaho Falls, ID: Idaho Falls Regional",9.0,1085.0,ID
+12280,698.0,"Idaho Falls, ID: Idaho Falls Regional",3.0,214.0,ID
+12294,35.0,"Igiugig, AK: Igiugig Airport",3.0,0.0,AK
+12294,79.0,"Igiugig, AK: Igiugig Airport",9.0,0.0,AK
+12294,416.0,"Igiugig, AK: Igiugig Airport",2.0,4.0,AK
+12315,194.0,"Nikolski, AK: Nikolski AS",6.0,0.0,AK
+12315,406.0,"Nikolski, AK: Nikolski AS",1.0,0.0,AK
+12321,35.0,"Iliamna, AK: Iliamna Airport",46.0,0.0,AK
+12321,479.0,"Iliamna, AK: Iliamna Airport",27.0,28.0,AK
+12323,629.0,"Wilmington, NC: Wilmington International",60.0,898.0,NC
+12323,631.0,"Wilmington, NC: Wilmington International",6.0,179.0,NC
+12323,638.0,"Wilmington, NC: Wilmington International",112.0,4302.0,NC
+12323,675.0,"Wilmington, NC: Wilmington International",68.0,1184.0,NC
+12323,694.0,"Wilmington, NC: Wilmington International",5.0,132.0,NC
+12323,698.0,"Wilmington, NC: Wilmington International",6.0,90.0,NC
+12335,629.0,"Iron Mountain/Kingsfd, MI: Ford",57.0,252.0,MI
+12339,530.0,"Indianapolis, IN: Indianapolis International",2.0,9.0,IN
+12339,612.0,"Indianapolis, IN: Indianapolis International",191.0,8563.0,IN
+12339,614.0,"Indianapolis, IN: Indianapolis International",176.0,8647.0,IN
+12339,629.0,"Indianapolis, IN: Indianapolis International",2.0,22.0,IN
+12339,631.0,"Indianapolis, IN: Indianapolis International",3.0,50.0,IN
+12339,634.0,"Indianapolis, IN: Indianapolis International",4.0,209.0,IN
+12339,638.0,"Indianapolis, IN: Indianapolis International",65.0,1829.0,IN
+12339,655.0,"Indianapolis, IN: Indianapolis International",63.0,3092.0,IN
+12339,673.0,"Indianapolis, IN: Indianapolis International",280.0,7978.0,IN
+12339,675.0,"Indianapolis, IN: Indianapolis International",22.0,572.0,IN
+12339,677.0,"Indianapolis, IN: Indianapolis International",15.0,310.0,IN
+12339,694.0,"Indianapolis, IN: Indianapolis International",80.0,8463.0,IN
+12339,698.0,"Indianapolis, IN: Indianapolis International",119.0,8253.0,IN
+12339,722.0,"Indianapolis, IN: Indianapolis International",29.0,2922.0,IN
+12339,888.0,"Indianapolis, IN: Indianapolis International",25.0,883.0,IN
+12343,629.0,"International Falls, MN: Falls International Einarson Field",31.0,69.0,MN
+12363,416.0,"El Centro, CA: Imperial County",111.0,92.0,CA
+12365,675.0,"Williamsport, PA: Williamsport Regional",20.0,294.0,PA
+12370,194.0,"Circle, AK: Circle City",20.0,9.0,AK
+12375,125.0,"Kirksville, MO: Kirksville Regional",90.0,129.0,MO
+12391,612.0,"Islip, NY: Long Island MacArthur",36.0,1545.0,NY
+12391,614.0,"Islip, NY: Long Island MacArthur",15.0,576.0,NY
+12391,722.0,"Islip, NY: Long Island MacArthur",12.0,1345.0,NY
+12397,629.0,"Ithaca/Cortland, NY: Ithaca Tompkins International",21.0,150.0,NY
+12397,675.0,"Ithaca/Cortland, NY: Ithaca Tompkins International",52.0,809.0,NY
+12402,442.0,"Hilo, HI: Hilo International",21.0,0.0,HI
+12402,608.0,"Hilo, HI: Hilo International",134.0,4605.0,HI
+12402,614.0,"Hilo, HI: Hilo International",62.0,614.0,HI
+12412,415.0,"Ironwood, MI: Gogebic-Iron County",78.0,110.0,MI
+12441,673.0,"Jackson, WY: Jackson Hole",59.0,926.0,WY
+12441,698.0,"Jackson, WY: Jackson Hole",56.0,1118.0,WY
+12448,608.0,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",10.0,191.0,MS
+12448,631.0,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",52.0,1745.0,MS
+12448,638.0,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",91.0,2827.0,MS
+12448,675.0,"Jackson/Vicksburg, MS: Jackson Medgar Wiley Evers International",60.0,912.0,MS
+12451,612.0,"Jacksonville, FL: Jacksonville International",185.0,8233.0,FL
+12451,614.0,"Jacksonville, FL: Jacksonville International",82.0,4630.0,FL
+12451,631.0,"Jacksonville, FL: Jacksonville International",30.0,1087.0,FL
+12451,638.0,"Jacksonville, FL: Jacksonville International",8.0,352.0,FL
+12451,673.0,"Jacksonville, FL: Jacksonville International",133.0,4599.0,FL
+12451,694.0,"Jacksonville, FL: Jacksonville International",60.0,4706.0,FL
+12451,698.0,"Jacksonville, FL: Jacksonville International",119.0,9246.0,FL
+12451,699.0,"Jacksonville, FL: Jacksonville International",28.0,2709.0,FL
+12451,722.0,"Jacksonville, FL: Jacksonville International",4.0,349.0,FL
+12451,888.0,"Jacksonville, FL: Jacksonville International",27.0,1545.0,FL
+12455,415.0,"Jonesboro, AR: Jonesboro Municipal",60.0,80.0,AR
+12478,125.0,"New York, NY: John F. Kennedy International",13.0,32.0,NY
+12478,614.0,"New York, NY: John F. Kennedy International",98.0,9155.0,NY
+12478,622.0,"New York, NY: John F. Kennedy International",70.0,3903.0,NY
+12478,626.0,"New York, NY: John F. Kennedy International",23.0,2359.0,NY
+12478,638.0,"New York, NY: John F. Kennedy International",99.0,1041.0,NY
+12478,673.0,"New York, NY: John F. Kennedy International",36.0,361.0,NY
+12478,678.0,"New York, NY: John F. Kennedy International",151.0,2371.0,NY
+12478,694.0,"New York, NY: John F. Kennedy International",163.0,11506.0,NY
+12478,698.0,"New York, NY: John F. Kennedy International",24.0,782.0,NY
+12478,699.0,"New York, NY: John F. Kennedy International",158.0,11483.0,NY
+12478,721.0,"New York, NY: John F. Kennedy International",30.0,2458.0,NY
+12478,723.0,"New York, NY: John F. Kennedy International",31.0,1184.0,NY
+12478,888.0,"New York, NY: John F. Kennedy International",40.0,2936.0,NY
+12492,416.0,"Kapalua, HI: Kapalua Airport",30.0,69.0,HI
+12511,673.0,"Joplin, MO: Joplin Regional",7.0,141.0,MO
+12511,675.0,"Joplin, MO: Joplin Regional",4.0,134.0,MO
+12511,676.0,"Joplin, MO: Joplin Regional",18.0,452.0,MO
+12519,629.0,"Jamestown, ND: Jamestown Regional",61.0,254.0,ND
+12523,35.0,"Juneau, AK: Juneau International",58.0,13.0,AK
+12523,40.0,"Juneau, AK: Juneau International",11.0,11.0,AK
+12523,415.0,"Juneau, AK: Juneau International",158.0,511.0,AK
+12523,416.0,"Juneau, AK: Juneau International",54.0,68.0,AK
+12523,479.0,"Juneau, AK: Juneau International",31.0,117.0,AK
+12523,612.0,"Juneau, AK: Juneau International",154.0,5250.0,AK
+12523,614.0,"Juneau, AK: Juneau International",2.0,38.0,AK
+12523,634.0,"Juneau, AK: Juneau International",14.0,366.0,AK
+12523,888.0,"Juneau, AK: Juneau International",14.0,372.0,AK
+12544,694.0,"Concord, NC: Concord Padgett Regional",36.0,2553.0,NC
+12544,698.0,"Concord, NC: Concord Padgett Regional",12.0,677.0,NC
+12553,131.0,"Ceiba, PR: Jose Aponte de la Torre",177.0,302.0,PR
+12559,479.0,"Johnstown, PA: John Murtha Johnstown-Cambria County",127.0,122.0,PA
+12610,35.0,"Kake, AK: Kake Seaplane Base",18.0,1.0,AK
+12610,415.0,"Kake, AK: Kake Seaplane Base",10.0,9.0,AK
+12610,479.0,"Kake, AK: Kake Seaplane Base",17.0,55.0,AK
+12615,194.0,"Kaltag, AK: Kaltag Airport",1.0,0.0,AK
+12615,416.0,"Kaltag, AK: Kaltag Airport",22.0,35.0,AK
+12621,416.0,"Birch Creek, AK: Birch Creek Airport",15.0,36.0,AK
+12633,40.0,"Coffman Cove, AK: Coffman Cove Seaplane Base",13.0,0.0,AK
+12635,416.0,"Chignik Bay, AK: Chignik Bay Airport",21.0,3.0,AK
+12638,416.0,"Chignik Lagoon, AK: Chignik Lagoon Airport",23.0,3.0,AK
+12641,416.0,"Chignik, AK: Chignik Lake",27.0,6.0,AK
+12649,35.0,"Nanwalek, AK: Nanwalek Airport",53.0,31.0,AK
+12652,40.0,"Kenmore, WA: Kenmore Air Harbor",6.0,8.0,WA
+12653,35.0,"Ekwok, AK: Ekwok Airport",22.0,17.0,AK
+12653,416.0,"Ekwok, AK: Ekwok Airport",28.0,33.0,AK
+12663,194.0,"False Pass, AK: False Pass Airport",15.0,6.0,AK
+12671,35.0,"Koliganek, AK: Koliganek Airport",25.0,29.0,AK
+12671,416.0,"Koliganek, AK: Koliganek Airport",9.0,4.0,AK
+12676,35.0,"Grayling, AK: Grayling Airport",17.0,4.0,AK
+12676,416.0,"Grayling, AK: Grayling Airport",4.0,0.0,AK
+12676,479.0,"Grayling, AK: Grayling Airport",1.0,0.0,AK
+12704,412.0,"Koyuk, AK: Koyuk Alfred Adams",3.0,0.0,AK
+12704,415.0,"Koyuk, AK: Koyuk Alfred Adams",56.0,89.0,AK
+12704,416.0,"Koyuk, AK: Koyuk Alfred Adams",1.0,0.0,AK
+12705,35.0,"Kitoi Bay, AK: Kitoi Bay Airport",5.0,1.0,AK
+12705,40.0,"Kitoi Bay, AK: Kitoi Bay Airport",1.0,3.0,AK
+12708,26.0,"Kongiganak, AK: Kongiganak Airport",46.0,45.0,AK
+12708,35.0,"Kongiganak, AK: Kongiganak Airport",30.0,18.0,AK
+12708,79.0,"Kongiganak, AK: Kongiganak Airport",2.0,0.0,AK
+12708,416.0,"Kongiganak, AK: Kongiganak Airport",23.0,43.0,AK
+12709,35.0,"Akiachak, AK: Akiachak Airport",44.0,86.0,AK
+12709,36.0,"Akiachak, AK: Akiachak Airport",14.0,16.0,AK
+12709,79.0,"Akiachak, AK: Akiachak Airport",15.0,26.0,AK
+12709,416.0,"Akiachak, AK: Akiachak Airport",3.0,1.0,AK
+12719,35.0,"Kalskag, AK: Kalskag Airport",47.0,12.0,AK
+12719,416.0,"Kalskag, AK: Kalskag Airport",10.0,0.0,AK
+12720,35.0,"Levelock, AK: Levelock Airport",27.0,20.0,AK
+12720,79.0,"Levelock, AK: Levelock Airport",1.0,0.0,AK
+12720,416.0,"Levelock, AK: Levelock Airport",5.0,2.0,AK
+12721,79.0,"Larsen Bay, AK: Larsen Bay Airport",22.0,19.0,AK
+12721,416.0,"Larsen Bay, AK: Larsen Bay Airport",4.0,2.0,AK
+12728,35.0,"Klawock, AK: Klawock Airport",1.0,0.0,AK
+12728,415.0,"Klawock, AK: Klawock Airport",67.0,279.0,AK
+12728,479.0,"Klawock, AK: Klawock Airport",11.0,40.0,AK
+12737,35.0,"Manokotak, AK: Manokatak Seaplane Base",45.0,21.0,AK
+12737,79.0,"Manokotak, AK: Manokatak Seaplane Base",1.0,0.0,AK
+12737,416.0,"Manokotak, AK: Manokatak Seaplane Base",31.0,31.0,AK
+12743,35.0,"Moser Bay, AK: Moser Bay Airport",3.0,0.0,AK
+12743,40.0,"Moser Bay, AK: Moser Bay Airport",5.0,3.0,AK
+12748,35.0,"Kokhanok, AK: Kokhanok Airport",9.0,0.0,AK
+12748,416.0,"Kokhanok, AK: Kokhanok Airport",1.0,6.0,AK
+12748,479.0,"Kokhanok, AK: Kokhanok Airport",15.0,25.0,AK
+12755,35.0,"New Stuyahok, AK: New Stuyahok Airport",32.0,23.0,AK
+12755,416.0,"New Stuyahok, AK: New Stuyahok Airport",30.0,32.0,AK
+12758,416.0,"Kona, HI: Ellison Onizuka Kona International at Keahole",67.0,298.0,HI
+12758,442.0,"Kona, HI: Ellison Onizuka Kona International at Keahole",20.0,0.0,HI
+12758,608.0,"Kona, HI: Ellison Onizuka Kona International at Keahole",136.0,5392.0,HI
+12758,614.0,"Kona, HI: Ellison Onizuka Kona International at Keahole",90.0,596.0,HI
+12758,622.0,"Kona, HI: Ellison Onizuka Kona International at Keahole",18.0,1640.0,HI
+12769,26.0,"Kotlik, AK: Kotlik Airport",69.0,15.0,AK
+12769,35.0,"Kotlik, AK: Kotlik Airport",4.0,0.0,AK
+12769,194.0,"Kotlik, AK: Kotlik Airport",13.0,47.0,AK
+12769,416.0,"Kotlik, AK: Kotlik Airport",47.0,110.0,AK
+12771,35.0,"Olga Bay, AK: Olga Bay Seaplane Base",3.0,0.0,AK
+12771,40.0,"Olga Bay, AK: Olga Bay Seaplane Base",5.0,8.0,AK
+12772,79.0,"Ouzinkie, AK: Ouzinkie Airport",29.0,37.0,AK
+12772,416.0,"Ouzinkie, AK: Ouzinkie Airport",6.0,2.0,AK
+12773,40.0,"Point Baker, AK: Point Baker Airport",7.0,1.0,AK
+12779,26.0,"Kipnuk, AK: Kipnuk Airport",24.0,36.0,AK
+12779,35.0,"Kipnuk, AK: Kipnuk Airport",49.0,48.0,AK
+12779,79.0,"Kipnuk, AK: Kipnuk Airport",16.0,3.0,AK
+12779,194.0,"Kipnuk, AK: Kipnuk Airport",1.0,1.0,AK
+12779,416.0,"Kipnuk, AK: Kipnuk Airport",30.0,90.0,AK
+12782,35.0,"Port Williams, AK: Port Williams Airport",5.0,1.0,AK
+12782,40.0,"Port Williams, AK: Port Williams Airport",1.0,0.0,AK
+12784,416.0,"Perryville, AK: Perryville Airport",22.0,2.0,AK
+12785,35.0,"Port Bailey, AK: Port Bailey Airport",3.0,0.0,AK
+12785,40.0,"Port Bailey, AK: Port Bailey Airport",3.0,1.0,AK
+12786,364.0,"Akutan, AK: Akutan Airport",62.0,36.0,AK
+12807,35.0,"St. Mary's, AK: St. Mary's Airport",54.0,3.0,AK
+12807,194.0,"St. Mary's, AK: St. Mary's Airport",8.0,37.0,AK
+12807,416.0,"St. Mary's, AK: St. Mary's Airport",37.0,44.0,AK
+12815,40.0,"Thorne Bay, AK: Thorne Bay Seaplane Base",38.0,0.0,AK
+12819,415.0,"Ketchikan, AK: Ketchikan International",70.0,278.0,AK
+12819,459.0,"Ketchikan, AK: Ketchikan International",1.0,0.0,AK
+12819,612.0,"Ketchikan, AK: Ketchikan International",61.0,2282.0,AK
+12822,412.0,"Brevig Mission, AK: Brevig Mission Airport",1.0,0.0,AK
+12822,415.0,"Brevig Mission, AK: Brevig Mission Airport",52.0,102.0,AK
+12822,416.0,"Brevig Mission, AK: Brevig Mission Airport",1.0,0.0,AK
+12831,26.0,"Kasigluk, AK: Kasigluk Airport",14.0,6.0,AK
+12831,35.0,"Kasigluk, AK: Kasigluk Airport",44.0,61.0,AK
+12831,36.0,"Kasigluk, AK: Kasigluk Airport",8.0,8.0,AK
+12831,79.0,"Kasigluk, AK: Kasigluk Airport",8.0,10.0,AK
+12841,194.0,"King Cove, AK: King Cove Airport",42.0,41.0,AK
+12844,415.0,"Kivalina, AK: Kivalina Airport",48.0,90.0,AK
+12851,26.0,"Kwigillingok, AK: Kwigillingok Airport",37.0,38.0,AK
+12851,35.0,"Kwigillingok, AK: Kwigillingok Airport",24.0,27.0,AK
+12851,36.0,"Kwigillingok, AK: Kwigillingok Airport",1.0,0.0,AK
+12851,416.0,"Kwigillingok, AK: Kwigillingok Airport",24.0,21.0,AK
+12853,26.0,"Quinhagak, AK: Quinhagak Airport",52.0,50.0,AK
+12853,35.0,"Quinhagak, AK: Quinhagak Airport",51.0,61.0,AK
+12853,36.0,"Quinhagak, AK: Quinhagak Airport",3.0,0.0,AK
+12853,79.0,"Quinhagak, AK: Quinhagak Airport",5.0,3.0,AK
+12853,416.0,"Quinhagak, AK: Quinhagak Airport",20.0,26.0,AK
+12854,35.0,"West Point, AK: West Point Village",3.0,1.0,AK
+12854,40.0,"West Point, AK: West Point Village",4.0,3.0,AK
+12855,35.0,"Kwethluk, AK: Kwethluk Airport",41.0,77.0,AK
+12855,36.0,"Kwethluk, AK: Kwethluk Airport",13.0,17.0,AK
+12855,79.0,"Kwethluk, AK: Kwethluk Airport",8.0,13.0,AK
+12855,416.0,"Kwethluk, AK: Kwethluk Airport",2.0,0.0,AK
+12857,40.0,"Kasaan, AK: Kasaan Seaplane Base",5.0,0.0,AK
+12866,79.0,"Karluk, AK: Karluk Airport",14.0,6.0,AK
+12866,416.0,"Karluk, AK: Karluk Airport",1.0,0.0,AK
+12868,194.0,"Koyukuk, AK: Koyukuk Airport",1.0,0.0,AK
+12868,416.0,"Koyukuk, AK: Koyukuk Airport",22.0,38.0,AK
+12869,35.0,"Zachar Bay, AK: Zachar Bay Airport",3.0,0.0,AK
+12869,40.0,"Zachar Bay, AK: Zachar Bay Airport",3.0,1.0,AK
+12884,629.0,"Lansing, MI: Capital Region International",44.0,494.0,MI
+12884,631.0,"Lansing, MI: Capital Region International",1.0,10.0,MI
+12884,673.0,"Lansing, MI: Capital Region International",3.0,61.0,MI
+12884,675.0,"Lansing, MI: Capital Region International",22.0,513.0,MI
+12888,629.0,"Laramie, WY: Laramie Regional",30.0,194.0,WY
+12889,612.0,"Las Vegas, NV: Harry Reid International",1608.0,72220.0,NV
+12889,614.0,"Las Vegas, NV: Harry Reid International",1165.0,52364.0,NV
+12889,673.0,"Las Vegas, NV: Harry Reid International",235.0,6114.0,NV
+12889,694.0,"Las Vegas, NV: Harry Reid International",77.0,3795.0,NV
+12889,698.0,"Las Vegas, NV: Harry Reid International",548.0,27901.0,NV
+12889,699.0,"Las Vegas, NV: Harry Reid International",159.0,7631.0,NV
+12889,722.0,"Las Vegas, NV: Harry Reid International",195.0,14590.0,NV
+12889,888.0,"Las Vegas, NV: Harry Reid International",34.0,2220.0,NV
+12891,631.0,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",10.0,124.0,OK
+12891,675.0,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",20.0,552.0,OK
+12891,676.0,"Lawton/Fort Sill, OK: Lawton-Fort Sill Regional",4.0,77.0,OK
+12892,416.0,"Los Angeles, CA: Los Angeles International",111.0,91.0,CA
+12892,479.0,"Los Angeles, CA: Los Angeles International",85.0,191.0,CA
+12892,612.0,"Los Angeles, CA: Los Angeles International",533.0,27111.0,CA
+12892,614.0,"Los Angeles, CA: Los Angeles International",1021.0,68942.0,CA
+12892,622.0,"Los Angeles, CA: Los Angeles International",129.0,6308.0,CA
+12892,623.0,"Los Angeles, CA: Los Angeles International",7.0,482.0,CA
+12892,626.0,"Los Angeles, CA: Los Angeles International",19.0,1699.0,CA
+12892,627.0,"Los Angeles, CA: Los Angeles International",4.0,219.0,CA
+12892,634.0,"Los Angeles, CA: Los Angeles International",1.0,59.0,CA
+12892,673.0,"Los Angeles, CA: Los Angeles International",654.0,15780.0,CA
+12892,687.0,"Los Angeles, CA: Los Angeles International",6.0,926.0,CA
+12892,694.0,"Los Angeles, CA: Los Angeles International",114.0,8262.0,CA
+12892,696.0,"Los Angeles, CA: Los Angeles International",31.0,2188.0,CA
+12892,698.0,"Los Angeles, CA: Los Angeles International",402.0,22367.0,CA
+12892,699.0,"Los Angeles, CA: Los Angeles International",544.0,50793.0,CA
+12892,721.0,"Los Angeles, CA: Los Angeles International",135.0,11563.0,CA
+12892,722.0,"Los Angeles, CA: Los Angeles International",40.0,5405.0,CA
+12892,837.0,"Los Angeles, CA: Los Angeles International",5.0,443.0,CA
+12892,887.0,"Los Angeles, CA: Los Angeles International",61.0,4783.0,CA
+12892,888.0,"Los Angeles, CA: Los Angeles International",144.0,10948.0,CA
+12892,889.0,"Los Angeles, CA: Los Angeles International",33.0,4767.0,CA
+12896,612.0,"Lubbock, TX: Lubbock Preston Smith International",109.0,3402.0,TX
+12896,614.0,"Lubbock, TX: Lubbock Preston Smith International",9.0,396.0,TX
+12896,631.0,"Lubbock, TX: Lubbock Preston Smith International",25.0,391.0,TX
+12896,638.0,"Lubbock, TX: Lubbock Preston Smith International",61.0,2601.0,TX
+12896,673.0,"Lubbock, TX: Lubbock Preston Smith International",1.0,33.0,TX
+12896,675.0,"Lubbock, TX: Lubbock Preston Smith International",62.0,799.0,TX
+12898,694.0,"Latrobe, PA: Arnold Palmer Regional",1.0,133.0,PA
+12898,698.0,"Latrobe, PA: Arnold Palmer Regional",12.0,1419.0,PA
+12899,629.0,"North Platte, NE: North Platte Regional Airport Lee Bird Field",59.0,342.0,NE
+12902,629.0,"Liberal, KS: Liberal Mid-America Regional",29.0,59.0,KS
+12915,675.0,"Lake Charles, LA: Lake Charles Regional",74.0,880.0,LA
+12915,676.0,"Lake Charles, LA: Lake Charles Regional",21.0,639.0,LA
+12917,694.0,"Columbus, OH: Rickenbacker International",39.0,4267.0,OH
+12917,698.0,"Columbus, OH: Rickenbacker International",32.0,3120.0,OH
+12932,125.0,"Lebanon-Hanover, NH: Lebanon Municipal",141.0,57.0,NH
+12945,530.0,"Lexington, KY: Blue Grass",45.0,397.0,KY
+12945,608.0,"Lexington, KY: Blue Grass",1.0,13.0,KY
+12945,629.0,"Lexington, KY: Blue Grass",1.0,2.0,KY
+12945,631.0,"Lexington, KY: Blue Grass",1.0,2.0,KY
+12945,673.0,"Lexington, KY: Blue Grass",144.0,2362.0,KY
+12945,675.0,"Lexington, KY: Blue Grass",113.0,1605.0,KY
+12945,694.0,"Lexington, KY: Blue Grass",21.0,1776.0,KY
+12945,698.0,"Lexington, KY: Blue Grass",11.0,868.0,KY
+12951,608.0,"Lafayette, LA: Lafayette Regional Paul Fournet Field",1.0,20.0,LA
+12951,629.0,"Lafayette, LA: Lafayette Regional Paul Fournet Field",29.0,496.0,LA
+12951,631.0,"Lafayette, LA: Lafayette Regional Paul Fournet Field",1.0,25.0,LA
+12951,638.0,"Lafayette, LA: Lafayette Regional Paul Fournet Field",58.0,2312.0,LA
+12951,675.0,"Lafayette, LA: Lafayette Regional Paul Fournet Field",58.0,882.0,LA
+12951,676.0,"Lafayette, LA: Lafayette Regional Paul Fournet Field",3.0,65.0,LA
+12953,612.0,"New York, NY: LaGuardia",50.0,3522.0,NY
+12953,614.0,"New York, NY: LaGuardia",102.0,11569.0,NY
+12953,631.0,"New York, NY: LaGuardia",5.0,121.0,NY
+12953,673.0,"New York, NY: LaGuardia",186.0,8313.0,NY
+12953,675.0,"New York, NY: LaGuardia",1.0,29.0,NY
+12953,677.0,"New York, NY: LaGuardia",6.0,255.0,NY
+12953,694.0,"New York, NY: LaGuardia",14.0,1252.0,NY
+12953,698.0,"New York, NY: LaGuardia",112.0,5728.0,NY
+12953,699.0,"New York, NY: LaGuardia",143.0,14921.0,NY
+12953,721.0,"New York, NY: LaGuardia",1.0,128.0,NY
+12953,722.0,"New York, NY: LaGuardia",18.0,1752.0,NY
+12953,723.0,"New York, NY: LaGuardia",26.0,525.0,NY
+12954,612.0,"Long Beach, CA: Long Beach Airport",194.0,3075.0,CA
+12954,614.0,"Long Beach, CA: Long Beach Airport",17.0,252.0,CA
+12954,631.0,"Long Beach, CA: Long Beach Airport",17.0,636.0,CA
+12954,638.0,"Long Beach, CA: Long Beach Airport",3.0,86.0,CA
+12954,673.0,"Long Beach, CA: Long Beach Airport",10.0,249.0,CA
+12954,694.0,"Long Beach, CA: Long Beach Airport",34.0,1033.0,CA
+12982,442.0,"Lihue, HI: Lihue Airport",23.0,0.0,HI
+12982,608.0,"Lihue, HI: Lihue Airport",135.0,3872.0,HI
+12982,614.0,"Lihue, HI: Lihue Airport",61.0,284.0,HI
+12982,622.0,"Lihue, HI: Lihue Airport",14.0,598.0,HI
+12992,530.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",1.0,2.0,AR
+12992,608.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",62.0,1568.0,AR
+12992,612.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",80.0,2457.0,AR
+12992,614.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",12.0,336.0,AR
+12992,629.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",6.0,50.0,AR
+12992,631.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",12.0,401.0,AR
+12992,638.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",49.0,1693.0,AR
+12992,673.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",121.0,4687.0,AR
+12992,675.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",56.0,1047.0,AR
+12992,694.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",6.0,361.0,AR
+12992,698.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",3.0,266.0,AR
+12992,722.0,"Little Rock, AR: Bill and Hillary Clinton Nat Adams Field",7.0,621.0,AR
+13002,40.0,"Seattle, WA: Lake Union Terminal",3.0,6.0,WA
+13016,35.0,"Lake Minchumina, AK: Lake Minchumina Airport",3.0,2.0,AK
+13016,194.0,"Lake Minchumina, AK: Lake Minchumina Airport",2.0,0.0,AK
+13016,416.0,"Lake Minchumina, AK: Lake Minchumina Airport",3.0,2.0,AK
+13029,629.0,"Lincoln, NE: Lincoln Airport",58.0,659.0,NE
+13029,638.0,"Lincoln, NE: Lincoln Airport",23.0,141.0,NE
+13029,673.0,"Lincoln, NE: Lincoln Airport",1.0,5.0,NE
+13029,675.0,"Lincoln, NE: Lincoln Airport",31.0,333.0,NE
+13032,416.0,"Lancaster, PA: Lancaster Airport",133.0,57.0,PA
+13034,416.0,"Lanai, HI: Lanai Airport",58.0,103.0,HI
+13034,441.0,"Lanai, HI: Lanai Airport",61.0,204.0,HI
+13061,675.0,"Laredo, TX: Laredo International",46.0,448.0,TX
+13061,676.0,"Laredo, TX: Laredo International",29.0,523.0,TX
+13061,698.0,"Laredo, TX: Laredo International",2.0,106.0,TX
+13076,629.0,"La Crosse, WI: La Crosse Regional",22.0,253.0,WI
+13076,675.0,"La Crosse, WI: La Crosse Regional",21.0,519.0,WI
+13109,416.0,"Kalaupapa, HI: Kalaupapa Airport",37.0,26.0,HI
+13111,415.0,"Cape Lisburne, AK: Cape Lisburne LRRS",4.0,2.0,AK
+13121,629.0,"Lewisburg, WV: Greenbrier Valley",31.0,54.0,WV
+13127,629.0,"Lewiston, ID: Lewiston Nez Perce County",22.0,238.0,ID
+13139,631.0,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",37.0,910.0,VA
+13139,638.0,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",21.0,327.0,VA
+13139,675.0,"Lynchburg, VA: Lynchburg Regional/Preston Glenn Field",9.0,95.0,VA
+13158,612.0,"Midland/Odessa, TX: Midland International Air and Space Port",54.0,2598.0,TX
+13158,614.0,"Midland/Odessa, TX: Midland International Air and Space Port",9.0,435.0,TX
+13158,629.0,"Midland/Odessa, TX: Midland International Air and Space Port",22.0,420.0,TX
+13158,631.0,"Midland/Odessa, TX: Midland International Air and Space Port",45.0,1086.0,TX
+13158,638.0,"Midland/Odessa, TX: Midland International Air and Space Port",90.0,4059.0,TX
+13158,673.0,"Midland/Odessa, TX: Midland International Air and Space Port",61.0,2052.0,TX
+13158,677.0,"Midland/Odessa, TX: Midland International Air and Space Port",2.0,28.0,TX
+13176,125.0,"Mayaguez, PR: Eugenio Maria de Hostos",120.0,218.0,PR
+13184,629.0,"Saginaw/Bay City/Midland, MI: MBS International",58.0,416.0,MI
+13194,479.0,"Merced, CA: Merced Regional/Macready Field",128.0,322.0,CA
+13196,415.0,"McGrath, AK: McGrath Airport",32.0,99.0,AK
+13196,416.0,"McGrath, AK: McGrath Airport",1.0,0.0,AK
+13198,608.0,"Kansas City, MO: Kansas City International",26.0,594.0,MO
+13198,612.0,"Kansas City, MO: Kansas City International",463.0,21826.0,MO
+13198,614.0,"Kansas City, MO: Kansas City International",189.0,9314.0,MO
+13198,629.0,"Kansas City, MO: Kansas City International",1.0,26.0,MO
+13198,631.0,"Kansas City, MO: Kansas City International",76.0,2256.0,MO
+13198,638.0,"Kansas City, MO: Kansas City International",6.0,158.0,MO
+13198,655.0,"Kansas City, MO: Kansas City International",62.0,2583.0,MO
+13198,673.0,"Kansas City, MO: Kansas City International",421.0,13877.0,MO
+13198,677.0,"Kansas City, MO: Kansas City International",5.0,89.0,MO
+13198,694.0,"Kansas City, MO: Kansas City International",39.0,2538.0,MO
+13198,698.0,"Kansas City, MO: Kansas City International",51.0,2703.0,MO
+13198,699.0,"Kansas City, MO: Kansas City International",1.0,151.0,MO
+13198,722.0,"Kansas City, MO: Kansas City International",26.0,1377.0,MO
+13198,888.0,"Kansas City, MO: Kansas City International",1.0,35.0,MO
+13200,479.0,"McCook, NE: McCook Ben Nelson Regional",53.0,30.0,NE
+13203,669.0,"Macon, GA: Middle Georgia Regional",2.0,8.0,GA
+13203,674.0,"Macon, GA: Middle Georgia Regional",52.0,225.0,GA
+13204,441.0,"Orlando, FL: Orlando International",31.0,310.0,FL
+13204,442.0,"Orlando, FL: Orlando International",1.0,4.0,FL
+13204,456.0,"Orlando, FL: Orlando International",5.0,31.0,FL
+13204,612.0,"Orlando, FL: Orlando International",840.0,25804.0,FL
+13204,614.0,"Orlando, FL: Orlando International",830.0,37434.0,FL
+13204,622.0,"Orlando, FL: Orlando International",130.0,8235.0,FL
+13204,623.0,"Orlando, FL: Orlando International",6.0,388.0,FL
+13204,626.0,"Orlando, FL: Orlando International",1.0,105.0,FL
+13204,678.0,"Orlando, FL: Orlando International",4.0,113.0,FL
+13204,694.0,"Orlando, FL: Orlando International",227.0,17623.0,FL
+13204,698.0,"Orlando, FL: Orlando International",179.0,10542.0,FL
+13204,699.0,"Orlando, FL: Orlando International",231.0,18133.0,FL
+13204,721.0,"Orlando, FL: Orlando International",4.0,157.0,FL
+13204,722.0,"Orlando, FL: Orlando International",499.0,45730.0,FL
+13204,888.0,"Orlando, FL: Orlando International",56.0,3714.0,FL
+13211,415.0,"Mason City, IA: Mason City Municipal",125.0,125.0,IA
+13230,530.0,"Harrisburg, PA: Harrisburg International",49.0,760.0,PA
+13230,608.0,"Harrisburg, PA: Harrisburg International",1.0,12.0,PA
+13230,629.0,"Harrisburg, PA: Harrisburg International",26.0,212.0,PA
+13230,631.0,"Harrisburg, PA: Harrisburg International",18.0,492.0,PA
+13230,638.0,"Harrisburg, PA: Harrisburg International",3.0,84.0,PA
+13230,675.0,"Harrisburg, PA: Harrisburg International",160.0,3510.0,PA
+13230,694.0,"Harrisburg, PA: Harrisburg International",24.0,1995.0,PA
+13230,698.0,"Harrisburg, PA: Harrisburg International",20.0,1031.0,PA
+13230,722.0,"Harrisburg, PA: Harrisburg International",5.0,274.0,PA
+13232,608.0,"Chicago, IL: Chicago Midway International",11.0,221.0,IL
+13232,612.0,"Chicago, IL: Chicago Midway International",2050.0,84417.0,IL
+13232,614.0,"Chicago, IL: Chicago Midway International",1084.0,56648.0,IL
+13232,694.0,"Chicago, IL: Chicago Midway International",14.0,370.0,IL
+13232,698.0,"Chicago, IL: Chicago Midway International",1.0,52.0,IL
+13241,629.0,"Meridian, MS: Key Field",32.0,634.0,MS
+13241,631.0,"Meridian, MS: Key Field",1.0,23.0,MS
+13244,416.0,"Memphis, TN: Memphis International",55.0,51.0,TN
+13244,530.0,"Memphis, TN: Memphis International",2.0,26.0,TN
+13244,608.0,"Memphis, TN: Memphis International",32.0,1130.0,TN
+13244,612.0,"Memphis, TN: Memphis International",76.0,3728.0,TN
+13244,614.0,"Memphis, TN: Memphis International",31.0,1609.0,TN
+13244,631.0,"Memphis, TN: Memphis International",41.0,1516.0,TN
+13244,638.0,"Memphis, TN: Memphis International",38.0,1888.0,TN
+13244,655.0,"Memphis, TN: Memphis International",61.0,3458.0,TN
+13244,673.0,"Memphis, TN: Memphis International",140.0,6115.0,TN
+13244,675.0,"Memphis, TN: Memphis International",28.0,731.0,TN
+13244,676.0,"Memphis, TN: Memphis International",4.0,64.0,TN
+13244,677.0,"Memphis, TN: Memphis International",3.0,44.0,TN
+13244,694.0,"Memphis, TN: Memphis International",23.0,1857.0,TN
+13244,698.0,"Memphis, TN: Memphis International",55.0,4604.0,TN
+13244,699.0,"Memphis, TN: Memphis International",1.0,112.0,TN
+13244,722.0,"Memphis, TN: Memphis International",11.0,1192.0,TN
+13256,612.0,"Mission/McAllen/Edinburg, TX: McAllen Miller International",2.0,45.0,TX
+13256,638.0,"Mission/McAllen/Edinburg, TX: McAllen Miller International",76.0,3898.0,TX
+13256,673.0,"Mission/McAllen/Edinburg, TX: McAllen Miller International",63.0,1605.0,TX
+13256,676.0,"Mission/McAllen/Edinburg, TX: McAllen Miller International",1.0,31.0,TX
+13256,698.0,"Mission/McAllen/Edinburg, TX: McAllen Miller International",15.0,639.0,TX
+13264,482.0,"Medford, OR: Rogue Valley International - Medford",57.0,2015.0,OR
+13264,629.0,"Medford, OR: Rogue Valley International - Medford",21.0,306.0,OR
+13264,631.0,"Medford, OR: Rogue Valley International - Medford",35.0,958.0,OR
+13264,673.0,"Medford, OR: Rogue Valley International - Medford",112.0,2871.0,OR
+13264,698.0,"Medford, OR: Rogue Valley International - Medford",16.0,880.0,OR
+13277,629.0,"Montgomery, AL: Montgomery Regional",30.0,356.0,AL
+13277,631.0,"Montgomery, AL: Montgomery Regional",1.0,65.0,AL
+13277,638.0,"Montgomery, AL: Montgomery Regional",8.0,87.0,AL
+13277,675.0,"Montgomery, AL: Montgomery Regional",81.0,1681.0,AL
+13277,676.0,"Montgomery, AL: Montgomery Regional",2.0,47.0,AL
+13282,416.0,"Morgantown, WV: Morgantown Municipal",167.0,86.0,WV
+13290,631.0,"Manhattan/Ft. Riley, KS: Manhattan Regional",5.0,92.0,KS
+13290,675.0,"Manhattan/Ft. Riley, KS: Manhattan Regional",28.0,705.0,KS
+13290,676.0,"Manhattan/Ft. Riley, KS: Manhattan Regional",1.0,36.0,KS
+13296,612.0,"Manchester, NH: Manchester Boston Regional",138.0,4224.0,NH
+13296,614.0,"Manchester, NH: Manchester Boston Regional",19.0,395.0,NH
+13296,631.0,"Manchester, NH: Manchester Boston Regional",33.0,767.0,NH
+13296,638.0,"Manchester, NH: Manchester Boston Regional",60.0,2208.0,NH
+13296,673.0,"Manchester, NH: Manchester Boston Regional",2.0,54.0,NH
+13296,675.0,"Manchester, NH: Manchester Boston Regional",43.0,903.0,NH
+13303,612.0,"Miami, FL: Miami International",4.0,128.0,FL
+13303,614.0,"Miami, FL: Miami International",836.0,58041.0,FL
+13303,623.0,"Miami, FL: Miami International",13.0,926.0,FL
+13303,627.0,"Miami, FL: Miami International",5.0,403.0,FL
+13303,637.0,"Miami, FL: Miami International",1.0,40.0,FL
+13303,673.0,"Miami, FL: Miami International",71.0,966.0,FL
+13303,694.0,"Miami, FL: Miami International",5.0,76.0,FL
+13303,698.0,"Miami, FL: Miami International",228.0,11207.0,FL
+13303,699.0,"Miami, FL: Miami International",252.0,19275.0,FL
+13303,722.0,"Miami, FL: Miami International",68.0,6027.0,FL
+13303,888.0,"Miami, FL: Miami International",15.0,1513.0,FL
+13342,612.0,"Milwaukee, WI: General Mitchell International",293.0,9888.0,WI
+13342,614.0,"Milwaukee, WI: General Mitchell International",168.0,6708.0,WI
+13342,629.0,"Milwaukee, WI: General Mitchell International",81.0,1148.0,WI
+13342,631.0,"Milwaukee, WI: General Mitchell International",89.0,2327.0,WI
+13342,638.0,"Milwaukee, WI: General Mitchell International",82.0,2897.0,WI
+13342,673.0,"Milwaukee, WI: General Mitchell International",114.0,4004.0,WI
+13342,675.0,"Milwaukee, WI: General Mitchell International",40.0,623.0,WI
+13342,698.0,"Milwaukee, WI: General Mitchell International",17.0,379.0,WI
+13342,722.0,"Milwaukee, WI: General Mitchell International",26.0,2250.0,WI
+13344,629.0,"Muskegon, MI: Muskegon County",33.0,84.0,MI
+13347,416.0,"Hoolehua, HI: Molokai",218.0,958.0,HI
+13347,441.0,"Hoolehua, HI: Molokai",62.0,588.0,HI
+13348,415.0,"Jackson, TN: McKellar-Sipes Regional",78.0,123.0,TN
+13360,608.0,"Melbourne, FL: Melbourne Orlando International",32.0,973.0,FL
+13360,631.0,"Melbourne, FL: Melbourne Orlando International",6.0,225.0,FL
+13360,638.0,"Melbourne, FL: Melbourne Orlando International",51.0,2177.0,FL
+13360,698.0,"Melbourne, FL: Melbourne Orlando International",3.0,41.0,FL
+13367,629.0,"Moline, IL: Quad Cities International",53.0,586.0,IL
+13367,638.0,"Moline, IL: Quad Cities International",58.0,1532.0,IL
+13367,673.0,"Moline, IL: Quad Cities International",2.0,8.0,IL
+13367,675.0,"Moline, IL: Quad Cities International",21.0,352.0,IL
+13367,694.0,"Moline, IL: Quad Cities International",11.0,843.0,IL
+13367,698.0,"Moline, IL: Quad Cities International",5.0,203.0,IL
+13369,35.0,"Marshall, AK: Marshall Don Hunter Sr.",39.0,32.0,AK
+13369,36.0,"Marshall, AK: Marshall Don Hunter Sr.",1.0,1.0,AK
+13369,79.0,"Marshall, AK: Marshall Don Hunter Sr.",6.0,13.0,AK
+13369,416.0,"Marshall, AK: Marshall Don Hunter Sr.",12.0,2.0,AK
+13377,629.0,"Monroe, LA: Monroe Regional",26.0,372.0,LA
+13377,631.0,"Monroe, LA: Monroe Regional",3.0,48.0,LA
+13377,675.0,"Monroe, LA: Monroe Regional",40.0,959.0,LA
+13377,676.0,"Monroe, LA: Monroe Regional",3.0,75.0,LA
+13381,194.0,"Manley Hot Springs, AK: Manley Hot Springs Airport",20.0,3.0,AK
+13415,194.0,"Minto, AK: Minto Al Wright",20.0,6.0,AK
+13422,629.0,"Mobile, AL: Mobile Regional",1.0,9.0,AL
+13422,638.0,"Mobile, AL: Mobile Regional",41.0,835.0,AL
+13422,675.0,"Mobile, AL: Mobile Regional",125.0,2879.0,AL
+13422,676.0,"Mobile, AL: Mobile Regional",21.0,653.0,AL
+13433,629.0,"Minot, ND: Minot International",19.0,338.0,ND
+13433,673.0,"Minot, ND: Minot International",45.0,936.0,ND
+13433,694.0,"Minot, ND: Minot International",8.0,554.0,ND
+13433,698.0,"Minot, ND: Minot International",4.0,203.0,ND
+13434,26.0,"Mountain Village, AK: Mountain Village Airport",2.0,0.0,AK
+13434,35.0,"Mountain Village, AK: Mountain Village Airport",8.0,2.0,AK
+13434,36.0,"Mountain Village, AK: Mountain Village Airport",1.0,0.0,AK
+13434,194.0,"Mountain Village, AK: Mountain Village Airport",6.0,14.0,AK
+13434,416.0,"Mountain Village, AK: Mountain Village Airport",24.0,58.0,AK
+13459,629.0,"Marquette, MI: Sawyer International",22.0,97.0,MI
+13459,675.0,"Marquette, MI: Sawyer International",21.0,398.0,MI
+13467,35.0,"Anchorage, AK: Merrill Field",3.0,3.0,AK
+13467,415.0,"Anchorage, AK: Merrill Field",28.0,158.0,AK
+13467,416.0,"Anchorage, AK: Merrill Field",1.0,0.0,AK
+13476,629.0,"Monterey, CA: Monterey Regional",3.0,22.0,CA
+13476,631.0,"Monterey, CA: Monterey Regional",17.0,349.0,CA
+13476,638.0,"Monterey, CA: Monterey Regional",2.0,29.0,CA
+13476,673.0,"Monterey, CA: Monterey Regional",69.0,1084.0,CA
+13476,698.0,"Monterey, CA: Monterey Regional",5.0,255.0,CA
+13484,479.0,"Muscle Shoals, AL: Northwest Alabama Regional",104.0,113.0,AL
+13485,530.0,"Madison, WI: Dane County Regional-Truax Field",46.0,665.0,WI
+13485,631.0,"Madison, WI: Dane County Regional-Truax Field",69.0,1398.0,WI
+13485,638.0,"Madison, WI: Dane County Regional-Truax Field",61.0,1530.0,WI
+13485,673.0,"Madison, WI: Dane County Regional-Truax Field",100.0,2378.0,WI
+13485,698.0,"Madison, WI: Dane County Regional-Truax Field",5.0,103.0,WI
+13485,722.0,"Madison, WI: Dane County Regional-Truax Field",12.0,750.0,WI
+13486,482.0,"Missoula, MT: Missoula Montana",29.0,858.0,MT
+13486,631.0,"Missoula, MT: Missoula Montana",1.0,28.0,MT
+13486,673.0,"Missoula, MT: Missoula Montana",117.0,3344.0,MT
+13486,694.0,"Missoula, MT: Missoula Montana",9.0,711.0,MT
+13486,698.0,"Missoula, MT: Missoula Montana",8.0,349.0,MT
+13487,403.0,"Minneapolis, MN: Minneapolis-St Paul International",13.0,0.0,MN
+13487,404.0,"Minneapolis, MN: Minneapolis-St Paul International",1.0,0.0,MN
+13487,415.0,"Minneapolis, MN: Minneapolis-St Paul International",94.0,104.0,MN
+13487,479.0,"Minneapolis, MN: Minneapolis-St Paul International",77.0,77.0,MN
+13487,608.0,"Minneapolis, MN: Minneapolis-St Paul International",33.0,904.0,MN
+13487,612.0,"Minneapolis, MN: Minneapolis-St Paul International",166.0,7202.0,MN
+13487,614.0,"Minneapolis, MN: Minneapolis-St Paul International",532.0,33370.0,MN
+13487,622.0,"Minneapolis, MN: Minneapolis-St Paul International",92.0,6134.0,MN
+13487,623.0,"Minneapolis, MN: Minneapolis-St Paul International",1.0,62.0,MN
+13487,629.0,"Minneapolis, MN: Minneapolis-St Paul International",323.0,2301.0,MN
+13487,631.0,"Minneapolis, MN: Minneapolis-St Paul International",27.0,959.0,MN
+13487,638.0,"Minneapolis, MN: Minneapolis-St Paul International",722.0,15020.0,MN
+13487,673.0,"Minneapolis, MN: Minneapolis-St Paul International",499.0,12981.0,MN
+13487,675.0,"Minneapolis, MN: Minneapolis-St Paul International",1.0,35.0,MN
+13487,677.0,"Minneapolis, MN: Minneapolis-St Paul International",4.0,62.0,MN
+13487,678.0,"Minneapolis, MN: Minneapolis-St Paul International",4.0,20.0,MN
+13487,694.0,"Minneapolis, MN: Minneapolis-St Paul International",121.0,7581.0,MN
+13487,698.0,"Minneapolis, MN: Minneapolis-St Paul International",372.0,17297.0,MN
+13487,699.0,"Minneapolis, MN: Minneapolis-St Paul International",171.0,11780.0,MN
+13487,721.0,"Minneapolis, MN: Minneapolis-St Paul International",2.0,156.0,MN
+13487,722.0,"Minneapolis, MN: Minneapolis-St Paul International",18.0,1667.0,MN
+13487,723.0,"Minneapolis, MN: Minneapolis-St Paul International",91.0,3008.0,MN
+13487,888.0,"Minneapolis, MN: Minneapolis-St Paul International",53.0,2927.0,MN
+13490,479.0,"Massena, NY: Massena International-Richards Field",87.0,41.0,NY
+13495,612.0,"New Orleans, LA: Louis Armstrong New Orleans International",428.0,16119.0,LA
+13495,614.0,"New Orleans, LA: Louis Armstrong New Orleans International",206.0,10040.0,LA
+13495,638.0,"New Orleans, LA: Louis Armstrong New Orleans International",4.0,59.0,LA
+13495,673.0,"New Orleans, LA: Louis Armstrong New Orleans International",153.0,5754.0,LA
+13495,694.0,"New Orleans, LA: Louis Armstrong New Orleans International",73.0,3489.0,LA
+13495,698.0,"New Orleans, LA: Louis Armstrong New Orleans International",128.0,6696.0,LA
+13495,699.0,"New Orleans, LA: Louis Armstrong New Orleans International",35.0,1882.0,LA
+13495,721.0,"New Orleans, LA: Louis Armstrong New Orleans International",1.0,51.0,LA
+13495,722.0,"New Orleans, LA: Louis Armstrong New Orleans International",23.0,1771.0,LA
+13495,888.0,"New Orleans, LA: Louis Armstrong New Orleans International",2.0,55.0,LA
+13502,629.0,"Montrose/Delta, CO: Montrose Regional",82.0,1306.0,CO
+13502,631.0,"Montrose/Delta, CO: Montrose Regional",22.0,383.0,CO
+13502,675.0,"Montrose/Delta, CO: Montrose Regional",3.0,30.0,CO
+13504,40.0,"Metlakatla, AK: Metlakatala",85.0,8.0,AK
+13520,416.0,"Kamuela, HI: Waimea-Kohala",46.0,119.0,HI
+13541,125.0,"Martha's Vineyard, MA: Martha's Vineyard Airport",75.0,121.0,MA
+13541,479.0,"Martha's Vineyard, MA: Martha's Vineyard Airport",10.0,52.0,MA
+13543,125.0,"Marion/Herrin, IL: Veterans Airport of Southern Illinois",154.0,194.0,IL
+13564,35.0,"McCarthy, AK: McCarthy Airport",8.0,0.0,AK
+13574,35.0,"May Creek, AK: May Creek Airport",8.0,0.0,AK
+13577,608.0,"Myrtle Beach, SC: Myrtle Beach International",1.0,11.0,SC
+13577,614.0,"Myrtle Beach, SC: Myrtle Beach International",3.0,127.0,SC
+13577,629.0,"Myrtle Beach, SC: Myrtle Beach International",1.0,9.0,SC
+13577,631.0,"Myrtle Beach, SC: Myrtle Beach International",38.0,1415.0,SC
+13577,638.0,"Myrtle Beach, SC: Myrtle Beach International",110.0,3505.0,SC
+13577,673.0,"Myrtle Beach, SC: Myrtle Beach International",54.0,1547.0,SC
+13577,677.0,"Myrtle Beach, SC: Myrtle Beach International",1.0,2.0,SC
+13577,694.0,"Myrtle Beach, SC: Myrtle Beach International",29.0,2070.0,SC
+13577,698.0,"Myrtle Beach, SC: Myrtle Beach International",22.0,973.0,SC
+13577,722.0,"Myrtle Beach, SC: Myrtle Beach International",11.0,602.0,SC
+13579,79.0,"Mekoryuk, AK: Mekoryuk Airport",1.0,0.0,AK
+13579,416.0,"Mekoryuk, AK: Mekoryuk Airport",23.0,19.0,AK
+13676,415.0,"Nikolai, AK: Nikolai Airport",26.0,122.0,AK
+13693,40.0,"Naukiti, AK: Naukiti Airport",8.0,0.0,AK
+13704,194.0,"Nelson Lagoon, AK: Nelson Lagoon Airport",9.0,0.0,AK
+13710,26.0,"Nightmute, AK: Nightmute Airport",15.0,8.0,AK
+13710,35.0,"Nightmute, AK: Nightmute Airport",28.0,31.0,AK
+13710,36.0,"Nightmute, AK: Nightmute Airport",1.0,0.0,AK
+13710,79.0,"Nightmute, AK: Nightmute Airport",8.0,0.0,AK
+13710,416.0,"Nightmute, AK: Nightmute Airport",35.0,99.0,AK
+13715,35.0,"Nondalton, AK: Nondalton Airport",14.0,0.0,AK
+13715,479.0,"Nondalton, AK: Nondalton Airport",3.0,7.0,AK
+13767,416.0,"Nuiqsut, AK: Nuiqsut Airport",50.0,147.0,AK
+13768,194.0,"Nulato, AK: Nulato Airport",1.0,0.0,AK
+13768,416.0,"Nulato, AK: Nulato Airport",34.0,32.0,AK
+13770,26.0,"Nunapitchuk, AK: Nunapitchuk Airport",18.0,22.0,AK
+13770,35.0,"Nunapitchuk, AK: Nunapitchuk Airport",43.0,44.0,AK
+13770,36.0,"Nunapitchuk, AK: Nunapitchuk Airport",10.0,9.0,AK
+13770,79.0,"Nunapitchuk, AK: Nunapitchuk Airport",4.0,1.0,AK
+13770,416.0,"Nunapitchuk, AK: Nunapitchuk Airport",3.0,0.0,AK
+13795,629.0,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",2.0,19.0,NC
+13795,631.0,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",3.0,101.0,NC
+13795,638.0,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",108.0,3919.0,NC
+13795,675.0,"Jacksonville/Camp Lejeune, NC: Albert J Ellis",5.0,97.0,NC
+13796,479.0,"Oakland, CA: Metro Oakland International",4.0,8.0,CA
+13796,482.0,"Oakland, CA: Metro Oakland International",1.0,42.0,CA
+13796,612.0,"Oakland, CA: Metro Oakland International",739.0,29323.0,CA
+13796,614.0,"Oakland, CA: Metro Oakland International",389.0,15112.0,CA
+13796,631.0,"Oakland, CA: Metro Oakland International",22.0,874.0,CA
+13796,673.0,"Oakland, CA: Metro Oakland International",30.0,1065.0,CA
+13796,674.0,"Oakland, CA: Metro Oakland International",31.0,136.0,CA
+13796,694.0,"Oakland, CA: Metro Oakland International",4.0,258.0,CA
+13796,698.0,"Oakland, CA: Metro Oakland International",18.0,1381.0,CA
+13796,888.0,"Oakland, CA: Metro Oakland International",4.0,97.0,CA
+13806,194.0,"Kobuk, AK: Kobuk Airport",2.0,0.0,AK
+13806,415.0,"Kobuk, AK: Kobuk Airport",27.0,47.0,AK
+13829,673.0,"Ogden, UT: Ogden-Hinckley",1.0,0.0,UT
+13829,694.0,"Ogden, UT: Ogden-Hinckley",2.0,196.0,UT
+13830,416.0,"Kahului, HI: Kahului Airport",277.0,948.0,HI
+13830,442.0,"Kahului, HI: Kahului Airport",21.0,0.0,HI
+13830,608.0,"Kahului, HI: Kahului Airport",140.0,6777.0,HI
+13830,614.0,"Kahului, HI: Kahului Airport",92.0,820.0,HI
+13830,622.0,"Kahului, HI: Kahului Airport",18.0,1736.0,HI
+13830,721.0,"Kahului, HI: Kahului Airport",3.0,221.0,HI
+13832,629.0,"Ogdensburg, NY: Ogdensburg International",34.0,86.0,NY
+13832,694.0,"Ogdensburg, NY: Ogdensburg International",1.0,58.0,NY
+13832,698.0,"Ogdensburg, NY: Ogdensburg International",3.0,170.0,NY
+13851,608.0,"Oklahoma City, OK: Will Rogers World",34.0,1171.0,OK
+13851,612.0,"Oklahoma City, OK: Will Rogers World",156.0,7877.0,OK
+13851,614.0,"Oklahoma City, OK: Will Rogers World",58.0,3206.0,OK
+13851,629.0,"Oklahoma City, OK: Will Rogers World",5.0,47.0,OK
+13851,631.0,"Oklahoma City, OK: Will Rogers World",97.0,3531.0,OK
+13851,638.0,"Oklahoma City, OK: Will Rogers World",130.0,5239.0,OK
+13851,673.0,"Oklahoma City, OK: Will Rogers World",224.0,6533.0,OK
+13851,677.0,"Oklahoma City, OK: Will Rogers World",1.0,5.0,OK
+13851,694.0,"Oklahoma City, OK: Will Rogers World",7.0,559.0,OK
+13851,698.0,"Oklahoma City, OK: Will Rogers World",20.0,1157.0,OK
+13851,722.0,"Oklahoma City, OK: Will Rogers World",5.0,293.0,OK
+13862,125.0,"Wolf Point, MT: L. M. Clayton",62.0,159.0,MT
+13863,79.0,"Old Harbor, AK: Old Harbor Airport",27.0,42.0,AK
+13863,416.0,"Old Harbor, AK: Old Harbor Airport",14.0,32.0,AK
+13871,612.0,"Omaha, NE: Eppley Airfield",143.0,4909.0,NE
+13871,614.0,"Omaha, NE: Eppley Airfield",124.0,4829.0,NE
+13871,631.0,"Omaha, NE: Eppley Airfield",151.0,4324.0,NE
+13871,638.0,"Omaha, NE: Eppley Airfield",5.0,112.0,NE
+13871,655.0,"Omaha, NE: Eppley Airfield",33.0,1136.0,NE
+13871,673.0,"Omaha, NE: Eppley Airfield",232.0,6240.0,NE
+13871,677.0,"Omaha, NE: Eppley Airfield",24.0,533.0,NE
+13871,694.0,"Omaha, NE: Eppley Airfield",23.0,1360.0,NE
+13871,698.0,"Omaha, NE: Eppley Airfield",26.0,1104.0,NE
+13871,722.0,"Omaha, NE: Eppley Airfield",16.0,716.0,NE
+13871,888.0,"Omaha, NE: Eppley Airfield",1.0,13.0,NE
+13873,194.0,"Nome, AK: Nome Airport",33.0,33.0,AK
+13873,405.0,"Nome, AK: Nome Airport",56.0,71.0,AK
+13873,406.0,"Nome, AK: Nome Airport",2.0,2.0,AK
+13873,412.0,"Nome, AK: Nome Airport",20.0,0.0,AK
+13873,415.0,"Nome, AK: Nome Airport",200.0,352.0,AK
+13873,416.0,"Nome, AK: Nome Airport",4.0,0.0,AK
+13873,612.0,"Nome, AK: Nome Airport",21.0,495.0,AK
+13891,612.0,"Ontario, CA: Ontario International",168.0,6839.0,CA
+13891,614.0,"Ontario, CA: Ontario International",224.0,17862.0,CA
+13891,629.0,"Ontario, CA: Ontario International",28.0,596.0,CA
+13891,673.0,"Ontario, CA: Ontario International",172.0,6365.0,CA
+13891,694.0,"Ontario, CA: Ontario International",10.0,353.0,CA
+13891,698.0,"Ontario, CA: Ontario International",32.0,1273.0,CA
+13891,722.0,"Ontario, CA: Ontario International",17.0,1798.0,CA
+13894,26.0,"Toksook, AK: Toksook Bay",24.0,16.0,AK
+13894,35.0,"Toksook, AK: Toksook Bay",29.0,21.0,AK
+13894,79.0,"Toksook, AK: Toksook Bay",17.0,6.0,AK
+13894,194.0,"Toksook, AK: Toksook Bay",1.0,2.0,AK
+13894,416.0,"Toksook, AK: Toksook Bay",66.0,146.0,AK
+13930,125.0,"Chicago, IL: Chicago O'Hare International",76.0,86.0,IL
+13930,415.0,"Chicago, IL: Chicago O'Hare International",158.0,184.0,IL
+13930,530.0,"Chicago, IL: Chicago O'Hare International",601.0,9140.0,IL
+13930,608.0,"Chicago, IL: Chicago O'Hare International",93.0,4002.0,IL
+13930,612.0,"Chicago, IL: Chicago O'Hare International",119.0,5529.0,IL
+13930,614.0,"Chicago, IL: Chicago O'Hare International",913.0,70267.0,IL
+13930,622.0,"Chicago, IL: Chicago O'Hare International",4.0,250.0,IL
+13930,623.0,"Chicago, IL: Chicago O'Hare International",19.0,1190.0,IL
+13930,626.0,"Chicago, IL: Chicago O'Hare International",10.0,550.0,IL
+13930,627.0,"Chicago, IL: Chicago O'Hare International",13.0,1349.0,IL
+13930,629.0,"Chicago, IL: Chicago O'Hare International",1130.0,12654.0,IL
+13930,631.0,"Chicago, IL: Chicago O'Hare International",706.0,16845.0,IL
+13930,637.0,"Chicago, IL: Chicago O'Hare International",2.0,211.0,IL
+13930,638.0,"Chicago, IL: Chicago O'Hare International",52.0,641.0,IL
+13930,673.0,"Chicago, IL: Chicago O'Hare International",1957.0,51664.0,IL
+13930,675.0,"Chicago, IL: Chicago O'Hare International",1112.0,19058.0,IL
+13930,676.0,"Chicago, IL: Chicago O'Hare International",2.0,24.0,IL
+13930,677.0,"Chicago, IL: Chicago O'Hare International",196.0,4392.0,IL
+13930,678.0,"Chicago, IL: Chicago O'Hare International",9.0,160.0,IL
+13930,694.0,"Chicago, IL: Chicago O'Hare International",297.0,16934.0,IL
+13930,698.0,"Chicago, IL: Chicago O'Hare International",659.0,37594.0,IL
+13930,699.0,"Chicago, IL: Chicago O'Hare International",230.0,20489.0,IL
+13930,721.0,"Chicago, IL: Chicago O'Hare International",7.0,596.0,IL
+13930,722.0,"Chicago, IL: Chicago O'Hare International",74.0,8893.0,IL
+13930,723.0,"Chicago, IL: Chicago O'Hare International",62.0,2567.0,IL
+13930,887.0,"Chicago, IL: Chicago O'Hare International",40.0,3716.0,IL
+13930,888.0,"Chicago, IL: Chicago O'Hare International",83.0,5788.0,IL
+13930,889.0,"Chicago, IL: Chicago O'Hare International",4.0,259.0,IL
+13931,612.0,"Norfolk, VA: Norfolk International",83.0,3309.0,VA
+13931,614.0,"Norfolk, VA: Norfolk International",16.0,791.0,VA
+13931,629.0,"Norfolk, VA: Norfolk International",56.0,1310.0,VA
+13931,631.0,"Norfolk, VA: Norfolk International",119.0,4765.0,VA
+13931,638.0,"Norfolk, VA: Norfolk International",73.0,2568.0,VA
+13931,655.0,"Norfolk, VA: Norfolk International",61.0,3503.0,VA
+13931,673.0,"Norfolk, VA: Norfolk International",7.0,224.0,VA
+13931,675.0,"Norfolk, VA: Norfolk International",67.0,2332.0,VA
+13931,694.0,"Norfolk, VA: Norfolk International",19.0,928.0,VA
+13931,698.0,"Norfolk, VA: Norfolk International",27.0,1891.0,VA
+13931,699.0,"Norfolk, VA: Norfolk International",3.0,117.0,VA
+13931,722.0,"Norfolk, VA: Norfolk International",13.0,709.0,VA
+13931,888.0,"Norfolk, VA: Norfolk International",1.0,6.0,VA
+13933,629.0,"Worcester, MA: Worcester Regional",18.0,58.0,MA
+13933,675.0,"Worcester, MA: Worcester Regional",23.0,184.0,MA
+13933,678.0,"Worcester, MA: Worcester Regional",12.0,31.0,MA
+13934,79.0,"Port Lions, AK: Port Lions Airport",28.0,33.0,AK
+13934,416.0,"Port Lions, AK: Port Lions Airport",6.0,1.0,AK
+13942,412.0,"Noorvik, AK: Robert/Bob/Curtis Memorial",1.0,0.0,AK
+13942,415.0,"Noorvik, AK: Robert/Bob/Curtis Memorial",62.0,111.0,AK
+13964,629.0,"North Bend/Coos Bay, OR: Southwest Oregon Regional",19.0,152.0,OR
+13964,631.0,"North Bend/Coos Bay, OR: Southwest Oregon Regional",1.0,8.0,OR
+13964,673.0,"North Bend/Coos Bay, OR: Southwest Oregon Regional",1.0,6.0,OR
+13970,194.0,"Kotzebue, AK: Ralph Wien Memorial",10.0,11.0,AK
+13970,412.0,"Kotzebue, AK: Ralph Wien Memorial",21.0,0.0,AK
+13970,415.0,"Kotzebue, AK: Ralph Wien Memorial",341.0,489.0,AK
+13970,612.0,"Kotzebue, AK: Ralph Wien Memorial",13.0,352.0,AK
+13970,614.0,"Kotzebue, AK: Ralph Wien Memorial",8.0,380.0,AK
+13983,125.0,"Owensboro, KY: Owensboro Daviess County Regional",92.0,94.0,KY
+13983,694.0,"Owensboro, KY: Owensboro Daviess County Regional",2.0,145.0,KY
+13983,698.0,"Owensboro, KY: Owensboro Daviess County Regional",3.0,119.0,KY
+14004,673.0,"Everett, WA: Snohomish County",38.0,744.0,WA
+14006,629.0,"Paducah, KY: Barkley Regional",32.0,149.0,KY
+14025,629.0,"Plattsburgh, NY: Plattsburgh International",32.0,165.0,NY
+14025,694.0,"Plattsburgh, NY: Plattsburgh International",9.0,387.0,NY
+14025,698.0,"Plattsburgh, NY: Plattsburgh International",19.0,536.0,NY
+14027,612.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",30.0,1754.0,FL
+14027,614.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",76.0,6047.0,FL
+14027,631.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",3.0,134.0,FL
+14027,673.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",13.0,529.0,FL
+14027,677.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",4.0,166.0,FL
+14027,694.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",50.0,3792.0,FL
+14027,698.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",64.0,4732.0,FL
+14027,699.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",76.0,8683.0,FL
+14027,722.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",14.0,1249.0,FL
+14027,888.0,"West Palm Beach/Palm Beach, FL: Palm Beach International",46.0,3547.0,FL
+14028,40.0,"Pack Creek, AK: Pack Creek Airport",1.0,0.0,AK
+14046,35.0,"Pedro Bay, AK: Pedro Bay Airport",11.0,0.0,AK
+14046,479.0,"Pedro Bay, AK: Pedro Bay Airport",3.0,5.0,AK
+14054,479.0,"Pendleton, OR: Eastern Oregon Regional at Pendleton",96.0,135.0,OR
+14057,479.0,"Portland, OR: Portland International",96.0,122.0,OR
+14057,482.0,"Portland, OR: Portland International",105.0,2990.0,OR
+14057,612.0,"Portland, OR: Portland International",248.0,10723.0,OR
+14057,614.0,"Portland, OR: Portland International",377.0,28176.0,OR
+14057,634.0,"Portland, OR: Portland International",12.0,688.0,OR
+14057,673.0,"Portland, OR: Portland International",584.0,17497.0,OR
+14057,694.0,"Portland, OR: Portland International",13.0,553.0,OR
+14057,698.0,"Portland, OR: Portland International",78.0,3737.0,OR
+14057,699.0,"Portland, OR: Portland International",20.0,1493.0,OR
+14057,722.0,"Portland, OR: Portland International",20.0,1868.0,OR
+14057,888.0,"Portland, OR: Portland International",109.0,6624.0,OR
+14062,35.0,"Pelican, AK: Pelican Seaplane Base",6.0,3.0,AK
+14062,40.0,"Pelican, AK: Pelican Seaplane Base",4.0,1.0,AK
+14062,416.0,"Pelican, AK: Pelican Seaplane Base",16.0,24.0,AK
+14081,674.0,"Page, AZ: Page Municipal",60.0,181.0,AZ
+14082,694.0,"Punta Gorda, FL: Punta Gorda Airport",287.0,30447.0,FL
+14082,698.0,"Punta Gorda, FL: Punta Gorda Airport",31.0,3045.0,FL
+14088,35.0,"Port Graham, AK: Port Graham Airport",74.0,65.0,AK
+14092,675.0,"Greenville, NC: Pitt Greenville",60.0,633.0,NC
+14098,631.0,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",54.0,1439.0,VA
+14098,638.0,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",17.0,256.0,VA
+14098,675.0,"Newport News/Williamsburg, VA: Newport News/Williamsburg International",52.0,1111.0,VA
+14100,608.0,"Philadelphia, PA: Philadelphia International",1.0,36.0,PA
+14100,612.0,"Philadelphia, PA: Philadelphia International",154.0,5516.0,PA
+14100,614.0,"Philadelphia, PA: Philadelphia International",318.0,19173.0,PA
+14100,631.0,"Philadelphia, PA: Philadelphia International",376.0,8838.0,PA
+14100,638.0,"Philadelphia, PA: Philadelphia International",126.0,2776.0,PA
+14100,655.0,"Philadelphia, PA: Philadelphia International",76.0,5065.0,PA
+14100,673.0,"Philadelphia, PA: Philadelphia International",519.0,15420.0,PA
+14100,675.0,"Philadelphia, PA: Philadelphia International",801.0,16606.0,PA
+14100,677.0,"Philadelphia, PA: Philadelphia International",1.0,13.0,PA
+14100,678.0,"Philadelphia, PA: Philadelphia International",5.0,41.0,PA
+14100,694.0,"Philadelphia, PA: Philadelphia International",42.0,2414.0,PA
+14100,698.0,"Philadelphia, PA: Philadelphia International",451.0,23666.0,PA
+14100,699.0,"Philadelphia, PA: Philadelphia International",373.0,20430.0,PA
+14100,721.0,"Philadelphia, PA: Philadelphia International",11.0,490.0,PA
+14100,722.0,"Philadelphia, PA: Philadelphia International",138.0,15238.0,PA
+14100,887.0,"Philadelphia, PA: Philadelphia International",7.0,0.0,PA
+14100,888.0,"Philadelphia, PA: Philadelphia International",30.0,1717.0,PA
+14102,412.0,"Point Hope, AK: Point Hope Airport",7.0,0.0,AK
+14102,415.0,"Point Hope, AK: Point Hope Airport",58.0,83.0,AK
+14102,416.0,"Point Hope, AK: Point Hope Airport",5.0,12.0,AK
+14107,458.0,"Phoenix, AZ: Phoenix Sky Harbor International",31.0,23.0,AZ
+14107,479.0,"Phoenix, AZ: Phoenix Sky Harbor International",118.0,310.0,AZ
+14107,612.0,"Phoenix, AZ: Phoenix Sky Harbor International",1071.0,62100.0,AZ
+14107,614.0,"Phoenix, AZ: Phoenix Sky Harbor International",1039.0,79660.0,AZ
+14107,629.0,"Phoenix, AZ: Phoenix Sky Harbor International",23.0,658.0,AZ
+14107,631.0,"Phoenix, AZ: Phoenix Sky Harbor International",633.0,18598.0,AZ
+14107,634.0,"Phoenix, AZ: Phoenix Sky Harbor International",6.0,662.0,AZ
+14107,638.0,"Phoenix, AZ: Phoenix Sky Harbor International",78.0,1810.0,AZ
+14107,673.0,"Phoenix, AZ: Phoenix Sky Harbor International",243.0,9888.0,AZ
+14107,674.0,"Phoenix, AZ: Phoenix Sky Harbor International",60.0,192.0,AZ
+14107,694.0,"Phoenix, AZ: Phoenix Sky Harbor International",116.0,8293.0,AZ
+14107,698.0,"Phoenix, AZ: Phoenix Sky Harbor International",440.0,28877.0,AZ
+14107,699.0,"Phoenix, AZ: Phoenix Sky Harbor International",499.0,46188.0,AZ
+14107,721.0,"Phoenix, AZ: Phoenix Sky Harbor International",116.0,5489.0,AZ
+14107,722.0,"Phoenix, AZ: Phoenix Sky Harbor International",77.0,8242.0,AZ
+14107,888.0,"Phoenix, AZ: Phoenix Sky Harbor International",56.0,5824.0,AZ
+14108,629.0,"Peoria, IL: General Downing - Peoria International",68.0,553.0,IL
+14108,631.0,"Peoria, IL: General Downing - Peoria International",31.0,746.0,IL
+14108,638.0,"Peoria, IL: General Downing - Peoria International",31.0,840.0,IL
+14108,675.0,"Peoria, IL: General Downing - Peoria International",22.0,233.0,IL
+14108,694.0,"Peoria, IL: General Downing - Peoria International",35.0,3066.0,IL
+14108,698.0,"Peoria, IL: General Downing - Peoria International",7.0,505.0,IL
+14109,629.0,"Hattiesburg/Laurel, MS: Hattiesburg-Laurel Regional",31.0,350.0,MS
+14112,694.0,"St. Petersburg, FL: St Pete Clearwater International",408.0,35862.0,FL
+14112,698.0,"St. Petersburg, FL: St Pete Clearwater International",37.0,2862.0,FL
+14113,629.0,"Pocatello, ID: Pocatello Regional",22.0,185.0,ID
+14119,35.0,"Pilot Point, AK: Pilot Point Airport",25.0,3.0,AK
+14119,416.0,"Pilot Point, AK: Pilot Point Airport",3.0,0.0,AK
+14120,629.0,"Pierre, SD: Pierre Regional",31.0,127.0,SD
+14120,631.0,"Pierre, SD: Pierre Regional",1.0,0.0,SD
+14122,416.0,"Pittsburgh, PA: Pittsburgh International",471.0,236.0,PA
+14122,479.0,"Pittsburgh, PA: Pittsburgh International",78.0,75.0,PA
+14122,612.0,"Pittsburgh, PA: Pittsburgh International",114.0,3354.0,PA
+14122,614.0,"Pittsburgh, PA: Pittsburgh International",205.0,9801.0,PA
+14122,631.0,"Pittsburgh, PA: Pittsburgh International",37.0,917.0,PA
+14122,638.0,"Pittsburgh, PA: Pittsburgh International",58.0,956.0,PA
+14122,655.0,"Pittsburgh, PA: Pittsburgh International",57.0,3160.0,PA
+14122,673.0,"Pittsburgh, PA: Pittsburgh International",192.0,5142.0,PA
+14122,675.0,"Pittsburgh, PA: Pittsburgh International",1.0,34.0,PA
+14122,677.0,"Pittsburgh, PA: Pittsburgh International",12.0,236.0,PA
+14122,678.0,"Pittsburgh, PA: Pittsburgh International",18.0,298.0,PA
+14122,694.0,"Pittsburgh, PA: Pittsburgh International",48.0,3983.0,PA
+14122,698.0,"Pittsburgh, PA: Pittsburgh International",211.0,14327.0,PA
+14122,699.0,"Pittsburgh, PA: Pittsburgh International",2.0,152.0,PA
+14122,722.0,"Pittsburgh, PA: Pittsburgh International",4.0,422.0,PA
+14122,888.0,"Pittsburgh, PA: Pittsburgh International",62.0,2934.0,PA
+14125,416.0,"Point Lay, AK: Point Lay LRRS",42.0,67.0,AK
+14130,35.0,"Napaskiak, AK: Napaskiak Airport",18.0,24.0,AK
+14130,36.0,"Napaskiak, AK: Napaskiak Airport",16.0,16.0,AK
+14130,79.0,"Napaskiak, AK: Napaskiak Airport",5.0,8.0,AK
+14130,416.0,"Napaskiak, AK: Napaskiak Airport",2.0,0.0,AK
+14131,669.0,"Parkersburg, WV: Mid-Ohio Valley Regional",5.0,10.0,WV
+14131,674.0,"Parkersburg, WV: Mid-Ohio Valley Regional",48.0,110.0,WV
+14150,629.0,"Pellston, MI: Pellston Regional Airport of Emmet County",32.0,111.0,MI
+14167,194.0,"Port Moller, AK: Port Moller Airport",10.0,0.0,AK
+14193,441.0,"Pensacola, FL: Pensacola International",11.0,203.0,FL
+14193,456.0,"Pensacola, FL: Pensacola International",2.0,24.0,FL
+14193,608.0,"Pensacola, FL: Pensacola International",87.0,4040.0,FL
+14193,612.0,"Pensacola, FL: Pensacola International",46.0,2388.0,FL
+14193,614.0,"Pensacola, FL: Pensacola International",28.0,1381.0,FL
+14193,629.0,"Pensacola, FL: Pensacola International",3.0,22.0,FL
+14193,631.0,"Pensacola, FL: Pensacola International",15.0,664.0,FL
+14193,638.0,"Pensacola, FL: Pensacola International",124.0,5970.0,FL
+14193,673.0,"Pensacola, FL: Pensacola International",1.0,29.0,FL
+14193,675.0,"Pensacola, FL: Pensacola International",73.0,1750.0,FL
+14193,699.0,"Pensacola, FL: Pensacola International",1.0,59.0,FL
+14193,722.0,"Pensacola, FL: Pensacola International",13.0,1500.0,FL
+14229,40.0,"Port Protection, AK: Port Protection Airport",8.0,1.0,AK
+14231,675.0,"Presque Isle/Houlton, ME: Presque Isle International",28.0,95.0,ME
+14234,35.0,"Pilot Station, AK: Pilot Station Airport",44.0,29.0,AK
+14234,79.0,"Pilot Station, AK: Pilot Station Airport",5.0,16.0,AK
+14234,416.0,"Pilot Station, AK: Pilot Station Airport",21.0,0.0,AK
+14237,629.0,"Prescott, AZ: Prescott Regional Ernest A Love Field",31.0,252.0,AZ
+14252,482.0,"Pasco/Kennewick/Richland, WA: Tri Cities",40.0,1343.0,WA
+14252,629.0,"Pasco/Kennewick/Richland, WA: Tri Cities",23.0,372.0,WA
+14252,673.0,"Pasco/Kennewick/Richland, WA: Tri Cities",83.0,1758.0,WA
+14252,694.0,"Pasco/Kennewick/Richland, WA: Tri Cities",9.0,996.0,WA
+14252,698.0,"Pasco/Kennewick/Richland, WA: Tri Cities",5.0,282.0,WA
+14256,612.0,"Petersburg, AK: Petersburg James A Johnson",60.0,1903.0,AK
+14259,694.0,"Portsmouth, NH: Portsmouth International at Pease",11.0,762.0,NH
+14259,698.0,"Portsmouth, NH: Portsmouth International at Pease",10.0,653.0,NH
+14262,614.0,"Palm Springs, CA: Palm Springs International",34.0,2353.0,CA
+14262,629.0,"Palm Springs, CA: Palm Springs International",33.0,720.0,CA
+14262,631.0,"Palm Springs, CA: Palm Springs International",50.0,1298.0,CA
+14262,638.0,"Palm Springs, CA: Palm Springs International",3.0,46.0,CA
+14262,673.0,"Palm Springs, CA: Palm Springs International",124.0,3958.0,CA
+14262,694.0,"Palm Springs, CA: Palm Springs International",21.0,739.0,CA
+14262,698.0,"Palm Springs, CA: Palm Springs International",33.0,1993.0,CA
+14262,722.0,"Palm Springs, CA: Palm Springs International",4.0,98.0,CA
+14268,35.0,"Port Alsworth, AK: Port Alsworth Airport",15.0,0.0,AK
+14273,35.0,"Port Heiden, AK: Port Heiden Airport",7.0,2.0,AK
+14273,416.0,"Port Heiden, AK: Port Heiden Airport",24.0,8.0,AK
+14282,35.0,"Platinum, AK: Platinum Airport",8.0,6.0,AK
+14282,79.0,"Platinum, AK: Platinum Airport",10.0,3.0,AK
+14282,416.0,"Platinum, AK: Platinum Airport",2.0,1.0,AK
+14288,629.0,"Pueblo, CO: Pueblo Memorial",59.0,205.0,CO
+14303,482.0,"Pullman, WA: Pullman Moscow Regional",28.0,612.0,WA
+14306,125.0,"Provincetown, MA: Provincetown Municipal",32.0,37.0,MA
+14307,612.0,"Providence, RI: Rhode Island Tf Green International",104.0,3091.0,RI
+14307,614.0,"Providence, RI: Rhode Island Tf Green International",57.0,2461.0,RI
+14307,631.0,"Providence, RI: Rhode Island Tf Green International",2.0,18.0,RI
+14307,638.0,"Providence, RI: Rhode Island Tf Green International",13.0,129.0,RI
+14307,673.0,"Providence, RI: Rhode Island Tf Green International",44.0,1155.0,RI
+14307,675.0,"Providence, RI: Rhode Island Tf Green International",22.0,516.0,RI
+14307,694.0,"Providence, RI: Rhode Island Tf Green International",49.0,3414.0,RI
+14307,698.0,"Providence, RI: Rhode Island Tf Green International",5.0,217.0,RI
+14307,699.0,"Providence, RI: Rhode Island Tf Green International",32.0,2509.0,RI
+14314,694.0,"Provo, UT: Provo Municipal",21.0,3309.0,UT
+14321,125.0,"Portland, ME: Portland International Jetport",11.0,19.0,ME
+14321,612.0,"Portland, ME: Portland International Jetport",56.0,1255.0,ME
+14321,614.0,"Portland, ME: Portland International Jetport",5.0,178.0,ME
+14321,629.0,"Portland, ME: Portland International Jetport",8.0,88.0,ME
+14321,631.0,"Portland, ME: Portland International Jetport",31.0,819.0,ME
+14321,638.0,"Portland, ME: Portland International Jetport",33.0,545.0,ME
+14321,673.0,"Portland, ME: Portland International Jetport",39.0,688.0,ME
+14321,675.0,"Portland, ME: Portland International Jetport",40.0,1330.0,ME
+14321,677.0,"Portland, ME: Portland International Jetport",2.0,49.0,ME
+14321,694.0,"Portland, ME: Portland International Jetport",1.0,47.0,ME
+14321,698.0,"Portland, ME: Portland International Jetport",25.0,1977.0,ME
+14321,722.0,"Portland, ME: Portland International Jetport",11.0,180.0,ME
+14457,629.0,"Rapid City, SD: Rapid City Regional",1.0,17.0,SD
+14457,631.0,"Rapid City, SD: Rapid City Regional",53.0,1364.0,SD
+14457,638.0,"Rapid City, SD: Rapid City Regional",87.0,1685.0,SD
+14457,673.0,"Rapid City, SD: Rapid City Regional",55.0,1127.0,SD
+14457,677.0,"Rapid City, SD: Rapid City Regional",4.0,65.0,SD
+14457,694.0,"Rapid City, SD: Rapid City Regional",9.0,1037.0,SD
+14457,698.0,"Rapid City, SD: Rapid City Regional",6.0,323.0,SD
+14474,35.0,"Ruby, AK: Ruby Airport",1.0,1.0,AK
+14474,194.0,"Ruby, AK: Ruby Airport",1.0,0.0,AK
+14474,416.0,"Ruby, AK: Ruby Airport",28.0,42.0,AK
+14487,629.0,"Redding, CA: Redding Municipal",28.0,476.0,CA
+14487,631.0,"Redding, CA: Redding Municipal",3.0,25.0,CA
+14489,482.0,"Bend/Redmond, OR: Roberts Field",55.0,1749.0,OR
+14489,629.0,"Bend/Redmond, OR: Roberts Field",45.0,690.0,OR
+14489,631.0,"Bend/Redmond, OR: Roberts Field",30.0,615.0,OR
+14489,673.0,"Bend/Redmond, OR: Roberts Field",84.0,1574.0,OR
+14489,694.0,"Bend/Redmond, OR: Roberts Field",1.0,106.0,OR
+14489,698.0,"Bend/Redmond, OR: Roberts Field",3.0,127.0,OR
+14492,608.0,"Raleigh/Durham, NC: Raleigh-Durham International",32.0,983.0,NC
+14492,612.0,"Raleigh/Durham, NC: Raleigh-Durham International",170.0,7092.0,NC
+14492,614.0,"Raleigh/Durham, NC: Raleigh-Durham International",191.0,9650.0,NC
+14492,631.0,"Raleigh/Durham, NC: Raleigh-Durham International",33.0,1278.0,NC
+14492,638.0,"Raleigh/Durham, NC: Raleigh-Durham International",64.0,2018.0,NC
+14492,655.0,"Raleigh/Durham, NC: Raleigh-Durham International",92.0,4803.0,NC
+14492,656.0,"Raleigh/Durham, NC: Raleigh-Durham International",1.0,30.0,NC
+14492,673.0,"Raleigh/Durham, NC: Raleigh-Durham International",206.0,6586.0,NC
+14492,677.0,"Raleigh/Durham, NC: Raleigh-Durham International",3.0,59.0,NC
+14492,678.0,"Raleigh/Durham, NC: Raleigh-Durham International",19.0,610.0,NC
+14492,694.0,"Raleigh/Durham, NC: Raleigh-Durham International",74.0,5049.0,NC
+14492,698.0,"Raleigh/Durham, NC: Raleigh-Durham International",56.0,3421.0,NC
+14492,699.0,"Raleigh/Durham, NC: Raleigh-Durham International",25.0,2188.0,NC
+14492,722.0,"Raleigh/Durham, NC: Raleigh-Durham International",22.0,2225.0,NC
+14492,888.0,"Raleigh/Durham, NC: Raleigh-Durham International",27.0,1382.0,NC
+14493,35.0,"Red Devil, AK: Red Devil Airport",7.0,0.0,AK
+14493,416.0,"Red Devil, AK: Red Devil Airport",1.0,0.0,AK
+14512,694.0,"Rockford, IL: Chicago/Rockford International",31.0,3638.0,IL
+14512,698.0,"Rockford, IL: Chicago/Rockford International",9.0,677.0,IL
+14520,629.0,"Rhinelander, WI: Rhinelander/Oneida County",32.0,144.0,WI
+14524,530.0,"Richmond, VA: Richmond International",2.0,30.0,VA
+14524,612.0,"Richmond, VA: Richmond International",58.0,1531.0,VA
+14524,614.0,"Richmond, VA: Richmond International",14.0,448.0,VA
+14524,631.0,"Richmond, VA: Richmond International",7.0,173.0,VA
+14524,638.0,"Richmond, VA: Richmond International",13.0,429.0,VA
+14524,655.0,"Richmond, VA: Richmond International",62.0,2468.0,VA
+14524,673.0,"Richmond, VA: Richmond International",54.0,1162.0,VA
+14524,675.0,"Richmond, VA: Richmond International",91.0,2062.0,VA
+14524,677.0,"Richmond, VA: Richmond International",3.0,112.0,VA
+14524,678.0,"Richmond, VA: Richmond International",14.0,207.0,VA
+14524,694.0,"Richmond, VA: Richmond International",34.0,2071.0,VA
+14524,698.0,"Richmond, VA: Richmond International",53.0,3258.0,VA
+14524,699.0,"Richmond, VA: Richmond International",23.0,1854.0,VA
+14524,722.0,"Richmond, VA: Richmond International",8.0,432.0,VA
+14534,629.0,"Riverton/Lander, WY: Central Wyoming Regional",23.0,120.0,WY
+14539,125.0,"Rockland, ME: Knox County Regional",102.0,33.0,ME
+14543,629.0,"Rock Springs, WY: Southwest Wyoming Regional",45.0,317.0,WY
+14559,194.0,"Rampart, AK: Rampart Airport",20.0,8.0,AK
+14559,416.0,"Rampart, AK: Rampart Airport",1.0,0.0,AK
+14570,612.0,"Reno, NV: Reno/Tahoe International",222.0,8182.0,NV
+14570,614.0,"Reno, NV: Reno/Tahoe International",164.0,7473.0,NV
+14570,629.0,"Reno, NV: Reno/Tahoe International",16.0,214.0,NV
+14570,631.0,"Reno, NV: Reno/Tahoe International",40.0,769.0,NV
+14570,673.0,"Reno, NV: Reno/Tahoe International",87.0,2272.0,NV
+14570,694.0,"Reno, NV: Reno/Tahoe International",32.0,1033.0,NV
+14570,698.0,"Reno, NV: Reno/Tahoe International",21.0,1112.0,NV
+14570,722.0,"Reno, NV: Reno/Tahoe International",7.0,225.0,NV
+14570,888.0,"Reno, NV: Reno/Tahoe International",1.0,16.0,NV
+14574,608.0,"Roanoke, VA: Roanoke Blacksburg Regional",2.0,18.0,VA
+14574,629.0,"Roanoke, VA: Roanoke Blacksburg Regional",36.0,276.0,VA
+14574,631.0,"Roanoke, VA: Roanoke Blacksburg Regional",1.0,0.0,VA
+14574,638.0,"Roanoke, VA: Roanoke Blacksburg Regional",23.0,348.0,VA
+14574,675.0,"Roanoke, VA: Roanoke Blacksburg Regional",159.0,1821.0,VA
+14574,694.0,"Roanoke, VA: Roanoke Blacksburg Regional",11.0,817.0,VA
+14574,698.0,"Roanoke, VA: Roanoke Blacksburg Regional",1.0,51.0,VA
+14576,612.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",41.0,1236.0,NY
+14576,614.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",5.0,142.0,NY
+14576,631.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",21.0,891.0,NY
+14576,638.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",105.0,3433.0,NY
+14576,673.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",62.0,1193.0,NY
+14576,675.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",53.0,1325.0,NY
+14576,677.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",1.0,17.0,NY
+14576,678.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",22.0,235.0,NY
+14576,694.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",6.0,231.0,NY
+14576,698.0,"Rochester, NY: Frederick Douglass Grtr Rochester International",11.0,706.0,NY
+14582,194.0,"Rota, TT: Benjamin Taisacan Manglona International",3.0,17.0,TT
+14588,629.0,"Roswell, NM: Roswell Air Center",1.0,21.0,NM
+14588,631.0,"Roswell, NM: Roswell Air Center",33.0,675.0,NM
+14627,35.0,"Russian Mission, AK: Russian Mission Airport",46.0,9.0,AK
+14627,416.0,"Russian Mission, AK: Russian Mission Airport",11.0,2.0,AK
+14633,629.0,"Rochester, MN: Rochester International",32.0,455.0,MN
+14633,638.0,"Rochester, MN: Rochester International",24.0,254.0,MN
+14633,675.0,"Rochester, MN: Rochester International",23.0,611.0,MN
+14635,612.0,"Fort Myers, FL: Southwest Florida International",129.0,8308.0,FL
+14635,614.0,"Fort Myers, FL: Southwest Florida International",329.0,25749.0,FL
+14635,622.0,"Fort Myers, FL: Southwest Florida International",75.0,6382.0,FL
+14635,631.0,"Fort Myers, FL: Southwest Florida International",1.0,50.0,FL
+14635,673.0,"Fort Myers, FL: Southwest Florida International",39.0,1991.0,FL
+14635,677.0,"Fort Myers, FL: Southwest Florida International",20.0,506.0,FL
+14635,694.0,"Fort Myers, FL: Southwest Florida International",26.0,1745.0,FL
+14635,698.0,"Fort Myers, FL: Southwest Florida International",97.0,8142.0,FL
+14635,699.0,"Fort Myers, FL: Southwest Florida International",131.0,14441.0,FL
+14635,722.0,"Fort Myers, FL: Southwest Florida International",35.0,4524.0,FL
+14635,888.0,"Fort Myers, FL: Southwest Florida International",29.0,2806.0,FL
+14648,125.0,"Rutland, VT: Rutland - Southern Vermont Regional",95.0,56.0,VT
+14674,631.0,"Santa Fe, NM: Santa Fe Municipal",103.0,1070.0,NM
+14674,638.0,"Santa Fe, NM: Santa Fe Municipal",4.0,60.0,NM
+14679,612.0,"San Diego, CA: San Diego International",683.0,30950.0,CA
+14679,614.0,"San Diego, CA: San Diego International",429.0,26178.0,CA
+14679,634.0,"San Diego, CA: San Diego International",3.0,192.0,CA
+14679,673.0,"San Diego, CA: San Diego International",301.0,7268.0,CA
+14679,694.0,"San Diego, CA: San Diego International",48.0,2782.0,CA
+14679,698.0,"San Diego, CA: San Diego International",213.0,9931.0,CA
+14679,699.0,"San Diego, CA: San Diego International",145.0,9897.0,CA
+14679,721.0,"San Diego, CA: San Diego International",40.0,2550.0,CA
+14679,722.0,"San Diego, CA: San Diego International",35.0,3198.0,CA
+14679,888.0,"San Diego, CA: San Diego International",60.0,3759.0,CA
+14683,612.0,"San Antonio, TX: San Antonio International",214.0,8983.0,TX
+14683,614.0,"San Antonio, TX: San Antonio International",351.0,22330.0,TX
+14683,634.0,"San Antonio, TX: San Antonio International",6.0,247.0,TX
+14683,638.0,"San Antonio, TX: San Antonio International",23.0,535.0,TX
+14683,655.0,"San Antonio, TX: San Antonio International",62.0,2615.0,TX
+14683,673.0,"San Antonio, TX: San Antonio International",178.0,5437.0,TX
+14683,675.0,"San Antonio, TX: San Antonio International",5.0,68.0,TX
+14683,694.0,"San Antonio, TX: San Antonio International",17.0,768.0,TX
+14683,698.0,"San Antonio, TX: San Antonio International",74.0,4039.0,TX
+14683,699.0,"San Antonio, TX: San Antonio International",14.0,554.0,TX
+14683,722.0,"San Antonio, TX: San Antonio International",14.0,995.0,TX
+14683,723.0,"San Antonio, TX: San Antonio International",1.0,52.0,TX
+14683,888.0,"San Antonio, TX: San Antonio International",27.0,1141.0,TX
+14685,608.0,"Savannah, GA: Savannah/Hilton Head International",62.0,1613.0,GA
+14685,629.0,"Savannah, GA: Savannah/Hilton Head International",1.0,13.0,GA
+14685,631.0,"Savannah, GA: Savannah/Hilton Head International",54.0,1600.0,GA
+14685,638.0,"Savannah, GA: Savannah/Hilton Head International",139.0,4839.0,GA
+14685,673.0,"Savannah, GA: Savannah/Hilton Head International",86.0,1710.0,GA
+14685,675.0,"Savannah, GA: Savannah/Hilton Head International",18.0,524.0,GA
+14685,677.0,"Savannah, GA: Savannah/Hilton Head International",1.0,19.0,GA
+14685,694.0,"Savannah, GA: Savannah/Hilton Head International",33.0,1741.0,GA
+14685,698.0,"Savannah, GA: Savannah/Hilton Head International",46.0,2527.0,GA
+14689,479.0,"Santa Barbara, CA: Santa Barbara Municipal",36.0,79.0,CA
+14689,631.0,"Santa Barbara, CA: Santa Barbara Municipal",6.0,100.0,CA
+14689,638.0,"Santa Barbara, CA: Santa Barbara Municipal",42.0,1336.0,CA
+14689,673.0,"Santa Barbara, CA: Santa Barbara Municipal",123.0,2072.0,CA
+14689,698.0,"Santa Barbara, CA: Santa Barbara Municipal",9.0,192.0,CA
+14696,629.0,"South Bend, IN: South Bend International",83.0,1182.0,IN
+14696,631.0,"South Bend, IN: South Bend International",65.0,1836.0,IN
+14696,638.0,"South Bend, IN: South Bend International",23.0,481.0,IN
+14696,694.0,"South Bend, IN: South Bend International",26.0,2507.0,IN
+14696,698.0,"South Bend, IN: South Bend International",8.0,605.0,IN
+14698,629.0,"San Luis Obispo, CA: San Luis County Regional",40.0,432.0,CA
+14698,631.0,"San Luis Obispo, CA: San Luis County Regional",97.0,2236.0,CA
+14698,673.0,"San Luis Obispo, CA: San Luis County Regional",62.0,1474.0,CA
+14704,675.0,"Salisbury, MD: Salisbury-Ocean City/Wicomico Regional",85.0,930.0,MD
+14709,416.0,"Deadhorse, AK: Deadhorse Airport",56.0,135.0,AK
+14709,612.0,"Deadhorse, AK: Deadhorse Airport",12.0,495.0,AK
+14709,614.0,"Deadhorse, AK: Deadhorse Airport",16.0,762.0,AK
+14709,634.0,"Deadhorse, AK: Deadhorse Airport",1.0,56.0,AK
+14709,888.0,"Deadhorse, AK: Deadhorse Airport",1.0,37.0,AK
+14711,629.0,"State College, PA: University Park",49.0,461.0,PA
+14711,675.0,"State College, PA: University Park",69.0,699.0,PA
+14711,694.0,"State College, PA: University Park",6.0,270.0,PA
+14711,698.0,"State College, PA: University Park",2.0,70.0,PA
+14716,694.0,"Stockton, CA: Stockton Metro",8.0,663.0,CA
+14716,698.0,"Stockton, CA: Stockton Metro",13.0,921.0,CA
+14718,26.0,"Scammon Bay, AK: Scammon Bay Airport",1.0,0.0,AK
+14718,194.0,"Scammon Bay, AK: Scammon Bay Airport",2.0,1.0,AK
+14718,416.0,"Scammon Bay, AK: Scammon Bay Airport",71.0,85.0,AK
+14730,530.0,"Louisville, KY: Louisville Muhammad Ali International",34.0,433.0,KY
+14730,608.0,"Louisville, KY: Louisville Muhammad Ali International",62.0,2043.0,KY
+14730,612.0,"Louisville, KY: Louisville Muhammad Ali International",166.0,4421.0,KY
+14730,614.0,"Louisville, KY: Louisville Muhammad Ali International",15.0,428.0,KY
+14730,629.0,"Louisville, KY: Louisville Muhammad Ali International",2.0,16.0,KY
+14730,631.0,"Louisville, KY: Louisville Muhammad Ali International",43.0,666.0,KY
+14730,638.0,"Louisville, KY: Louisville Muhammad Ali International",143.0,5021.0,KY
+14730,656.0,"Louisville, KY: Louisville Muhammad Ali International",1.0,27.0,KY
+14730,673.0,"Louisville, KY: Louisville Muhammad Ali International",88.0,1316.0,KY
+14730,675.0,"Louisville, KY: Louisville Muhammad Ali International",19.0,319.0,KY
+14730,677.0,"Louisville, KY: Louisville Muhammad Ali International",31.0,386.0,KY
+14730,694.0,"Louisville, KY: Louisville Muhammad Ali International",29.0,2709.0,KY
+14730,698.0,"Louisville, KY: Louisville Muhammad Ali International",16.0,878.0,KY
+14730,699.0,"Louisville, KY: Louisville Muhammad Ali International",2.0,64.0,KY
+14730,722.0,"Louisville, KY: Louisville Muhammad Ali International",4.0,127.0,KY
+14745,125.0,"Sidney, MT: Sidney Richland Regional",151.0,390.0,MT
+14747,482.0,"Seattle, WA: Seattle/Tacoma International",688.0,22198.0,WA
+14747,612.0,"Seattle, WA: Seattle/Tacoma International",293.0,12786.0,WA
+14747,614.0,"Seattle, WA: Seattle/Tacoma International",604.0,37975.0,WA
+14747,622.0,"Seattle, WA: Seattle/Tacoma International",31.0,1788.0,WA
+14747,634.0,"Seattle, WA: Seattle/Tacoma International",66.0,5257.0,WA
+14747,673.0,"Seattle, WA: Seattle/Tacoma International",1574.0,45740.0,WA
+14747,694.0,"Seattle, WA: Seattle/Tacoma International",217.0,13474.0,WA
+14747,696.0,"Seattle, WA: Seattle/Tacoma International",30.0,867.0,WA
+14747,698.0,"Seattle, WA: Seattle/Tacoma International",257.0,12832.0,WA
+14747,699.0,"Seattle, WA: Seattle/Tacoma International",66.0,5058.0,WA
+14747,721.0,"Seattle, WA: Seattle/Tacoma International",151.0,8709.0,WA
+14747,722.0,"Seattle, WA: Seattle/Tacoma International",26.0,2312.0,WA
+14747,723.0,"Seattle, WA: Seattle/Tacoma International",133.0,3318.0,WA
+14747,888.0,"Seattle, WA: Seattle/Tacoma International",1065.0,78274.0,WA
+14761,694.0,"Sanford, FL: Orlando Sanford International",156.0,12112.0,FL
+14761,698.0,"Sanford, FL: Orlando Sanford International",237.0,15677.0,FL
+14771,612.0,"San Francisco, CA: San Francisco International",125.0,3841.0,CA
+14771,614.0,"San Francisco, CA: San Francisco International",505.0,24249.0,CA
+14771,622.0,"San Francisco, CA: San Francisco International",3.0,175.0,CA
+14771,623.0,"San Francisco, CA: San Francisco International",12.0,963.0,CA
+14771,626.0,"San Francisco, CA: San Francisco International",3.0,275.0,CA
+14771,627.0,"San Francisco, CA: San Francisco International",42.0,4296.0,CA
+14771,629.0,"San Francisco, CA: San Francisco International",403.0,6290.0,CA
+14771,631.0,"San Francisco, CA: San Francisco International",152.0,2615.0,CA
+14771,637.0,"San Francisco, CA: San Francisco International",1.0,98.0,CA
+14771,673.0,"San Francisco, CA: San Francisco International",985.0,24871.0,CA
+14771,694.0,"San Francisco, CA: San Francisco International",164.0,8700.0,CA
+14771,696.0,"San Francisco, CA: San Francisco International",33.0,1263.0,CA
+14771,698.0,"San Francisco, CA: San Francisco International",267.0,11327.0,CA
+14771,699.0,"San Francisco, CA: San Francisco International",172.0,12015.0,CA
+14771,721.0,"San Francisco, CA: San Francisco International",33.0,1668.0,CA
+14771,722.0,"San Francisco, CA: San Francisco International",28.0,2091.0,CA
+14771,723.0,"San Francisco, CA: San Francisco International",123.0,3191.0,CA
+14771,837.0,"San Francisco, CA: San Francisco International",5.0,336.0,CA
+14771,887.0,"San Francisco, CA: San Francisco International",53.0,4438.0,CA
+14771,888.0,"San Francisco, CA: San Francisco International",63.0,3322.0,CA
+14771,889.0,"San Francisco, CA: San Francisco International",13.0,1266.0,CA
+14783,629.0,"Springfield, MO: Springfield-Branson National",61.0,1231.0,MO
+14783,631.0,"Springfield, MO: Springfield-Branson National",3.0,74.0,MO
+14783,638.0,"Springfield, MO: Springfield-Branson National",44.0,915.0,MO
+14783,673.0,"Springfield, MO: Springfield-Branson National",61.0,2138.0,MO
+14783,675.0,"Springfield, MO: Springfield-Branson National",84.0,1756.0,MO
+14783,676.0,"Springfield, MO: Springfield-Branson National",22.0,441.0,MO
+14783,694.0,"Springfield, MO: Springfield-Branson National",35.0,2972.0,MO
+14783,698.0,"Springfield, MO: Springfield-Branson National",19.0,1344.0,MO
+14794,629.0,"St. George, UT: St George Regional",60.0,1522.0,UT
+14794,631.0,"St. George, UT: St George Regional",8.0,229.0,UT
+14794,638.0,"St. George, UT: St George Regional",13.0,440.0,UT
+14797,35.0,"Skagway, AK: Skagway Airport",7.0,3.0,AK
+14797,415.0,"Skagway, AK: Skagway Airport",39.0,88.0,AK
+14797,479.0,"Skagway, AK: Skagway Airport",2.0,3.0,AK
+14802,629.0,"Staunton, VA: Shenandoah Valley Regional",32.0,79.0,VA
+14804,412.0,"Shungnak, AK: Shungnak Airport",3.0,0.0,AK
+14804,415.0,"Shungnak, AK: Shungnak Airport",35.0,41.0,AK
+14805,194.0,"Shishmaref, AK: Shishmaref Airport",4.0,6.0,AK
+14805,412.0,"Shishmaref, AK: Shishmaref Airport",3.0,0.0,AK
+14805,415.0,"Shishmaref, AK: Shishmaref Airport",39.0,35.0,AK
+14805,416.0,"Shishmaref, AK: Shishmaref Airport",1.0,0.0,AK
+14812,629.0,"Sheridan, WY: Sheridan County",22.0,151.0,WY
+14814,629.0,"Shreveport, LA: Shreveport Regional",51.0,723.0,LA
+14814,631.0,"Shreveport, LA: Shreveport Regional",86.0,2225.0,LA
+14814,638.0,"Shreveport, LA: Shreveport Regional",4.0,78.0,LA
+14814,673.0,"Shreveport, LA: Shreveport Regional",3.0,36.0,LA
+14814,675.0,"Shreveport, LA: Shreveport Regional",79.0,987.0,LA
+14814,676.0,"Shreveport, LA: Shreveport Regional",5.0,54.0,LA
+14814,694.0,"Shreveport, LA: Shreveport Regional",4.0,159.0,LA
+14814,698.0,"Shreveport, LA: Shreveport Regional",2.0,121.0,LA
+14816,35.0,"Shageluk, AK: Shageluk Airport",17.0,0.0,AK
+14816,416.0,"Shageluk, AK: Shageluk Airport",1.0,0.0,AK
+14819,131.0,"San Juan, PR: Isla Grande",122.0,132.0,PR
+14828,35.0,"Sitka, AK: Sitka Rocky Gutierrez",10.0,4.0,AK
+14828,415.0,"Sitka, AK: Sitka Rocky Gutierrez",11.0,29.0,AK
+14828,479.0,"Sitka, AK: Sitka Rocky Gutierrez",26.0,127.0,AK
+14828,612.0,"Sitka, AK: Sitka Rocky Gutierrez",31.0,743.0,AK
+14831,612.0,"San Jose, CA: Norman Y. Mineta San Jose International",551.0,15271.0,CA
+14831,614.0,"San Jose, CA: Norman Y. Mineta San Jose International",252.0,12599.0,CA
+14831,634.0,"San Jose, CA: Norman Y. Mineta San Jose International",2.0,137.0,CA
+14831,673.0,"San Jose, CA: Norman Y. Mineta San Jose International",272.0,5063.0,CA
+14831,694.0,"San Jose, CA: Norman Y. Mineta San Jose International",15.0,356.0,CA
+14831,698.0,"San Jose, CA: Norman Y. Mineta San Jose International",61.0,2152.0,CA
+14831,723.0,"San Jose, CA: Norman Y. Mineta San Jose International",86.0,1778.0,CA
+14831,888.0,"San Jose, CA: Norman Y. Mineta San Jose International",15.0,1004.0,CA
+14842,673.0,"San Angelo, TX: San Angelo Regional/Mathis Field",2.0,19.0,TX
+14842,675.0,"San Angelo, TX: San Angelo Regional/Mathis Field",30.0,571.0,TX
+14842,676.0,"San Angelo, TX: San Angelo Regional/Mathis Field",54.0,724.0,TX
+14843,125.0,"San Juan, PR: Luis Munoz Marin International",412.0,920.0,PR
+14843,131.0,"San Juan, PR: Luis Munoz Marin International",7.0,1.0,PR
+14843,456.0,"San Juan, PR: Luis Munoz Marin International",101.0,0.0,PR
+14843,612.0,"San Juan, PR: Luis Munoz Marin International",90.0,5345.0,PR
+14843,614.0,"San Juan, PR: Luis Munoz Marin International",136.0,11855.0,PR
+14843,678.0,"San Juan, PR: Luis Munoz Marin International",15.0,264.0,PR
+14843,694.0,"San Juan, PR: Luis Munoz Marin International",69.0,5709.0,PR
+14843,698.0,"San Juan, PR: Luis Munoz Marin International",2.0,153.0,PR
+14843,699.0,"San Juan, PR: Luis Munoz Marin International",55.0,5013.0,PR
+14843,722.0,"San Juan, PR: Luis Munoz Marin International",48.0,6117.0,PR
+14843,887.0,"San Juan, PR: Luis Munoz Marin International",8.0,0.0,PR
+14843,888.0,"San Juan, PR: Luis Munoz Marin International",9.0,810.0,PR
+14856,35.0,"Shaktoolik, AK: Shaktoolik Airport",10.0,1.0,AK
+14856,415.0,"Shaktoolik, AK: Shaktoolik Airport",54.0,42.0,AK
+14856,416.0,"Shaktoolik, AK: Shaktoolik Airport",1.0,0.0,AK
+14863,35.0,"Skwentna, AK: Skwentna Airport",2.0,2.0,AK
+14869,612.0,"Salt Lake City, UT: Salt Lake City International",159.0,10060.0,UT
+14869,614.0,"Salt Lake City, UT: Salt Lake City International",526.0,31815.0,UT
+14869,622.0,"Salt Lake City, UT: Salt Lake City International",60.0,4586.0,UT
+14869,626.0,"Salt Lake City, UT: Salt Lake City International",2.0,130.0,UT
+14869,629.0,"Salt Lake City, UT: Salt Lake City International",271.0,3540.0,UT
+14869,631.0,"Salt Lake City, UT: Salt Lake City International",107.0,3440.0,UT
+14869,638.0,"Salt Lake City, UT: Salt Lake City International",28.0,953.0,UT
+14869,673.0,"Salt Lake City, UT: Salt Lake City International",1199.0,32225.0,UT
+14869,694.0,"Salt Lake City, UT: Salt Lake City International",27.0,1234.0,UT
+14869,698.0,"Salt Lake City, UT: Salt Lake City International",309.0,14329.0,UT
+14869,699.0,"Salt Lake City, UT: Salt Lake City International",263.0,20722.0,UT
+14869,722.0,"Salt Lake City, UT: Salt Lake City International",33.0,2733.0,UT
+14869,723.0,"Salt Lake City, UT: Salt Lake City International",466.0,18806.0,UT
+14869,888.0,"Salt Lake City, UT: Salt Lake City International",23.0,1269.0,UT
+14875,125.0,"Saranac Lake/Lake Placid, NY: Adirondack Regional",92.0,28.0,NY
+14877,629.0,"Salina, KS: Salina Regional",32.0,110.0,KS
+14880,35.0,"Sleetmute, AK: Sleetmute Airport",9.0,0.0,AK
+14880,416.0,"Sleetmute, AK: Sleetmute Airport",2.0,1.0,AK
+14893,479.0,"Sacramento, CA: Sacramento International",43.0,125.0,CA
+14893,612.0,"Sacramento, CA: Sacramento International",673.0,31344.0,CA
+14893,614.0,"Sacramento, CA: Sacramento International",264.0,17898.0,CA
+14893,629.0,"Sacramento, CA: Sacramento International",2.0,17.0,CA
+14893,631.0,"Sacramento, CA: Sacramento International",24.0,839.0,CA
+14893,673.0,"Sacramento, CA: Sacramento International",248.0,8103.0,CA
+14893,694.0,"Sacramento, CA: Sacramento International",32.0,2152.0,CA
+14893,698.0,"Sacramento, CA: Sacramento International",50.0,2988.0,CA
+14893,699.0,"Sacramento, CA: Sacramento International",42.0,4027.0,CA
+14893,722.0,"Sacramento, CA: Sacramento International",15.0,1032.0,CA
+14893,723.0,"Sacramento, CA: Sacramento International",58.0,2953.0,CA
+14893,888.0,"Sacramento, CA: Sacramento International",24.0,1988.0,CA
+14895,194.0,"St. Michael, AK: St. Michael Airport",15.0,30.0,AK
+14895,412.0,"St. Michael, AK: St. Michael Airport",1.0,0.0,AK
+14895,415.0,"St. Michael, AK: St. Michael Airport",54.0,53.0,AK
+14895,416.0,"St. Michael, AK: St. Michael Airport",2.0,0.0,AK
+14897,35.0,"Salmon, ID: Lemhi County",10.0,0.0,ID
+14897,36.0,"Salmon, ID: Lemhi County",2.0,1.0,ID
+14897,194.0,"Salmon, ID: Lemhi County",1.0,3.0,ID
+14905,698.0,"Santa Maria, CA: Santa Maria Public/Capt. G. Allan Hancock Field",8.0,206.0,CA
+14908,612.0,"Santa Ana, CA: John Wayne Airport-Orange County",364.0,15988.0,CA
+14908,614.0,"Santa Ana, CA: John Wayne Airport-Orange County",157.0,10877.0,CA
+14908,631.0,"Santa Ana, CA: John Wayne Airport-Orange County",30.0,885.0,CA
+14908,673.0,"Santa Ana, CA: John Wayne Airport-Orange County",168.0,5369.0,CA
+14908,694.0,"Santa Ana, CA: John Wayne Airport-Orange County",32.0,885.0,CA
+14908,698.0,"Santa Ana, CA: John Wayne Airport-Orange County",31.0,924.0,CA
+14908,699.0,"Santa Ana, CA: John Wayne Airport-Orange County",11.0,918.0,CA
+14908,722.0,"Santa Ana, CA: John Wayne Airport-Orange County",9.0,642.0,CA
+14908,723.0,"Santa Ana, CA: John Wayne Airport-Orange County",62.0,2406.0,CA
+14919,406.0,"St. Paul, AK: St. Paul Island",8.0,13.0,AK
+14942,35.0,"Seldovia, AK: Seldovia Airport",126.0,180.0,AK
+14943,479.0,"Show Low, AZ: Show Low Regional",86.0,233.0,AZ
+14945,485.0,"Charlotte Amalie, VI: Charlotte Amalie Harbor Seaplane Base",70.0,474.0,VI
+14952,629.0,"Springfield, IL: Abraham Lincoln Capital",29.0,90.0,IL
+14952,631.0,"Springfield, IL: Abraham Lincoln Capital",8.0,52.0,IL
+14952,673.0,"Springfield, IL: Abraham Lincoln Capital",1.0,7.0,IL
+14952,675.0,"Springfield, IL: Abraham Lincoln Capital",41.0,396.0,IL
+14952,676.0,"Springfield, IL: Abraham Lincoln Capital",6.0,66.0,IL
+14952,694.0,"Springfield, IL: Abraham Lincoln Capital",7.0,608.0,IL
+14955,79.0,"Saipan, TT: Francisco C. Ada Saipan International",63.0,153.0,TT
+14955,194.0,"Saipan, TT: Francisco C. Ada Saipan International",5.0,26.0,TT
+14955,614.0,"Saipan, TT: Francisco C. Ada Saipan International",13.0,300.0,TT
+14960,673.0,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",1.0,50.0,TX
+14960,675.0,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",24.0,575.0,TX
+14960,676.0,"Wichita Falls, TX: Sheppard AFB/Wichita Falls Municipal",35.0,748.0,TX
+14967,479.0,"San Carlos, CA: San Carlos Airport",45.0,110.0,CA
+14986,629.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",2.0,42.0,FL
+14986,631.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",8.0,184.0,FL
+14986,638.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",60.0,3154.0,FL
+14986,655.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",62.0,3181.0,FL
+14986,673.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",59.0,2857.0,FL
+14986,694.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",54.0,4270.0,FL
+14986,698.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",66.0,5362.0,FL
+14986,722.0,"Sarasota/Bradenton, FL: Sarasota/Bradenton International",14.0,939.0,FL
+14987,35.0,"Stony River, AK: Stony River Airport",5.0,0.0,AK
+14992,485.0,"Christiansted, VI: Christiansted Harbor Seaplane Base",70.0,490.0,VI
+15008,694.0,"St. Cloud, MN: St. Cloud Regional",6.0,329.0,MN
+15012,406.0,"St. George Island, AK: St. George Island Airport",12.0,8.0,AK
+15016,125.0,"St. Louis, MO: St Louis Lambert International",314.0,371.0,MO
+15016,415.0,"St. Louis, MO: St Louis Lambert International",248.0,279.0,MO
+15016,530.0,"St. Louis, MO: St Louis Lambert International",69.0,1498.0,MO
+15016,608.0,"St. Louis, MO: St Louis Lambert International",1.0,22.0,MO
+15016,612.0,"St. Louis, MO: St Louis Lambert International",757.0,29342.0,MO
+15016,614.0,"St. Louis, MO: St Louis Lambert International",561.0,26567.0,MO
+15016,629.0,"St. Louis, MO: St Louis Lambert International",3.0,44.0,MO
+15016,631.0,"St. Louis, MO: St Louis Lambert International",34.0,808.0,MO
+15016,634.0,"St. Louis, MO: St Louis Lambert International",8.0,611.0,MO
+15016,638.0,"St. Louis, MO: St Louis Lambert International",88.0,3280.0,MO
+15016,655.0,"St. Louis, MO: St Louis Lambert International",63.0,2397.0,MO
+15016,673.0,"St. Louis, MO: St Louis Lambert International",36.0,917.0,MO
+15016,674.0,"St. Louis, MO: St Louis Lambert International",52.0,43.0,MO
+15016,675.0,"St. Louis, MO: St Louis Lambert International",5.0,33.0,MO
+15016,677.0,"St. Louis, MO: St Louis Lambert International",2.0,29.0,MO
+15016,694.0,"St. Louis, MO: St Louis Lambert International",25.0,1604.0,MO
+15016,698.0,"St. Louis, MO: St Louis Lambert International",69.0,3001.0,MO
+15016,699.0,"St. Louis, MO: St Louis Lambert International",2.0,35.0,MO
+15016,722.0,"St. Louis, MO: St Louis Lambert International",25.0,2058.0,MO
+15016,888.0,"St. Louis, MO: St Louis Lambert International",50.0,2598.0,MO
+15023,629.0,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",15.0,61.0,CA
+15023,638.0,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",50.0,851.0,CA
+15023,673.0,"Santa Rosa, CA: Charles M. Schulz - Sonoma County",37.0,901.0,CA
+15024,125.0,"Charlotte Amalie, VI: Cyril E King",255.0,1338.0,VI
+15024,415.0,"Charlotte Amalie, VI: Cyril E King",0.0,0.0,VI
+15024,456.0,"Charlotte Amalie, VI: Cyril E King",53.0,0.0,VI
+15024,612.0,"Charlotte Amalie, VI: Cyril E King",35.0,1649.0,VI
+15024,614.0,"Charlotte Amalie, VI: Cyril E King",29.0,1747.0,VI
+15024,678.0,"Charlotte Amalie, VI: Cyril E King",13.0,182.0,VI
+15024,694.0,"Charlotte Amalie, VI: Cyril E King",3.0,248.0,VI
+15024,698.0,"Charlotte Amalie, VI: Cyril E King",8.0,467.0,VI
+15024,722.0,"Charlotte Amalie, VI: Cyril E King",4.0,267.0,VI
+15027,125.0,"Christiansted, VI: Henry E. Rohlsen",265.0,1422.0,VI
+15027,415.0,"Christiansted, VI: Henry E. Rohlsen",0.0,0.0,VI
+15027,456.0,"Christiansted, VI: Henry E. Rohlsen",48.0,0.0,VI
+15027,612.0,"Christiansted, VI: Henry E. Rohlsen",5.0,166.0,VI
+15027,614.0,"Christiansted, VI: Henry E. Rohlsen",26.0,1696.0,VI
+15027,698.0,"Christiansted, VI: Henry E. Rohlsen",5.0,420.0,VI
+15041,673.0,"Sun Valley/Hailey/Ketchum, ID: Friedman Memorial",19.0,191.0,ID
+15048,675.0,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",24.0,302.0,IA
+15048,676.0,"Sioux City, IA: Sioux Gateway Brig Gen Bud Day Field",2.0,12.0,IA
+15049,194.0,"Savoonga, AK: Savoonga Airport",1.0,0.0,AK
+15049,405.0,"Savoonga, AK: Savoonga Airport",48.0,85.0,AK
+15049,406.0,"Savoonga, AK: Savoonga Airport",2.0,4.0,AK
+15049,412.0,"Savoonga, AK: Savoonga Airport",4.0,0.0,AK
+15051,458.0,"Silver City/Hurley, NM: Grant County",93.0,83.0,NM
+15061,194.0,"Stevens Village, AK: Stevens Village Airport",19.0,21.0,AK
+15070,629.0,"Newburgh/Poughkeepsie, NY: New York Stewart International",8.0,96.0,NY
+15070,694.0,"Newburgh/Poughkeepsie, NY: New York Stewart International",14.0,1142.0,NY
+15070,698.0,"Newburgh/Poughkeepsie, NY: New York Stewart International",6.0,387.0,NY
+15074,675.0,"Stillwater, OK: Stillwater Regional",15.0,155.0,OK
+15074,676.0,"Stillwater, OK: Stillwater Regional",17.0,143.0,OK
+15085,26.0,"Sheldon Point, AK: Nunam Iqua",42.0,13.0,AK
+15085,194.0,"Sheldon Point, AK: Nunam Iqua",2.0,0.0,AK
+15085,416.0,"Sheldon Point, AK: Nunam Iqua",7.0,5.0,AK
+15091,35.0,"Seal Bay, AK: Seal Bay Airport",4.0,1.0,AK
+15091,40.0,"Seal Bay, AK: Seal Bay Airport",2.0,0.0,AK
+15096,530.0,"Syracuse, NY: Syracuse Hancock International",56.0,1254.0,NY
+15096,612.0,"Syracuse, NY: Syracuse Hancock International",2.0,28.0,NY
+15096,631.0,"Syracuse, NY: Syracuse Hancock International",8.0,139.0,NY
+15096,638.0,"Syracuse, NY: Syracuse Hancock International",56.0,1056.0,NY
+15096,673.0,"Syracuse, NY: Syracuse Hancock International",19.0,940.0,NY
+15096,675.0,"Syracuse, NY: Syracuse Hancock International",58.0,1377.0,NY
+15096,678.0,"Syracuse, NY: Syracuse Hancock International",20.0,204.0,NY
+15096,694.0,"Syracuse, NY: Syracuse Hancock International",40.0,2813.0,NY
+15096,698.0,"Syracuse, NY: Syracuse Hancock International",40.0,3222.0,NY
+15096,699.0,"Syracuse, NY: Syracuse Hancock International",2.0,240.0,NY
+15096,722.0,"Syracuse, NY: Syracuse Hancock International",12.0,695.0,NY
+15124,416.0,"Tanana, AK: Ralph M Calhoun Memorial",29.0,46.0,AK
+15138,674.0,"Fort Leonard Wood, MO: Waynesville-St. Robert Regional Forney Field",52.0,214.0,MO
+15160,415.0,"Takotna, AK: Takotna Airport",15.0,48.0,AK
+15171,415.0,"Tatitlek, AK: Tatitlek Airport",10.0,35.0,AK
+15215,79.0,"Tinian, TT: Tinian International",66.0,181.0,TT
+15215,194.0,"Tinian, TT: Tinian International",3.0,12.0,TT
+15231,35.0,"Tenakee, AK: Tenakee Airport",2.0,1.0,AK
+15231,40.0,"Tenakee, AK: Tenakee Airport",2.0,1.0,AK
+15231,416.0,"Tenakee, AK: Tenakee Airport",25.0,29.0,AK
+15232,479.0,"Truckee, CA: Truckee Tahoe",10.0,30.0,CA
+15236,35.0,"Tok, AK: Tok Junction",29.0,4.0,AK
+15245,412.0,"Teller, AK: Teller Airport",3.0,0.0,AK
+15245,415.0,"Teller, AK: Teller Airport",45.0,75.0,AK
+15249,441.0,"Tallahassee, FL: Tallahassee International",10.0,48.0,FL
+15249,442.0,"Tallahassee, FL: Tallahassee International",1.0,8.0,FL
+15249,608.0,"Tallahassee, FL: Tallahassee International",2.0,36.0,FL
+15249,631.0,"Tallahassee, FL: Tallahassee International",7.0,123.0,FL
+15249,638.0,"Tallahassee, FL: Tallahassee International",100.0,2276.0,FL
+15249,673.0,"Tallahassee, FL: Tallahassee International",56.0,1484.0,FL
+15249,675.0,"Tallahassee, FL: Tallahassee International",1.0,15.0,FL
+15250,415.0,"Tatalina, AK: Tatalina LRRS",8.0,40.0,AK
+15257,35.0,"Tuluksak, AK: Tuluksak Airport",31.0,58.0,AK
+15257,36.0,"Tuluksak, AK: Tuluksak Airport",15.0,19.0,AK
+15257,79.0,"Tuluksak, AK: Tuluksak Airport",17.0,23.0,AK
+15257,416.0,"Tuluksak, AK: Tuluksak Airport",2.0,0.0,AK
+15278,415.0,"Tin City, AK: Tin City LRRS",4.0,3.0,AK
+15282,26.0,"Tununak, AK: Tununak Airport",10.0,9.0,AK
+15282,35.0,"Tununak, AK: Tununak Airport",17.0,13.0,AK
+15282,79.0,"Tununak, AK: Tununak Airport",10.0,6.0,AK
+15282,416.0,"Tununak, AK: Tununak Airport",31.0,65.0,AK
+15293,35.0,"Togiak, AK: Togiak Airport",12.0,8.0,AK
+15293,416.0,"Togiak, AK: Togiak Airport",25.0,24.0,AK
+15295,675.0,"Toledo, OH: Eugene F Kranz Toledo Express",52.0,880.0,OH
+15295,676.0,"Toledo, OH: Eugene F Kranz Toledo Express",1.0,4.0,OH
+15295,694.0,"Toledo, OH: Eugene F Kranz Toledo Express",16.0,1573.0,OH
+15295,698.0,"Toledo, OH: Eugene F Kranz Toledo Express",3.0,174.0,OH
+15304,441.0,"Tampa, FL: Tampa International",22.0,160.0,FL
+15304,442.0,"Tampa, FL: Tampa International",2.0,23.0,FL
+15304,612.0,"Tampa, FL: Tampa International",540.0,26738.0,FL
+15304,614.0,"Tampa, FL: Tampa International",652.0,43894.0,FL
+15304,638.0,"Tampa, FL: Tampa International",1.0,63.0,FL
+15304,673.0,"Tampa, FL: Tampa International",25.0,1102.0,FL
+15304,678.0,"Tampa, FL: Tampa International",1.0,3.0,FL
+15304,694.0,"Tampa, FL: Tampa International",130.0,11188.0,FL
+15304,698.0,"Tampa, FL: Tampa International",129.0,7666.0,FL
+15304,699.0,"Tampa, FL: Tampa International",90.0,6935.0,FL
+15304,722.0,"Tampa, FL: Tampa International",49.0,6007.0,FL
+15304,888.0,"Tampa, FL: Tampa International",44.0,3587.0,FL
+15323,608.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",2.0,11.0,TN
+15323,629.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",53.0,674.0,TN
+15323,631.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",8.0,99.0,TN
+15323,675.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",94.0,1241.0,TN
+15323,676.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",19.0,350.0,TN
+15323,694.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",5.0,376.0,TN
+15323,698.0,"Bristol/Johnson City/Kingsport, TN: Tri Cities",4.0,210.0,TN
+15356,722.0,"Trenton, NJ: Trenton Mercer",28.0,2424.0,NJ
+15370,530.0,"Tulsa, OK: Tulsa International",3.0,17.0,OK
+15370,608.0,"Tulsa, OK: Tulsa International",31.0,1081.0,OK
+15370,612.0,"Tulsa, OK: Tulsa International",67.0,3363.0,OK
+15370,614.0,"Tulsa, OK: Tulsa International",110.0,3621.0,OK
+15370,638.0,"Tulsa, OK: Tulsa International",55.0,2292.0,OK
+15370,673.0,"Tulsa, OK: Tulsa International",111.0,2836.0,OK
+15370,675.0,"Tulsa, OK: Tulsa International",5.0,35.0,OK
+15370,694.0,"Tulsa, OK: Tulsa International",8.0,703.0,OK
+15370,698.0,"Tulsa, OK: Tulsa International",70.0,4341.0,OK
+15370,889.0,"Tulsa, OK: Tulsa International",1.0,0.0,OK
+15374,674.0,"Tupelo, MS: Tupelo Regional",80.0,300.0,MS
+15376,612.0,"Tucson, AZ: Tucson International",84.0,5137.0,AZ
+15376,614.0,"Tucson, AZ: Tucson International",89.0,7963.0,AZ
+15376,629.0,"Tucson, AZ: Tucson International",18.0,193.0,AZ
+15376,631.0,"Tucson, AZ: Tucson International",43.0,1564.0,AZ
+15376,638.0,"Tucson, AZ: Tucson International",4.0,119.0,AZ
+15376,673.0,"Tucson, AZ: Tucson International",281.0,9007.0,AZ
+15376,677.0,"Tucson, AZ: Tucson International",1.0,17.0,AZ
+15376,698.0,"Tucson, AZ: Tucson International",1.0,18.0,AZ
+15376,722.0,"Tucson, AZ: Tucson International",6.0,235.0,AZ
+15380,629.0,"Traverse City, MI: Cherry Capital",53.0,551.0,MI
+15380,631.0,"Traverse City, MI: Cherry Capital",4.0,48.0,MI
+15380,638.0,"Traverse City, MI: Cherry Capital",1.0,4.0,MI
+15380,673.0,"Traverse City, MI: Cherry Capital",50.0,1348.0,MI
+15380,675.0,"Traverse City, MI: Cherry Capital",22.0,471.0,MI
+15380,677.0,"Traverse City, MI: Cherry Capital",2.0,23.0,MI
+15380,694.0,"Traverse City, MI: Cherry Capital",15.0,873.0,MI
+15380,698.0,"Traverse City, MI: Cherry Capital",7.0,364.0,MI
+15381,479.0,"Thief River Falls, MN: Thief River Falls Regional",77.0,75.0,MN
+15385,35.0,"Twin Hills, AK: Twin Hills Airport",4.0,2.0,AK
+15385,416.0,"Twin Hills, AK: Twin Hills Airport",19.0,24.0,AK
+15389,629.0,"Twin Falls, ID: Joslin Field - Magic Valley Regional",22.0,329.0,ID
+15401,675.0,"Texarkana, AR: Texarkana Regional-Webb Field",12.0,123.0,AR
+15401,676.0,"Texarkana, AR: Texarkana Regional-Webb Field",45.0,641.0,AR
+15411,675.0,"Tyler, TX: Tyler Pounds Regional",34.0,569.0,TX
+15411,676.0,"Tyler, TX: Tyler Pounds Regional",24.0,367.0,TX
+15411,722.0,"Tyler, TX: Tyler Pounds Regional",4.0,43.0,TX
+15412,614.0,"Knoxville, TN: McGhee Tyson",1.0,137.0,TN
+15412,629.0,"Knoxville, TN: McGhee Tyson",24.0,397.0,TN
+15412,631.0,"Knoxville, TN: McGhee Tyson",63.0,642.0,TN
+15412,638.0,"Knoxville, TN: McGhee Tyson",150.0,3696.0,TN
+15412,673.0,"Knoxville, TN: McGhee Tyson",56.0,2159.0,TN
+15412,675.0,"Knoxville, TN: McGhee Tyson",154.0,2173.0,TN
+15412,694.0,"Knoxville, TN: McGhee Tyson",62.0,5017.0,TN
+15412,698.0,"Knoxville, TN: McGhee Tyson",5.0,505.0,TN
+15412,722.0,"Knoxville, TN: McGhee Tyson",4.0,76.0,TN
+15446,35.0,"Uganik, AK: Uganik Airport",3.0,0.0,AK
+15446,40.0,"Uganik, AK: Uganik Airport",3.0,1.0,AK
+15448,35.0,"Ugashik, AK: Ugashik Airport",22.0,4.0,AK
+15448,416.0,"Ugashik, AK: Ugashik Airport",2.0,2.0,AK
+15454,125.0,"Quincy, IL: Quincy Regional-Baldwin Field",164.0,188.0,IL
+15478,35.0,"Unalakleet, AK: Unalakleet Airport",11.0,1.0,AK
+15478,194.0,"Unalakleet, AK: Unalakleet Airport",22.0,43.0,AK
+15478,412.0,"Unalakleet, AK: Unalakleet Airport",5.0,0.0,AK
+15478,415.0,"Unalakleet, AK: Unalakleet Airport",119.0,81.0,AK
+15478,416.0,"Unalakleet, AK: Unalakleet Airport",4.0,0.0,AK
+15554,194.0,"Chevak, AK: Chevak Airport",2.0,3.0,AK
+15554,416.0,"Chevak, AK: Chevak Airport",107.0,183.0,AK
+15569,458.0,"Victoria, TX: Victoria Regional",99.0,146.0,TX
+15569,479.0,"Victoria, TX: Victoria Regional",2.0,0.0,TX
+15581,194.0,"Venetie, AK: Venetie Airport",1.0,0.0,AK
+15581,416.0,"Venetie, AK: Venetie Airport",35.0,40.0,AK
+15582,629.0,"Vernal, UT: Vernal Regional",29.0,157.0,UT
+15607,629.0,"Valdosta, GA: Valdosta Regional",27.0,310.0,GA
+15624,608.0,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",61.0,1961.0,FL
+15624,631.0,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",13.0,217.0,FL
+15624,638.0,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",105.0,4729.0,FL
+15624,675.0,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",16.0,223.0,FL
+15624,694.0,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",107.0,7187.0,FL
+15624,698.0,"Valparaiso, FL: Eglin AFB Destin Fort Walton Beach",58.0,2958.0,FL
+15626,125.0,"Vieques, PR: Antonio Rivera Rodriguez",48.0,89.0,PR
+15626,131.0,"Vieques, PR: Antonio Rivera Rodriguez",221.0,348.0,PR
+15628,629.0,"Vero Beach, FL: Vero Beach Regional",5.0,152.0,FL
+15628,631.0,"Vero Beach, FL: Vero Beach Regional",1.0,18.0,FL
+15709,412.0,"Wales, AK: Wales Airport",1.0,0.0,AK
+15709,415.0,"Wales, AK: Wales Airport",24.0,60.0,AK
+15709,416.0,"Wales, AK: Wales Airport",1.0,0.0,AK
+15721,194.0,"Stebbins, AK: Stebbins Airport",20.0,41.0,AK
+15721,412.0,"Stebbins, AK: Stebbins Airport",2.0,0.0,AK
+15721,415.0,"Stebbins, AK: Stebbins Airport",46.0,41.0,AK
+15725,194.0,"Beaver, AK: Beaver Airport",20.0,32.0,AK
+15741,40.0,"Ketchikan, AK: Ketchikan Waterfront Seaplane Base",219.0,39.0,AK
+15754,40.0,"Hyder, AK: Hyder Seaplane Base",9.0,6.0,AK
+15785,194.0,"Selawik, AK: Selawik Airport",3.0,0.0,AK
+15785,415.0,"Selawik, AK: Selawik Airport",56.0,106.0,AK
+15793,40.0,"Meyers Chuck, AK: Meyers Chuck Seaplane Base",2.0,0.0,AK
+15794,194.0,"White Mountain, AK: White Mountain Airport",1.0,0.0,AK
+15794,412.0,"White Mountain, AK: White Mountain Airport",1.0,0.0,AK
+15794,415.0,"White Mountain, AK: White Mountain Airport",42.0,72.0,AK
+15794,416.0,"White Mountain, AK: White Mountain Airport",1.0,0.0,AK
+15798,35.0,"Napakiak, AK: Napakiak Airport",21.0,16.0,AK
+15798,36.0,"Napakiak, AK: Napakiak Airport",17.0,15.0,AK
+15798,79.0,"Napakiak, AK: Napakiak Airport",4.0,3.0,AK
+15798,416.0,"Napakiak, AK: Napakiak Airport",3.0,0.0,AK
+15841,612.0,"Wrangell, AK: Wrangell Airport",61.0,2003.0,AK
+15853,35.0,"South Naknek, AK: South Naknek 2",22.0,3.0,AK
+15853,416.0,"South Naknek, AK: South Naknek 2",3.0,0.0,AK
+15855,79.0,"Westerly, RI: Westerly State",1.0,0.0,RI
+15855,131.0,"Westerly, RI: Westerly State",90.0,269.0,RI
+15861,194.0,"Noatak, AK: Noatak Airport",1.0,0.0,AK
+15861,415.0,"Noatak, AK: Noatak Airport",43.0,58.0,AK
+15862,26.0,"Tuntutuliak, AK: Tuntutuliak Airport",54.0,51.0,AK
+15862,35.0,"Tuntutuliak, AK: Tuntutuliak Airport",33.0,29.0,AK
+15862,36.0,"Tuntutuliak, AK: Tuntutuliak Airport",2.0,3.0,AK
+15862,79.0,"Tuntutuliak, AK: Tuntutuliak Airport",3.0,7.0,AK
+15862,416.0,"Tuntutuliak, AK: Tuntutuliak Airport",19.0,47.0,AK
+15885,40.0,"Whale Pass, AK: Whale Pass Airport",8.0,0.0,AK
+15887,26.0,"Newtok, AK: Newtok Airport",14.0,8.0,AK
+15887,35.0,"Newtok, AK: Newtok Airport",15.0,14.0,AK
+15887,36.0,"Newtok, AK: Newtok Airport",1.0,0.0,AK
+15887,79.0,"Newtok, AK: Newtok Airport",5.0,5.0,AK
+15887,416.0,"Newtok, AK: Newtok Airport",18.0,41.0,AK
+15897,629.0,"West Yellowstone, MT: Yellowstone",23.0,34.0,MT
+15919,530.0,"Fayetteville, AR: Northwest Arkansas National",2.0,14.0,AR
+15919,631.0,"Fayetteville, AR: Northwest Arkansas National",1.0,20.0,AR
+15919,638.0,"Fayetteville, AR: Northwest Arkansas National",33.0,512.0,AR
+15919,673.0,"Fayetteville, AR: Northwest Arkansas National",192.0,5252.0,AR
+15919,675.0,"Fayetteville, AR: Northwest Arkansas National",58.0,754.0,AR
+15919,677.0,"Fayetteville, AR: Northwest Arkansas National",1.0,11.0,AR
+15919,694.0,"Fayetteville, AR: Northwest Arkansas National",7.0,617.0,AR
+15919,698.0,"Fayetteville, AR: Northwest Arkansas National",9.0,606.0,AR
+15919,722.0,"Fayetteville, AR: Northwest Arkansas National",4.0,188.0,AR
+15991,612.0,"Yakutat, AK: Yakutat Airport",31.0,293.0,AK
+15991,614.0,"Yakutat, AK: Yakutat Airport",2.0,9.0,AK
+15991,634.0,"Yakutat, AK: Yakutat Airport",14.0,126.0,AK
+15991,888.0,"Yakutat, AK: Yakutat Airport",14.0,102.0,AK
+16101,482.0,"Yakima, WA: Yakima Air Terminal/McAllister Field",24.0,422.0,WA
+16218,631.0,"Yuma, AZ: Yuma MCAS/Yuma International",71.0,2045.0,AZ
+16218,638.0,"Yuma, AZ: Yuma MCAS/Yuma International",2.0,29.0,AZ
+16340,40.0,"Chomondely Sound, AK: Chomondely Sound Airport",1.0,0.0,AK
+16567,194.0,"Akun, AK: Akun Airport",39.0,19.0,AK
+16567,364.0,"Akun, AK: Akun Airport",62.0,18.0,AK
+16567,406.0,"Akun, AK: Akun Airport",9.0,8.0,AK
+16603,40.0,"Deer Harbor, WA: Deer Harbor Marina",3.0,5.0,WA
+16869,629.0,"Williston, ND: Williston Basin International",3.0,74.0,ND
+16869,631.0,"Williston, ND: Williston Basin International",29.0,840.0,ND
+16869,673.0,"Williston, ND: Williston Basin International",22.0,330.0,ND

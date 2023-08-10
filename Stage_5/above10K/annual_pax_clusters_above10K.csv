@@ -1,0 +1,355 @@
+ORIGIN_AIRPORT_ID,CODE,ORIGIN_STATE_ABR,NAME,LOCATION,category,EAS,hub_cat,diff,pct_change,change_category,total_2019,total_2020,total_2021,total_2022,pax_diff
+10135,ABE,PA,Lehigh Valley International,Allentown/Bethlehem/Easton,100k-1 million,no,S,loss,-21.7,at least -20%,437600,190303,356294,422995,loss
+10136,ABI,TX,Abilene Regional,Abilene,10k-100k,no,N,loss,-16.8,at least -10%,86769,46449,79810,73914,loss
+10140,ABQ,NM,Albuquerque International Sunport,Albuquerque,1-5 million,no,M,loss,-19.7,at least -10%,2695239,896302,1720416,2365700,loss
+10141,ABR,SD,Aberdeen Regional,Aberdeen,10k-100k,yes,N,loss,-5.4,less than -10%,28782,14393,21842,21768,loss
+10146,ABY,GA,Southwest Georgia Regional,Albany,10k-100k,no,N,loss,-5.1,less than -10%,41460,17388,32015,35055,loss
+10154,ACK,MA,Nantucket Memorial,Nantucket,100k-1 million,no,N,loss,-32.7,at least -30%,131488,45659,132551,136471,gain
+10155,ACT,TX,Waco Regional,Waco,10k-100k,no,N,loss,-5.0,less than -10%,61964,27080,46946,54104,loss
+10157,ACV,CA,California Redwood Coast Humboldt County,Arcata/Eureka,10k-100k,no,N,gain,9.9,less than 10%,86137,38024,94733,118983,gain
+10158,ACY,NJ,Atlantic City International,Atlantic City,100k-1 million,no,S,gain,1.9,less than 10%,522612,211199,398687,412315,loss
+10185,AEX,LA,Alexandria International,Alexandria,100k-1 million,no,N,loss,-29.1,at least -20%,118811,63290,97783,96702,loss
+10208,AGS,GA,Augusta Regional at Bush Field,Augusta,100k-1 million,no,N,loss,-15.1,at least -10%,331208,154260,252324,271928,loss
+10257,ALB,NY,Albany International,Albany,1-5 million,no,S,loss,-20.2,at least -20%,1506439,521682,969081,1283156,loss
+10268,ALO,IA,Waterloo Regional,Waterloo,10k-100k,yes,N,gain,0.7,less than 10%,22302,6970,12794,14903,loss
+10275,ALW,WA,Walla Walla Regional,Walla Walla,10k-100k,no,N,loss,-31.6,at least -30%,49259,20178,39138,33814,loss
+10279,AMA,TX,Rick Husband Amarillo International,Amarillo,100k-1 million,no,N,loss,-11.6,at least -10%,366280,177997,318661,379905,gain
+10333,APN,MI,Alpena County Regional,Alpena,10k-100k,yes,N,unchanged,0.0,unchanged,12439,6437,11792,13866,gain
+10361,ART,NY,Watertown International,Watertown,10k-100k,yes,N,loss,-6.9,less than -10%,22466,11563,19823,20243,loss
+10372,ASE,CO,Aspen Pitkin County Sardy Field,Aspen,100k-1 million,no,N,loss,-2.6,less than -10%,307146,183805,247784,299068,loss
+10397,ATL,GA,Hartsfield-Jackson Atlanta International,Atlanta,more than 5 million,no,L,loss,-20.6,at least -20%,47613013,19030860,34059380,40719099,loss
+10408,ATW,WI,Appleton International,Appleton,100k-1 million,no,S,loss,-8.5,less than -10%,385743,183970,351726,415816,gain
+10409,ATY,SD,Watertown Regional,Watertown,10k-100k,yes,N,gain,24.1,at least 20%,11681,7225,18419,15401,gain
+10423,AUS,TX,Austin - Bergstrom International,Austin,more than 5 million,no,L,gain,30.5,at least 30%,8409446,3161264,6687160,10186327,gain
+10431,AVL,NC,Asheville Regional,Asheville,100k-1 million,no,S,loss,-4.1,less than -10%,811194,361611,722368,919699,gain
+10434,AVP,PA,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,100k-1 million,no,N,loss,-52.8,at least -30%,289167,110458,156933,189697,loss
+10466,AZA,AZ,Phoenix - Mesa Gateway,Phoenix,100k-1 million,no,S,gain,1.3,less than 10%,864462,565972,764530,911885,gain
+10469,AZO,MI,Kalamazoo/Battle Creek International,Kalamazoo,100k-1 million,no,N,loss,-55.1,at least -30%,150263,52634,78936,71557,loss
+10529,BDL,CT,Bradley International,Hartford,1-5 million,no,M,loss,-18.4,at least -10%,3261524,1145589,2252346,2819290,loss
+10558,BFF,NE,Western Neb. Regional/William B. Heilig Field,Scottsbluff,10k-100k,yes,N,gain,18.1,at least 10%,24290,9554,16441,24273,loss
+10559,BFI,WA,Boeing Field/King County International,Seattle,10k-100k,no,N,loss,-1.8,less than -10%,11394,4078,9247,9785,loss
+10561,BFL,CA,Meadows Field,Bakersfield,100k-1 million,no,N,gain,2.4,less than 10%,129680,83925,131673,141934,gain
+10562,BFM,AL,Mobile International,Mobile,10k-100k,no,,loss,-100.0,at least -30%,21434,4111,56,0,loss
+10577,BGM,NY,Greater Binghamton/Edwin A. Link Field,Binghamton,10k-100k,no,N,loss,-60.5,at least -30%,38114,8492,10159,13409,loss
+10581,BGR,ME,Bangor International,Bangor,100k-1 million,no,N,loss,-6.1,less than -10%,309470,124198,290335,351167,gain
+10599,BHM,AL,Birmingham-Shuttlesworth International,Birmingham,1-5 million,no,S,loss,-27.3,at least -20%,1555698,637321,1104090,1352689,loss
+10613,BID,RI,Block Island State,Block Island,10k-100k,no,N,loss,-8.9,less than -10%,16845,12343,16294,14190,loss
+10617,BIH,CA,Bishop Airport,Bishop,less than 10k,no,,gain,,other,0,0,1157,10747,gain
+10620,BIL,MT,Billings Logan International,Billings,100k-1 million,no,S,loss,-25.6,at least -20%,464458,241668,380918,387814,loss
+10627,BIS,ND,Bismarck Municipal,Bismarck/Mandan,100k-1 million,no,N,loss,-31.5,at least -30%,310137,150784,213822,242419,loss
+10631,BJI,MN,Bemidji Regional,Bemidji,10k-100k,yes,N,loss,-11.9,at least -10%,29341,15951,25390,25264,loss
+10643,BKG,MO,Branson Airport,Branson,10k-100k,no,N,loss,-78.8,at least -30%,27383,7066,10096,5999,loss
+10654,BKW,WV,Raleigh County Memorial,Beckley,10k-100k,yes,,gain,7.2,less than 10%,11392,7423,18884,17586,gain
+10666,BLI,WA,Bellingham International,Bellingham,100k-1 million,no,N,gain,10.3,at least 10%,329722,93347,155230,320487,loss
+10676,BLV,IL,Scott AFB MidAmerica St Louis,Belleville,100k-1 million,no,N,gain,10.3,at least 10%,152900,108388,160128,163259,gain
+10685,BMI,IL,Central Il Regional Airport at Bloomington,Bloomington/Normal,100k-1 million,no,N,loss,-14.4,at least -10%,208581,89754,158402,173499,loss
+10693,BNA,TN,Nashville International,Nashville,more than 5 million,no,L,gain,4.2,less than 10%,8975918,4093358,7733619,9854277,gain
+10713,BOI,ID,Boise Air Terminal,Boise,1-5 million,no,M,gain,1.5,less than 10%,2079281,996215,1822907,2239699,gain
+10721,BOS,MA,Logan International,Boston,more than 5 million,no,L,loss,-11.6,at least -10%,16788125,5256846,9877115,14499807,loss
+10728,BPT,TX,Jack Brooks Regional,Beaumont/Port Arthur,10k-100k,no,N,loss,-18.6,at least -10%,29056,15864,21697,24699,loss
+10731,BQK,GA,Brunswick Golden Isles,Brunswick,10k-100k,no,N,loss,-15.9,at least -10%,40468,19117,35805,34149,loss
+10739,BRD,MN,Brainerd Lakes Regional,Brainerd,10k-100k,yes,N,gain,14.0,at least 10%,21486,11497,18457,21816,gain
+10747,BRO,TX,Brownsville South Padre Island International,Brownsville,100k-1 million,no,N,loss,-14.0,at least -10%,124879,60530,113373,126613,gain
+10779,BTM,MT,Bert Mooney,Butte,10k-100k,yes,N,loss,-10.6,at least -10%,25926,12276,16596,17991,loss
+10781,BTR,LA,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,100k-1 million,no,N,loss,-28.0,at least -20%,397646,175899,275129,327822,loss
+10785,BTV,VT,Burlington International,Burlington,100k-1 million,no,S,loss,-22.3,at least -20%,685973,211978,382020,601002,loss
+10792,BUF,NY,Buffalo Niagara International,Buffalo,1-5 million,no,S,loss,-27.0,at least -20%,2461186,705014,1425731,2003174,loss
+10800,BUR,CA,Bob Hope,Burbank,1-5 million,no,S,gain,0.8,less than 10%,3053832,1021123,1944501,3074069,gain
+10821,BWI,MD,Baltimore/Washington International Thurgood Marshall,Baltimore,more than 5 million,no,L,loss,-20.8,at least -20%,12918239,5332981,9011432,10758628,loss
+10849,BZN,MT,Bozeman Yellowstone International,Bozeman,100k-1 million,no,S,gain,21.5,at least 20%,783237,445207,979263,1136060,gain
+10868,CAE,SC,Columbia Metropolitan,Columbia,100k-1 million,no,S,loss,-26.4,at least -20%,649589,273206,420458,513317,loss
+10874,CAK,OH,Akron-Canton Regional,Akron,100k-1 million,no,N,loss,-49.4,at least -30%,403754,143097,200786,262249,loss
+10918,CDC,UT,Cedar City Regional,Cedar City,10k-100k,yes,N,loss,-18.4,at least -10%,23230,5936,12057,11459,loss
+10967,CGI,MO,Cape Girardeau Regional,Cape Girardeau,10k-100k,yes,,loss,-33.6,at least -30%,16458,4640,9079,11099,loss
+10980,CHA,TN,Lovell Field,Chattanooga,100k-1 million,no,S,loss,-34.5,at least -30%,556934,227102,379100,435939,loss
+10990,CHO,VA,Charlottesville Albemarle,Charlottesville,100k-1 million,no,N,loss,-36.0,at least -30%,385906,131220,212263,260607,loss
+10994,CHS,SC,Charleston AFB/International,Charleston,1-5 million,no,M,loss,-2.2,less than -10%,2385037,950924,2034068,2622525,gain
+11003,CID,IA,The Eastern Iowa,Cedar Rapids/Iowa City,100k-1 million,no,S,loss,-20.9,at least -20%,667410,309232,528108,607504,loss
+11013,CIU,MI,Chippewa County International,Sault Ste. Marie,10k-100k,yes,N,gain,6.3,less than 10%,24380,10613,17308,22197,loss
+11027,CKB,WV,North Central West Virginia,Clarksburg/Fairmont,10k-100k,yes,N,gain,14.6,at least 10%,39439,16307,34976,48315,gain
+11042,CLE,OH,Cleveland-Hopkins International,Cleveland,1-5 million,no,M,loss,-25.3,at least -20%,4850296,1978265,3529743,4170660,loss
+11049,CLL,TX,Easterwood Field,College Station/Bryan,10k-100k,no,N,loss,-41.5,at least -30%,82365,38933,64438,51744,loss
+11057,CLT,NC,Charlotte Douglas International,Charlotte,more than 5 million,no,L,loss,-16.5,at least -10%,22442113,12543953,19912462,21385545,loss
+11066,CMH,OH,John Glenn Columbus International,Columbus,1-5 million,no,M,loss,-21.4,at least -20%,4170553,1582949,2830664,3601597,loss
+11067,CMI,IL,University of Illinois/Willard,Champaign/Urbana,100k-1 million,no,N,loss,-46.9,at least -30%,103063,34291,54452,62360,loss
+11076,CMX,MI,Houghton County Memorial,Hancock/Houghton,10k-100k,yes,N,loss,-6.7,less than -10%,24371,11838,20907,22556,loss
+11092,CNY,UT,Canyonlands Regional,Moab,10k-100k,yes,N,gain,7.8,less than 10%,16514,8320,20059,18809,gain
+11097,COD,WY,Yellowstone Regional,Cody,10k-100k,yes,N,loss,-12.1,at least -10%,41380,20494,37346,37784,loss
+11109,COS,CO,City of Colorado Springs Municipal,Colorado Springs,100k-1 million,no,S,gain,9.3,less than 10%,858185,365318,983569,1126339,gain
+11111,COU,MO,Columbia Regional,Columbia,100k-1 million,no,N,loss,-47.7,at least -30%,127803,49311,78124,78642,loss
+11122,CPR,WY,Casper/Natrona County International,Casper,10k-100k,no,N,loss,-23.6,at least -20%,97453,44620,67133,73019,loss
+11140,CRP,TX,Corpus Christi International,Corpus Christi,100k-1 million,no,N,loss,-11.7,at least -10%,329034,160998,287829,320084,loss
+11146,CRW,WV,West Virginia International Yeager,Charleston/Dunbar,100k-1 million,no,N,loss,-36.8,at least -30%,225609,91818,148370,163906,loss
+11150,CSG,GA,Columbus Airport,Columbus,10k-100k,no,N,gain,58.2,at least 30%,52337,22396,48736,76963,gain
+11193,CVG,KY,Cincinnati/Northern Kentucky International,Cincinnati,1-5 million,no,M,loss,-26.3,at least -20%,4294130,1712782,3041284,3629527,loss
+11197,CVN,NM,Clovis Regional,Clovis,less than 10k,yes,,loss,-35.3,at least -30%,5374,2643,7575,13113,gain
+11203,CWA,WI,Central Wisconsin,Mosinee,100k-1 million,no,N,loss,-47.8,at least -30%,138232,55870,97301,76686,loss
+11233,CYS,WY,Cheyenne Regional/Jerry Olson Field,Cheyenne,10k-100k,no,,gain,15.2,at least 10%,23276,3791,4161,21696,loss
+11252,DAB,FL,Daytona Beach International,Daytona Beach,100k-1 million,no,N,loss,-19.3,at least -10%,336568,161067,273400,280402,loss
+11259,DAL,TX,Dallas Love Field,Dallas,more than 5 million,no,M,loss,-11.6,at least -10%,8384847,3811898,6705426,8038533,loss
+11267,DAY,OH,James M Cox/Dayton International,Dayton,100k-1 million,no,S,loss,-40.3,at least -30%,843696,316831,516127,556461,loss
+11274,DBQ,IA,Dubuque Regional,Dubuque,10k-100k,no,N,loss,-55.2,at least -30%,36521,11049,17995,14438,loss
+11278,DCA,VA,Ronald Reagan Washington National,Washington,more than 5 million,no,L,gain,1.2,less than 10%,11434096,3618383,6725931,11435615,gain
+11288,DEC,IL,Decatur Airport,Decatur,less than 10k,yes,,loss,-45.4,at least -30%,8485,3548,8872,16929,gain
+11292,DEN,CO,Denver International,Denver,more than 5 million,no,L,loss,-3.8,less than -10%,32315710,15912077,27956210,32416349,gain
+11298,DFW,TX,Dallas/Fort Worth International,Dallas/Fort Worth,more than 5 million,no,L,loss,-9.8,less than -10%,31234022,16971199,27119834,30651945,loss
+11308,DHN,AL,Dothan Regional,Dothan,10k-100k,no,N,loss,-32.5,at least -30%,58166,23858,37089,38315,loss
+11315,DIK,ND,Dickinson - Theodore Roosevelt Regional,Dickinson,10k-100k,yes,N,loss,-6.4,less than -10%,23901,11377,17440,21606,loss
+11337,DLH,MN,Duluth International,Duluth,100k-1 million,no,N,loss,-29.7,at least -20%,154380,64472,108425,117805,loss
+11413,DRO,CO,Durango La Plata County,Durango,100k-1 million,no,N,loss,-15.4,at least -10%,195740,99509,205856,183470,loss
+11415,DRT,TX,Del Rio International,Del Rio,10k-100k,no,N,loss,-4.3,less than -10%,22439,8335,19879,26629,gain
+11423,DSM,IA,Des Moines International,Des Moines,1-5 million,no,S,loss,-19.7,at least -10%,1437514,636868,1067159,1381100,loss
+11433,DTW,MI,Detroit Metro Wayne County,Detroit,more than 5 million,no,L,loss,-28.6,at least -20%,16310227,6394748,11036128,12671743,loss
+11447,DVL,ND,Devils Lake Regional,Devils Lake,less than 10k,yes,,gain,4.0,less than 10%,9357,5291,8722,11361,gain
+11468,EAR,NE,Kearney Regional,Kearney,10k-100k,yes,N,gain,5.0,less than 10%,21309,11858,25253,22209,gain
+11470,EAT,WA,Pangborn Memorial,Wenatchee,10k-100k,no,N,loss,-48.7,at least -30%,64610,28095,48338,34830,loss
+11471,EAU,WI,Chippewa Valley Regional,Eau Claire,10k-100k,yes,N,loss,-29.2,at least -20%,22590,9201,18600,16151,loss
+11481,ECP,FL,Northwest Florida Beaches International,Panama City,100k-1 million,no,S,gain,11.9,at least 10%,628337,404930,813011,755067,gain
+11503,EGE,CO,Eagle County Regional,Eagle,100k-1 million,no,N,gain,22.9,at least 20%,190743,143276,201305,214574,gain
+11525,EKO,NV,Elko Regional,Elko,10k-100k,no,N,loss,-46.3,at least -30%,19966,10351,15626,8443,loss
+11537,ELM,NY,Elmira/Corning Regional,Elmira/Corning,100k-1 million,no,N,loss,-63.3,at least -30%,156385,51364,76920,81817,loss
+11540,ELP,TX,El Paso International,El Paso,1-5 million,no,S,loss,-8.4,less than -10%,1777859,729185,1426376,1918218,gain
+11577,ERI,PA,Erie International/Tom Ridge Field,Erie,100k-1 million,no,N,loss,-45.4,at least -30%,106576,46272,68944,61825,loss
+11587,ESC,MI,Delta County,Escanaba,10k-100k,yes,N,gain,14.5,at least 10%,18726,8185,14780,20583,gain
+11603,EUG,OR,Mahlon Sweet Field,Eugene,100k-1 million,no,S,gain,5.5,less than 10%,591671,264709,561465,778187,gain
+11612,EVV,IN,Evansville Regional,Evansville,100k-1 million,no,N,loss,-51.7,at least -30%,243029,104589,164932,152575,loss
+11617,EWN,NC,Coastal Carolina Regional,New Bern/Morehead/Beaufort,100k-1 million,no,N,loss,-51.1,at least -30%,114204,56081,76291,64193,loss
+11618,EWR,NJ,Newark Liberty International,Newark,more than 5 million,no,L,loss,-9.0,less than -10%,16091099,6106241,11282549,15498077,loss
+11624,EYW,FL,Key West International,Key West,100k-1 million,no,S,gain,10.7,at least 10%,483510,322862,723556,692845,gain
+11637,FAR,ND,Hector International,Fargo,100k-1 million,no,S,loss,-16.6,at least -10%,475703,240933,403484,458530,loss
+11638,FAT,CA,Fresno Yosemite International,Fresno,100k-1 million,no,S,loss,-16.1,at least -10%,828923,401726,830572,919158,gain
+11641,FAY,NC,Fayetteville Regional/Grannis Field,Fayetteville,100k-1 million,no,N,loss,-29.4,at least -20%,217055,121203,186844,164879,loss
+11648,FCA,MT,Glacier Park International,Kalispell,100k-1 million,no,S,loss,-6.4,less than -10%,355852,215618,418166,420742,gain
+11695,FLG,AZ,Flagstaff Pulliam,Flagstaff,100k-1 million,no,N,loss,-19.5,at least -10%,119026,61199,114186,91347,loss
+11697,FLL,FL,Fort Lauderdale-Hollywood International,Fort Lauderdale,more than 5 million,no,L,loss,-16.4,at least -10%,13786875,6629188,11677973,12305521,loss
+11699,FLO,SC,Florence Regional,Florence,10k-100k,no,N,loss,-36.1,at least -30%,43998,13598,23273,29340,loss
+11719,FNL,CO,Northern Colorado Regional,Fort Collins/Loveland,less than 10k,no,,gain,,other,0,0,2671,10170,gain
+11721,FNT,MI,Bishop International,Flint,100k-1 million,no,N,loss,-25.1,at least -20%,300978,176639,240510,299184,loss
+11762,FRD,WA,Friday Harbor Airport,Friday Harbor,10k-100k,no,N,loss,-1.9,less than -10%,11474,4308,10236,10311,loss
+11775,FSD,SD,Joe Foss Field,Sioux Falls,100k-1 million,no,S,loss,-10.9,at least -10%,577065,293942,499374,604942,gain
+11778,FSM,AR,Fort Smith Regional,Fort Smith,10k-100k,no,N,loss,-35.1,at least -30%,92394,37042,46094,59914,loss
+11823,FWA,IN,Fort Wayne International,Fort Wayne,100k-1 million,no,S,loss,-23.6,at least -20%,401815,214541,334677,358208,loss
+11865,GCC,WY,Northeast Wyoming Regional,Gillette,10k-100k,no,N,loss,-18.3,at least -10%,29480,15194,23816,24239,loss
+11867,GCK,KS,Garden City Regional,Garden City,10k-100k,yes,N,gain,1.0,less than 10%,25206,16121,27061,29230,gain
+11884,GEG,WA,Spokane International,Spokane,1-5 million,no,S,loss,-10.1,at least -10%,1950460,916469,1591262,1909019,loss
+11898,GFK,ND,Grand Forks International,Grand Forks,100k-1 million,no,N,loss,-33.2,at least -30%,116079,46397,66613,87700,loss
+11905,GGG,TX,East Texas Regional,Longview,10k-100k,no,N,loss,-18.0,at least -10%,28806,14638,24064,26199,loss
+11921,GJT,CO,Grand Junction Regional,Grand Junction,100k-1 million,no,N,loss,-25.1,at least -20%,262325,141537,261770,232197,loss
+11953,GNV,FL,Gainesville Regional,Gainesville,100k-1 million,no,N,loss,-28.9,at least -20%,269915,123943,197311,262174,loss
+11973,GPT,MS,Gulfport-Biloxi International,Gulfport/Biloxi,100k-1 million,no,N,loss,-18.3,at least -10%,285878,143565,218197,244101,loss
+11977,GRB,WI,Green Bay Austin Straubel International,Green Bay,100k-1 million,no,N,loss,-22.2,at least -20%,340804,137587,258730,295416,loss
+11980,GRI,NE,Central Nebraska Regional,Grand Island,10k-100k,yes,N,loss,-17.3,at least -10%,68856,36122,54759,64854,loss
+11982,GRK,TX,Robert Gray AAF,Killeen,100k-1 million,no,N,loss,-38.9,at least -30%,145940,84535,128042,97760,loss
+11986,GRR,MI,Gerald R. Ford International,Grand Rapids,1-5 million,no,S,loss,-22.9,at least -20%,1797756,860656,1456839,1726368,loss
+11995,GSO,NC,Piedmont Triad International,Greensboro/High Point,1-5 million,no,S,loss,-34.2,at least -30%,1082150,383346,627039,792288,loss
+11996,GSP,SC,Greenville-Spartanburg International,Greer,1-5 million,no,S,loss,-22.1,at least -20%,1276972,516020,893337,1089615,loss
+12003,GTF,MT,Great Falls International,Great Falls,100k-1 million,no,N,loss,-27.0,at least -20%,174442,79332,132628,141829,loss
+12007,GTR,MS,Golden Triangle Regional,Columbus,10k-100k,no,N,loss,-14.3,at least -10%,49874,20544,34534,41032,loss
+12012,GUC,CO,Gunnison-Crested Butte Regional,Gunnison,10k-100k,no,N,gain,24.7,at least 20%,36233,28540,38756,50768,gain
+12094,HDN,CO,Yampa Valley,Hayden,100k-1 million,no,N,gain,42.4,at least 30%,106357,87782,152748,200603,gain
+12119,HGR,MD,Hagerstown Regional-Richard A. Henson Field,Hagerstown,10k-100k,no,N,loss,-81.8,at least -30%,29062,14325,23106,32052,gain
+12124,HHH,SC,Hilton Head Airport,Hilton Head,100k-1 million,no,N,gain,0.1,less than 10%,110230,73569,176336,114340,gain
+12129,HIB,MN,Range Regional,Hibbing,10k-100k,yes,N,gain,2.1,less than 10%,17163,8024,12320,12863,loss
+12156,HLN,MT,Helena Regional,Helena,100k-1 million,no,N,loss,-35.3,at least -30%,118300,46974,71442,82323,loss
+12177,HOB,NM,Lea County Regional,Hobbs,10k-100k,no,N,loss,-23.1,at least -20%,27765,9080,11970,17877,loss
+12191,HOU,TX,William P Hobby,Houston,more than 5 million,no,M,loss,-15.4,at least -10%,6829752,3055579,5383700,6185321,loss
+12197,HPN,NY,Westchester County,White Plains,100k-1 million,no,S,gain,1.5,less than 10%,863562,234873,534155,892513,gain
+12206,HRL,TX,Valley International,Harlingen/San Benito,100k-1 million,no,S,gain,4.4,less than 10%,334755,172288,306616,428719,gain
+12217,HSV,AL,Huntsville International-Carl T Jones Field,Huntsville,100k-1 million,no,S,loss,-19.7,at least -10%,713574,276440,462634,592300,loss
+12223,HTS,WV,Tri-State/Milton J. Ferguson Field,Ashland,100k-1 million,no,N,loss,-28.5,at least -20%,106951,57669,93397,89492,loss
+12244,HVN,CT,Tweed New Haven,New Haven,10k-100k,no,N,gain,166.5,at least 30%,48642,11367,29560,351690,gain
+12250,HYA,MA,Cape Cod Gateway,Hyannis,10k-100k,no,N,loss,-53.3,at least -30%,24071,9679,19243,15221,loss
+12255,HYS,KS,Hays Regional,Hays,10k-100k,yes,N,loss,-43.1,at least -30%,27558,9347,11086,15926,loss
+12264,IAD,VA,Washington Dulles International,Washington,more than 5 million,no,L,loss,-18.1,at least -10%,7803701,2933490,5594821,6711550,loss
+12265,IAG,NY,Niagara Falls International,Niagara Falls,100k-1 million,no,N,loss,-53.6,at least -30%,122017,42087,42468,58451,loss
+12266,IAH,TX,George Bush Intercontinental/Houston,Houston,more than 5 million,no,L,loss,-17.4,at least -10%,16530581,6956005,13119363,15297731,loss
+12278,ICT,KS,Wichita Dwight D Eisenhower National,Wichita,100k-1 million,no,S,loss,-16.2,at least -10%,879070,391179,637317,788123,loss
+12280,IDA,ID,Idaho Falls Regional,Idaho Falls,100k-1 million,no,N,gain,60.7,at least 30%,177340,101538,219781,309673,gain
+12323,ILM,NC,Wilmington International,Wilmington,100k-1 million,no,S,loss,-8.6,less than -10%,540935,245761,463903,537261,loss
+12335,IMT,MI,Ford,Iron Mountain/Kingsfd,10k-100k,yes,N,gain,8.1,less than 10%,22206,10464,14863,21335,loss
+12339,IND,IN,Indianapolis International,Indianapolis,1-5 million,no,M,loss,-19.3,at least -10%,4672874,1985951,3488294,4200232,loss
+12343,INL,MN,Falls International Einarson Field,International Falls,10k-100k,yes,,loss,-13.2,at least -10%,17066,5542,8257,11951,loss
+12365,IPT,PA,Williamsport Regional,Williamsport,10k-100k,no,,loss,-100.0,at least -30%,20256,6847,4110,0,loss
+12391,ISP,NY,Long Island MacArthur,Islip,100k-1 million,no,S,loss,-19.2,at least -10%,780620,263769,556513,616815,loss
+12397,ITH,NY,Ithaca Tompkins International,Ithaca/Cortland,100k-1 million,no,N,loss,-51.2,at least -30%,109236,33081,57851,56326,loss
+12441,JAC,WY,Jackson Hole,Jackson,100k-1 million,no,S,loss,-0.8,less than -10%,443456,275995,497251,399510,loss
+12448,JAN,MS,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,100k-1 million,no,S,gain,2.7,less than 10%,550997,214176,485326,632610,gain
+12451,JAX,FL,Jacksonville International,Jacksonville,1-5 million,no,M,loss,-17.5,at least -10%,3514549,1381455,2438539,3187642,loss
+12478,JFK,NY,John F. Kennedy International,New York,more than 5 million,no,L,gain,5.2,less than 10%,14109730,4111653,8944945,13995738,loss
+12511,JLN,MO,Joplin Regional,Joplin,10k-100k,no,N,loss,-52.9,at least -30%,47625,24957,26480,20662,loss
+12519,JMS,ND,Jamestown Regional,Jamestown,10k-100k,yes,N,loss,-24.6,at least -20%,19253,10560,20386,17825,loss
+12544,USA,NC,Concord Padgett Regional,Concord,100k-1 million,no,N,loss,-39.1,at least -30%,179126,86153,138068,122599,loss
+12884,LAN,MI,Capital Region International,Lansing,100k-1 million,no,N,loss,-50.9,at least -30%,162955,58274,89889,78465,loss
+12888,LAR,WY,Laramie Regional,Laramie,10k-100k,yes,N,loss,-2.0,less than -10%,18224,8935,16171,16707,loss
+12889,LAS,NV,Harry Reid International,Las Vegas,more than 5 million,no,L,gain,3.1,less than 10%,22977687,10261651,18753963,24250475,gain
+12891,LAW,OK,Lawton-Fort Sill Regional,Lawton/Fort Sill,10k-100k,no,N,loss,-13.9,at least -10%,51625,21994,38848,41099,loss
+12892,LAX,CA,Los Angeles International,Los Angeles,more than 5 million,no,L,loss,-23.3,at least -20%,30562787,10960320,19869665,24550313,loss
+12896,LBB,TX,Lubbock Preston Smith International,Lubbock,100k-1 million,no,S,loss,-16.8,at least -10%,536062,254616,407284,493721,loss
+12898,LBE,PA,Arnold Palmer Regional,Latrobe,100k-1 million,no,N,loss,-19.7,at least -10%,155429,62177,122533,122560,loss
+12899,LBF,NE,North Platte Regional Airport Lee Bird Field,North Platte,10k-100k,yes,N,gain,7.0,less than 10%,15970,9311,13810,13461,loss
+12902,LBL,KS,Liberal Mid-America Regional,Liberal,less than 10k,yes,,loss,-1.3,less than -10%,6923,2926,6567,12414,gain
+12915,LCH,LA,Lake Charles Regional,Lake Charles,10k-100k,no,N,loss,-11.2,at least -10%,63090,32154,52775,61341,loss
+12917,LCK,OH,Rickenbacker International,Columbus,100k-1 million,no,N,loss,-6.3,less than -10%,151495,104246,147767,147003,loss
+12932,LEB,NH,Lebanon Municipal,Lebanon-Hanover,10k-100k,yes,,loss,-0.6,less than -10%,10091,3656,7492,9609,loss
+12945,LEX,KY,Blue Grass,Lexington,100k-1 million,no,S,loss,-27.0,at least -20%,704920,284220,460832,572005,loss
+12951,LFT,LA,Lafayette Regional Paul Fournet Field,Lafayette,100k-1 million,no,N,loss,-3.5,less than -10%,264969,120482,206579,224674,loss
+12953,LGA,NY,LaGuardia,New York,more than 5 million,no,L,loss,-2.9,less than -10%,14286312,3947103,7677576,13729503,loss
+12954,LGB,CA,Long Beach Airport,Long Beach,1-5 million,no,S,loss,-4.1,less than -10%,1750934,517637,1106368,1686624,loss
+12992,LIT,AR,Bill and Hillary Clinton Nat Adams Field,Little Rock,1-5 million,no,S,loss,-18.8,at least -10%,1105261,472349,843576,1009374,loss
+13002,LKE,WA,Lake Union Terminal,Seattle,10k-100k,no,,loss,-28.8,at least -20%,11538,5416,13069,10644,loss
+13029,LNK,NE,Lincoln Airport,Lincoln,100k-1 million,no,N,loss,-41.9,at least -30%,163199,50609,88984,91267,loss
+13061,LRD,TX,Laredo International,Laredo,10k-100k,no,N,loss,-19.8,at least -10%,90818,41987,87707,110300,gain
+13076,LSE,WI,La Crosse Regional,La Crosse,10k-100k,no,N,loss,-35.0,at least -30%,94813,42875,80070,62386,loss
+13121,LWB,WV,Greenbrier Valley,Lewisburg,10k-100k,yes,N,loss,-4.1,less than -10%,12667,3786,10393,14636,gain
+13127,LWS,ID,Lewiston Nez Perce County,Lewiston,10k-100k,no,N,gain,3.4,less than 10%,38022,15412,30721,41618,gain
+13139,LYH,VA,Lynchburg Regional/Preston Glenn Field,Lynchburg,10k-100k,no,N,loss,-18.3,at least -10%,91094,44272,68931,75373,loss
+13158,MAF,TX,Midland International Air and Space Port,Midland/Odessa,100k-1 million,no,S,loss,-10.4,at least -10%,690084,327485,524606,662240,loss
+13184,MBS,MI,MBS International,Saginaw/Bay City/Midland,100k-1 million,no,N,loss,-44.8,at least -30%,132582,47173,67556,69261,loss
+13198,MCI,MO,Kansas City International,Kansas City,more than 5 million,no,M,loss,-20.5,at least -20%,5848953,2194735,3841990,4855237,loss
+13203,MCN,GA,Middle Georgia Regional,Macon,10k-100k,yes,N,loss,-19.0,at least -10%,15091,6873,11295,11968,loss
+13204,MCO,FL,Orlando International,Orlando,more than 5 million,no,L,gain,0.9,less than 10%,21233624,9744813,18777217,21898303,gain
+13230,MDT,PA,Harrisburg International,Harrisburg,100k-1 million,no,S,loss,-25.7,at least -20%,750978,315806,511881,623983,loss
+13232,MDW,IL,Chicago Midway International,Chicago,more than 5 million,no,L,loss,-8.2,less than -10%,9861975,4201484,7587712,9546142,loss
+13241,MEI,MS,Key Field,Meridian,10k-100k,yes,N,loss,-17.4,at least -10%,24688,9153,12080,20711,loss
+13244,MEM,TN,Memphis International,Memphis,1-5 million,no,M,loss,-23.2,at least -20%,2326342,1023661,1803734,2180345,loss
+13256,MFE,TX,McAllen Miller International,Mission/McAllen/Edinburg,100k-1 million,no,S,loss,-19.6,at least -10%,413161,184013,416827,448568,gain
+13264,MFR,OR,Rogue Valley International - Medford,Medford,100k-1 million,no,S,loss,-13.0,at least -10%,528075,244760,437107,504455,loss
+13277,MGM,AL,Montgomery Regional,Montgomery,100k-1 million,no,N,loss,-29.7,at least -20%,196016,86074,130113,152411,loss
+13290,MHK,KS,Manhattan Regional,Manhattan/Ft. Riley,10k-100k,no,N,loss,-12.3,at least -10%,77823,32118,57211,73979,loss
+13296,MHT,NH,Manchester Boston Regional,Manchester,100k-1 million,no,S,loss,-32.1,at least -30%,855049,310117,478349,644464,loss
+13303,MIA,FL,Miami International,Miami,more than 5 million,no,L,gain,17.9,at least 10%,10790948,5249699,11583394,14137031,gain
+13342,MKE,WI,General Mitchell International,Milwaukee,1-5 million,no,M,loss,-23.4,at least -20%,3381779,1272085,2245662,2657308,loss
+13344,MKG,MI,Muskegon County,Muskegon,10k-100k,yes,N,gain,8.3,less than 10%,19048,5774,12562,11092,loss
+13360,MLB,FL,Melbourne Orlando International,Melbourne,100k-1 million,no,N,loss,-7.3,less than -10%,239639,110013,176053,219826,loss
+13367,MLI,IL,Quad Cities International,Moline,100k-1 million,no,N,loss,-33.4,at least -30%,354068,149110,245815,268531,loss
+13377,MLU,LA,Monroe Regional,Monroe,100k-1 million,no,N,loss,-31.7,at least -30%,113883,54667,82082,87338,loss
+13388,MMH,CA,Mammoth Lakes Airport,Mammoth Lakes,10k-100k,no,,loss,-17.0,at least -10%,17164,6775,316,3986,loss
+13422,MOB,AL,Mobile Regional,Mobile,100k-1 million,no,N,loss,-30.1,at least -30%,329093,158290,235872,261982,loss
+13433,MOT,ND,Minot International,Minot,100k-1 million,no,N,loss,-22.3,at least -20%,163248,84683,125881,138818,loss
+13459,MQT,MI,Sawyer International,Marquette,10k-100k,no,N,loss,-23.0,at least -20%,59060,26856,51527,42543,loss
+13476,MRY,CA,Monterey Regional,Monterey,100k-1 million,no,N,loss,-13.7,at least -10%,233023,85761,183615,224198,loss
+13485,MSN,WI,Dane County Regional-Truax Field,Madison,1-5 million,no,S,loss,-26.7,at least -20%,1161870,414781,696176,915413,loss
+13486,MSO,MT,Missoula Montana,Missoula,100k-1 million,no,S,loss,-19.2,at least -10%,451887,209011,383717,424028,loss
+13487,MSP,MN,Minneapolis-St Paul International,Minneapolis,more than 5 million,no,L,loss,-25.1,at least -20%,17586386,6647634,11833263,14167096,loss
+13495,MSY,LA,Louis Armstrong New Orleans International,New Orleans,more than 5 million,no,M,loss,-16.5,at least -10%,6885526,2639146,4046162,5932038,loss
+13502,MTJ,CO,Montrose Regional,Montrose/Delta,100k-1 million,no,N,loss,-0.1,less than -10%,159127,101447,189863,234805,gain
+13541,MVY,MA,Martha's Vineyard Airport,Martha's Vineyard,10k-100k,no,N,loss,-0.8,less than -10%,51300,17608,66399,68567,gain
+13543,MWA,IL,Veterans Airport of Southern Illinois,Marion/Herrin,10k-100k,yes,N,loss,-7.2,less than -10%,10366,5358,8849,9319,loss
+13577,MYR,SC,Myrtle Beach International,Myrtle Beach,1-5 million,no,S,gain,38.5,at least 30%,1333968,551174,1606129,1719611,gain
+16218,YUM,AZ,Yuma MCAS/Yuma International,Yuma,10k-100k,no,N,loss,-14.5,at least -10%,98027,53931,91353,87812,loss
+13795,OAJ,NC,Albert J Ellis,Jacksonville/Camp Lejeune,100k-1 million,no,N,loss,-29.6,at least -20%,162142,105572,161383,136970,loss
+13796,OAK,CA,Metro Oakland International,Oakland,more than 5 million,no,M,loss,-13.4,at least -10%,6282197,2157199,3869573,5385782,loss
+13829,OGD,UT,Ogden-Hinckley,Ogden,10k-100k,no,N,loss,-13.9,at least -10%,15835,8702,29373,11848,loss
+13832,OGS,NY,Ogdensburg International,Ogdensburg,10k-100k,yes,N,loss,-36.7,at least -30%,26895,9199,10292,7888,loss
+13851,OKC,OK,Will Rogers World,Oklahoma City,1-5 million,no,S,loss,-18.7,at least -10%,2190710,953685,1668010,1988537,loss
+13871,OMA,NE,Eppley Airfield,Omaha,1-5 million,no,M,loss,-20.6,at least -20%,2480998,1047622,1854679,2234482,loss
+13891,ONT,CA,Ontario International,Ontario,1-5 million,no,M,gain,1.4,less than 10%,2632338,1209294,2193523,2803055,gain
+13930,ORD,IL,Chicago O'Hare International,Chicago,more than 5 million,no,L,loss,-25.7,at least -20%,34136831,12871164,23784074,27632668,loss
+13931,ORF,VA,Norfolk International,Norfolk,1-5 million,no,M,loss,-13.3,at least -10%,2015792,890281,1673234,2078910,gain
+13933,ORH,MA,Worcester Regional,Worcester,10k-100k,no,N,loss,-2.9,less than -10%,97006,20451,14082,79919,loss
+13964,OTH,OR,Southwest Oregon Regional,North Bend/Coos Bay,10k-100k,no,N,loss,-8.8,less than -10%,13246,6747,13331,16750,gain
+13983,OWB,KY,Owensboro Daviess County Regional,Owensboro,10k-100k,yes,N,loss,-6.0,less than -10%,18421,9156,13390,15631,loss
+14004,PAE,WA,Snohomish County,Everett,100k-1 million,no,N,loss,-39.0,at least -30%,389854,118386,114990,261443,loss
+14006,PAH,KY,Barkley Regional,Paducah,10k-100k,yes,N,loss,-35.8,at least -30%,25239,6585,13482,17915,loss
+14025,PBG,NY,Plattsburgh International,Plattsburgh,100k-1 million,yes,N,loss,-28.8,at least -20%,125269,43652,40761,74583,loss
+14027,PBI,FL,Palm Beach International,West Palm Beach/Palm Beach,1-5 million,no,M,loss,-8.6,less than -10%,3408169,1489952,2575106,3242365,loss
+14057,PDX,OR,Portland International,Portland,more than 5 million,no,M,loss,-32.4,at least -30%,9403137,3354713,5664519,6972796,loss
+14081,PGA,AZ,Page Municipal,Page,10k-100k,yes,N,loss,-16.9,at least -10%,10192,4935,9591,9834,loss
+14082,PGD,FL,Punta Gorda Airport,Punta Gorda,100k-1 million,no,S,gain,11.2,at least 10%,821528,596854,783576,922345,gain
+14092,PGV,NC,Pitt Greenville,Greenville,10k-100k,no,N,loss,-47.0,at least -30%,52687,16628,31875,29535,loss
+14098,PHF,VA,Newport News/Williamsburg International,Newport News/Williamsburg,100k-1 million,no,N,loss,-56.8,at least -30%,211507,71078,83355,80209,loss
+14100,PHL,PA,Philadelphia International,Philadelphia,more than 5 million,no,L,loss,-33.5,at least -30%,14049533,5504565,9288399,10897128,loss
+14107,PHX,AZ,Phoenix Sky Harbor International,Phoenix,more than 5 million,no,L,loss,-7.3,less than -10%,21573500,10207451,18505521,20928138,loss
+14108,PIA,IL,General Downing - Peoria International,Peoria,100k-1 million,no,N,loss,-35.8,at least -30%,339122,160227,236273,284031,loss
+14109,PIB,MS,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,10k-100k,yes,N,loss,-4.9,less than -10%,12535,7536,12988,13776,gain
+14112,PIE,FL,St Pete Clearwater International,St. Petersburg,1-5 million,no,S,loss,-0.5,less than -10%,1119067,687140,1002698,1192009,gain
+14113,PIH,ID,Pocatello Regional,Pocatello,10k-100k,no,N,loss,-66.7,at least -30%,43973,19528,23349,11095,loss
+14120,PIR,SD,Pierre Regional,Pierre,10k-100k,yes,N,loss,-2.2,less than -10%,16971,8017,17483,16404,loss
+14122,PIT,PA,Pittsburgh International,Pittsburgh,1-5 million,no,M,loss,-23.9,at least -20%,4641012,1746216,3062084,3882860,loss
+14150,PLN,MI,Pellston Regional Airport of Emmet County,Pellston,10k-100k,yes,N,loss,-30.8,at least -30%,32600,17504,29265,25693,loss
+14193,PNS,FL,Pensacola International,Pensacola,1-5 million,no,S,loss,-14.4,at least -10%,1109460,585650,1191251,1222143,gain
+14231,PQI,ME,Presque Isle International,Presque Isle/Houlton,10k-100k,yes,N,gain,1.9,less than 10%,13234,5271,11129,15409,gain
+14237,PRC,AZ,Prescott Regional Ernest A Love Field,Prescott,10k-100k,yes,N,loss,-0.1,less than -10%,27779,13026,23555,24058,loss
+14252,PSC,WA,Tri Cities,Pasco/Kennewick/Richland,100k-1 million,no,S,loss,-14.1,at least -10%,438068,190138,347232,391989,loss
+14259,PSM,NH,Portsmouth International at Pease,Portsmouth,10k-100k,no,N,loss,-13.5,at least -10%,61241,27858,40102,55716,loss
+14262,PSP,CA,Palm Springs International,Palm Springs,1-5 million,no,S,gain,17.0,at least 10%,1088250,545158,1015781,1372062,gain
+14288,PUB,CO,Pueblo Memorial,Pueblo,10k-100k,yes,,loss,-44.2,at least -30%,17223,6266,11754,9437,loss
+14303,PUW,WA,Pullman Moscow Regional,Pullman,10k-100k,no,N,gain,5.5,less than 10%,69555,31533,51752,72296,gain
+14306,PVC,MA,Provincetown Municipal,Provincetown,10k-100k,no,,loss,-29.5,at least -20%,10432,2816,7642,7308,loss
+14307,PVD,RI,Rhode Island Tf Green International,Providence,1-5 million,no,S,loss,-14.8,at least -10%,1944732,647938,1159486,1567407,loss
+14314,PVU,UT,Provo Municipal,Provo,100k-1 million,no,N,gain,96.8,at least 30%,109385,75352,116833,209100,gain
+14321,PWM,ME,Portland International Jetport,Portland,1-5 million,no,S,loss,-23.1,at least -20%,1088598,403961,853272,981748,loss
+14457,RAP,SD,Rapid City Regional,Rapid City,100k-1 million,no,S,loss,-25.9,at least -20%,343992,177414,339364,333087,loss
+14487,RDD,CA,Redding Municipal,Redding,10k-100k,no,N,gain,43.0,at least 30%,51697,19091,58268,98618,gain
+14489,RDM,OR,Roberts Field,Bend/Redmond,100k-1 million,no,S,loss,-8.5,less than -10%,482898,224340,422283,514072,gain
+14492,RDU,NC,Raleigh-Durham International,Raleigh/Durham,more than 5 million,no,M,loss,-23.7,at least -20%,6768116,2328012,4296215,5732379,loss
+14512,RFD,IL,Chicago/Rockford International,Rockford,100k-1 million,no,N,loss,-1.8,less than -10%,120762,78818,104154,125755,gain
+14520,RHI,WI,Rhinelander/Oneida County,Rhinelander,10k-100k,yes,N,loss,-10.7,at least -10%,27225,13652,26239,21000,loss
+14524,RIC,VA,Richmond International,Richmond,1-5 million,no,S,loss,-17.1,at least -10%,2196628,845432,1609977,2052448,loss
+14534,RIW,WY,Central Wyoming Regional,Riverton/Lander,10k-100k,no,N,loss,-61.7,at least -30%,18993,9693,15467,12972,loss
+14543,RKS,WY,Southwest Wyoming Regional,Rock Springs,10k-100k,no,N,loss,-45.5,at least -30%,24118,11441,16722,15278,loss
+14570,RNO,NV,Reno/Tahoe International,Reno,1-5 million,no,M,loss,-14.8,at least -10%,2148917,959850,1746706,2079489,loss
+14574,ROA,VA,Roanoke Blacksburg Regional,Roanoke,100k-1 million,no,N,loss,-21.9,at least -20%,359270,143530,239603,297025,loss
+14576,ROC,NY,Frederick Douglass Grtr Rochester International,Rochester,1-5 million,no,S,loss,-14.7,at least -10%,1280335,417338,770737,1160408,loss
+14588,ROW,NM,Roswell Air Center,Roswell,10k-100k,no,N,loss,-11.5,at least -10%,60541,24054,45054,55691,loss
+14633,RST,MN,Rochester International,Rochester,100k-1 million,no,N,loss,-57.5,at least -30%,183772,65262,99727,84999,loss
+14635,RSW,FL,Southwest Florida International,Fort Myers,1-5 million,no,M,gain,2.4,less than 10%,4883638,2878643,5091516,5044263,gain
+14674,SAF,NM,Santa Fe Municipal,Santa Fe,100k-1 million,no,N,loss,-10.5,at least -10%,142535,49881,95081,123404,loss
+14679,SAN,CA,San Diego International,San Diego,more than 5 million,no,L,loss,-13.7,at least -10%,12228785,4535919,7761307,10887010,loss
+14683,SAT,TX,San Antonio International,San Antonio,1-5 million,no,M,loss,-18.6,at least -10%,4907583,1858183,3366779,4551011,loss
+14685,SAV,GA,Savannah/Hilton Head International,Savannah,1-5 million,no,S,loss,-0.4,less than -10%,1455694,583142,1372589,1740986,gain
+14689,SBA,CA,Santa Barbara Municipal,Santa Barbara,100k-1 million,no,S,loss,-21.7,at least -20%,509170,193595,449420,625069,gain
+14696,SBN,IN,South Bend International,South Bend,100k-1 million,no,S,loss,-27.6,at least -20%,413525,206875,337182,358401,loss
+14698,SBP,CA,San Luis County Regional,San Luis Obispo,100k-1 million,no,N,loss,-10.5,at least -10%,266971,130830,199836,272620,gain
+14704,SBY,MD,Salisbury-Ocean City/Wicomico Regional,Salisbury,10k-100k,no,N,loss,-36.4,at least -30%,70202,34408,58913,47384,loss
+14711,SCE,PA,University Park,State College,100k-1 million,no,N,loss,-49.2,at least -30%,191020,72444,119987,109678,loss
+14716,SCK,CA,Stockton Metro,Stockton,100k-1 million,no,N,loss,-42.0,at least -30%,101119,44314,68852,74374,loss
+14730,SDF,KY,Louisville Muhammad Ali International,Louisville,1-5 million,no,S,loss,-19.9,at least -10%,2065141,790452,1554234,1908428,loss
+14747,SEA,WA,Seattle/Tacoma International,Seattle,more than 5 million,no,L,loss,-10.7,at least -10%,22236200,8806001,16633608,20054575,loss
+14761,SFB,FL,Orlando Sanford International,Sanford,1-5 million,no,S,loss,-17.8,at least -10%,1493356,752692,1166626,1324965,loss
+14771,SFO,CA,San Francisco International,San Francisco,more than 5 million,no,L,loss,-25.4,at least -20%,20412326,6196988,10142437,15617797,loss
+14783,SGF,MO,Springfield-Branson National,Springfield,100k-1 million,no,S,loss,-23.5,at least -20%,582674,290754,478088,538176,loss
+14794,SGU,UT,St George Regional,St. George,100k-1 million,no,N,gain,9.8,less than 10%,102428,80566,152608,127946,gain
+14802,SHD,VA,Shenandoah Valley Regional,Staunton,10k-100k,yes,N,gain,0.7,less than 10%,17124,6042,13654,11039,loss
+14812,SHR,WY,Sheridan County,Sheridan,10k-100k,no,N,loss,-13.0,at least -10%,11706,10250,23704,25103,gain
+14814,SHV,LA,Shreveport Regional,Shreveport,100k-1 million,no,N,loss,-25.7,at least -20%,330499,155263,247981,275891,loss
+14831,SJC,CA,Norman Y. Mineta San Jose International,San Jose,more than 5 million,no,M,loss,-25.1,at least -20%,7367892,2172368,3475047,5481416,loss
+14842,SJT,TX,San Angelo Regional/Mathis Field,San Angelo,10k-100k,no,N,loss,-25.2,at least -20%,65758,34270,58956,54689,loss
+14869,SLC,UT,Salt Lake City International,Salt Lake City,more than 5 million,no,L,loss,-9.9,less than -10%,12362168,5836571,10568299,11878530,loss
+14877,SLN,KS,Salina Regional,Salina,10k-100k,yes,N,loss,-11.4,at least -10%,18788,6778,18367,23228,gain
+14893,SMF,CA,Sacramento International,Sacramento,more than 5 million,no,M,loss,-8.0,less than -10%,6377519,2659934,4673341,5948742,loss
+14905,SMX,CA,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,10k-100k,no,N,loss,-33.0,at least -30%,24125,10293,27268,15485,loss
+14908,SNA,CA,John Wayne Airport-Orange County,Santa Ana,more than 5 million,no,M,gain,4.6,less than 10%,5067142,1806650,3755719,5387095,gain
+14952,SPI,IL,Abraham Lincoln Capital,Springfield,10k-100k,no,N,loss,-25.0,at least -20%,73159,34216,60208,71704,loss
+14960,SPS,TX,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,10k-100k,no,N,loss,-11.5,at least -10%,41232,21300,33460,30812,loss
+14986,SRQ,FL,Sarasota/Bradenton International,Sarasota/Bradenton,100k-1 million,no,S,gain,75.6,at least 30%,956745,602878,1586600,1918882,gain
+15008,STC,MN,St. Cloud Regional,St. Cloud,10k-100k,no,N,loss,-18.0,at least -10%,20390,14683,16185,17751,loss
+15016,STL,MO,St Louis Lambert International,St. Louis,more than 5 million,no,M,loss,-21.9,at least -20%,7807419,3115520,5113431,6708200,loss
+15023,STS,CA,Charles M. Schulz - Sonoma County,Santa Rosa,100k-1 million,no,N,gain,14.0,at least 10%,239532,96732,215510,303679,gain
+15041,SUN,ID,Friedman Memorial,Sun Valley/Hailey/Ketchum,10k-100k,no,N,gain,14.3,at least 10%,88910,46342,94000,100456,gain
+15048,SUX,IA,Sioux Gateway Brig Gen Bud Day Field,Sioux City,10k-100k,no,N,loss,-47.1,at least -30%,46597,16842,30356,25084,loss
+15070,SWF,NY,New York Stewart International,Newburgh/Poughkeepsie,100k-1 million,no,N,loss,-70.5,at least -30%,190015,48575,67804,123417,loss
+15074,SWO,OK,Stillwater Regional,Stillwater,10k-100k,no,N,loss,-16.7,at least -10%,28003,11311,18714,26525,loss
+15096,SYR,NY,Syracuse Hancock International,Syracuse,1-5 million,no,S,loss,-11.7,at least -10%,1273891,432255,836724,1243178,loss
+15177,TEX,CO,Telluride Regional,Telluride,less than 10k,no,,loss,-28.2,at least -20%,5399,3741,6600,11703,gain
+15249,TLH,FL,Tallahassee International,Tallahassee,100k-1 million,no,N,loss,-25.4,at least -20%,417065,184837,318356,396403,loss
+15295,TOL,OH,Eugene F Kranz Toledo Express,Toledo,100k-1 million,no,N,loss,-58.2,at least -30%,122766,61356,80978,79067,loss
+15304,TPA,FL,Tampa International,Tampa,more than 5 million,no,L,loss,-7.3,less than -10%,10483990,4855517,8806090,10192966,loss
+15323,TRI,TN,Tri Cities,Bristol/Johnson City/Kingsport,100k-1 million,no,N,loss,-12.2,at least -10%,223819,99807,157624,192377,loss
+15356,TTN,NJ,Trenton Mercer,Trenton,100k-1 million,no,N,loss,-26.1,at least -20%,461596,129339,243329,328139,loss
+15370,TUL,OK,Tulsa International,Tulsa,1-5 million,no,S,loss,-11.1,at least -10%,1537082,675670,1178298,1488187,loss
+15374,TUP,MS,Tupelo Regional,Tupelo,10k-100k,yes,N,loss,-29.2,at least -20%,14180,8774,13623,12125,loss
+15376,TUS,AZ,Tucson International,Tucson,1-5 million,no,S,loss,-18.6,at least -10%,1860527,824918,1336596,1719219,loss
+15380,TVC,MI,Cherry Capital,Traverse City,100k-1 million,no,N,loss,-14.4,at least -10%,286207,146113,298769,287839,gain
+15389,TWF,ID,Joslin Field - Magic Valley Regional,Twin Falls,10k-100k,no,N,loss,-66.0,at least -30%,52599,24069,35858,17801,loss
+15401,TXK,AR,Texarkana Regional-Webb Field,Texarkana,10k-100k,no,N,gain,3.0,less than 10%,37868,17499,27756,36093,loss
+15411,TYR,TX,Tyler Pounds Regional,Tyler,10k-100k,no,N,loss,-20.9,at least -20%,59888,29265,40151,40776,loss
+15412,TYS,TN,McGhee Tyson,Knoxville,1-5 million,no,S,loss,-24.6,at least -20%,1249001,569555,978604,1219099,loss
+15454,UIN,IL,Quincy Regional-Baldwin Field,Quincy,10k-100k,yes,,gain,96.8,at least 30%,10041,4908,7378,4747,loss
+15582,VEL,UT,Vernal Regional,Vernal,10k-100k,yes,,loss,-16.5,at least -10%,12657,5737,9168,11072,loss
+15607,VLD,GA,Valdosta Regional,Valdosta,10k-100k,no,N,loss,-3.5,less than -10%,44223,21727,38560,38517,loss
+15624,VPS,FL,Eglin AFB Destin Fort Walton Beach,Valparaiso,100k-1 million,no,S,loss,-1.4,less than -10%,813496,459569,983091,988665,gain
+15855,WST,RI,Westerly State,Westerly,10k-100k,no,N,loss,-10.5,at least -10%,18260,12720,16902,14419,loss
+15919,XNA,AR,Northwest Arkansas National,Fayetteville,100k-1 million,no,S,loss,-22.4,at least -20%,888820,340713,600989,810354,loss
+16101,YKM,WA,Yakima Air Terminal/McAllister Field,Yakima,10k-100k,no,N,loss,-51.0,at least -30%,67598,29007,45317,35127,loss
+16869,XWA,ND,Williston Basin International,Williston,10k-100k,no,N,loss,-28.0,at least -20%,88445,31291,46281,66235,loss

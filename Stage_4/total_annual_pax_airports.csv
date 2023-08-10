@@ -1,0 +1,814 @@
+ORIGIN_AIRPORT_ID,CODE,ORIGIN_STATE_ABR,NAME,LOCATION,total_2019,total_2020,total_2021,total_2022
+10005,05A,AK,Little Squaw Airport,Little Squaw,1.0,0.0,0.0,0.0
+10006,06A,AK,Kizhuyak Bay,Kizhuyak,0.0,0.0,0.0,0.0
+10011,GCW,AZ,Grand Canyon West,Peach Springs,0.0,0.0,0.0,447.0
+10039,A26,AK,Ivotuk Airstrip,Ivotuk,0.0,0.0,0.0,0.0
+10042,A29,AK,Kiluda Bay Airport,Kiluda Bay,1.0,0.0,0.0,0.0
+10056,A43,AK,Trident Basin Seaplane Base,Kodiak Island,317.0,349.0,396.0,355.0
+10063,A50,AK,Big Bay Airport,Big Bay,1.0,0.0,0.0,0.0
+10135,ABE,PA,Lehigh Valley International,Allentown/Bethlehem/Easton,437600.0,190303.0,356294.0,422995.0
+10136,ABI,TX,Abilene Regional,Abilene,86769.0,46449.0,79810.0,73914.0
+10139,ABL,AK,Ambler River,Ambler,3743.0,1333.0,2161.0,2757.0
+10140,ABQ,NM,Albuquerque International Sunport,Albuquerque,2695239.0,896302.0,1720416.0,2365700.0
+10141,ABR,SD,Aberdeen Regional,Aberdeen,28782.0,14393.0,21842.0,21768.0
+10146,ABY,GA,Southwest Georgia Regional,Albany,41460.0,17388.0,32015.0,35055.0
+10154,ACK,MA,Nantucket Memorial,Nantucket,131488.0,45659.0,132551.0,136471.0
+10155,ACT,TX,Waco Regional,Waco,61964.0,27080.0,46946.0,54104.0
+10157,ACV,CA,California Redwood Coast Humboldt County,Arcata/Eureka,86137.0,38024.0,94733.0,118983.0
+10158,ACY,NJ,Atlantic City International,Atlantic City,522612.0,211199.0,398687.0,412315.0
+10165,ADK,AK,Adak,Adak Island,3023.0,1418.0,2159.0,2596.0
+10170,ADQ,AK,Kodiak Airport,Kodiak,82958.0,38070.0,69932.0,79939.0
+10172,ADW,MD,Joint Base Andrews,Camp Springs,10.0,0.0,0.0,0.0
+10184,AET,AK,Allakaket Airport,Allakaket,2759.0,1386.0,2073.0,2400.0
+10185,AEX,LA,Alexandria International,Alexandria,118811.0,63290.0,97783.0,96702.0
+10194,AFW,TX,Perot Field Fort Worth Alliance,Dallas/Fort Worth,1429.0,633.0,768.0,2086.0
+10204,AGN,AK,Angoon Seaplane Base,Angoon,2668.0,1245.0,2257.0,2284.0
+10208,AGS,GA,Augusta Regional at Bush Field,Augusta,331208.0,154260.0,252324.0,271928.0
+10216,AHN,GA,Athens/Ben Epps,Athens,1.0,0.0,116.0,0.0
+10221,AIA,NE,Alliance Municipal,Alliance,3076.0,1605.0,3543.0,4153.0
+10225,AIN,AK,Wainwright Airport,Wainwright,3999.0,2154.0,3154.0,3534.0
+10237,AKB,AK,Atka Airport,Atka,267.0,95.0,171.0,243.0
+10241,AKI,AK,Akiak Airport,Akiak,2927.0,834.0,1252.0,1372.0
+10243,AKK,AK,Akhiok Airport,Akhiok,688.0,297.0,333.0,360.0
+10245,AKN,AK,King Salmon Airport,King Salmon,44579.0,20477.0,30673.0,34057.0
+10247,AKP,AK,Anaktuvuk Pass Airport,Anaktuvuk Pass,3368.0,1767.0,2518.0,2791.0
+10257,ALB,NY,Albany International,Albany,1506439.0,521682.0,969081.0,1283156.0
+10268,ALO,IA,Waterloo Regional,Waterloo,22302.0,6970.0,12794.0,14903.0
+10272,ALS,CO,San Luis Valley Regional/Bergman Field,Alamosa,7629.0,4685.0,12034.0,9207.0
+10275,ALW,WA,Walla Walla Regional,Walla Walla,49259.0,20178.0,39138.0,33814.0
+10278,ALZ,AK,Alitak Seaplane Base,Lazy Bay,82.0,67.0,86.0,107.0
+10279,AMA,TX,Rick Husband Amarillo International,Amarillo,366280.0,177997.0,318661.0,379905.0
+10298,ANB,AL,Anniston Regional,Anniston,135.0,0.0,0.0,0.0
+10299,ANC,AK,Ted Stevens Anchorage International,Anchorage,2613288.0,1075309.0,2100040.0,2462912.0
+10304,ANI,AK,Aniak Airport,Aniak,13111.0,2516.0,4470.0,5562.0
+10313,ANV,AK,Anvik Airport,Anvik,1148.0,133.0,93.0,91.0
+10322,AOO,PA,Altoona-Blair County,Altoona,3651.0,1473.0,4414.0,4534.0
+10324,AOS,AK,Amook Bay Airport,Amook Bay,0.0,50.0,44.0,58.0
+10325,APA,CO,Centennial,Denver,2.0,0.0,0.0,0.0
+10327,APC,CA,Napa County,Napa,19.0,3.0,0.0,0.0
+10333,APN,MI,Alpena County Regional,Alpena,12439.0,6437.0,11792.0,13866.0
+10349,ARC,AK,Arctic Village Airport,Arctic Village,2051.0,865.0,1536.0,2011.0
+10361,ART,NY,Watertown International,Watertown,22466.0,11563.0,19823.0,20243.0
+10372,ASE,CO,Aspen Pitkin County Sardy Field,Aspen,307146.0,183805.0,247784.0,299068.0
+10380,ASN,AL,Talladega Municipal,Talladega,9.0,0.0,0.0,0.0
+10396,ATK,AK,Atqasuk Edward Burnell Sr. Memorial,Atqasuk,3383.0,1574.0,2571.0,2996.0
+10397,ATL,GA,Hartsfield-Jackson Atlanta International,Atlanta,47613013.0,19030860.0,34059380.0,40719099.0
+10405,ATT,AK,Atmautluak Airport,Atmautluak,3976.0,1386.0,2251.0,3164.0
+10408,ATW,WI,Appleton International,Appleton,385743.0,183970.0,351726.0,415816.0
+10409,ATY,SD,Watertown Regional,Watertown,11681.0,7225.0,18419.0,15401.0
+10414,AUG,ME,Augusta State,Augusta/Waterville,5413.0,1739.0,3824.0,5695.0
+10416,AUK,AK,Alakanuk Airport,Alakanuk,3766.0,1533.0,2093.0,2518.0
+10423,AUS,TX,Austin - Bergstrom International,Austin,8409446.0,3161264.0,6687160.0,10186327.0
+10431,AVL,NC,Asheville Regional,Asheville,811194.0,361611.0,722368.0,919699.0
+10434,AVP,PA,Wilkes Barre Scranton International,Scranton/Wilkes-Barre,289167.0,110458.0,156933.0,189697.0
+10466,AZA,AZ,Phoenix - Mesa Gateway,Phoenix,864462.0,565972.0,764530.0,911885.0
+10469,AZO,MI,Kalamazoo/Battle Creek International,Kalamazoo,150263.0,52634.0,78936.0,71557.0
+10529,BDL,CT,Bradley International,Hartford,3261524.0,1145589.0,2252346.0,2819290.0
+10535,BDR,CT,Bridgeport Sikorsky,Bridgeport,0.0,0.0,2.0,41.0
+10540,BED,MA,Laurence G Hanscom Field,Bedford,6.0,0.0,181.0,4.0
+10551,BET,AK,Bethel Airport,Bethel,156174.0,62937.0,105786.0,137675.0
+10556,BFB,AK,Blue Fox Bay Airport,Blue Fox Bay,6.0,1.0,0.0,3.0
+10557,BFD,PA,Bradford Regional,Bradford,4267.0,2114.0,3286.0,4358.0
+10558,BFF,NE,Western Neb. Regional/William B. Heilig Field,Scottsbluff,24290.0,9554.0,16441.0,24273.0
+10559,BFI,WA,Boeing Field/King County International,Seattle,11394.0,4078.0,9247.0,9785.0
+10561,BFL,CA,Meadows Field,Bakersfield,129680.0,83925.0,131673.0,141934.0
+10562,BFM,AL,Mobile International,Mobile,21434.0,4111.0,56.0,0.0
+10577,BGM,NY,Greater Binghamton/Edwin A. Link Field,Binghamton,38114.0,8492.0,10159.0,13409.0
+10581,BGR,ME,Bangor International,Bangor,309470.0,124198.0,290335.0,351167.0
+10589,BHB,ME,Hancock County-Bar Harbor,Bar Harbor,9251.0,2774.0,8238.0,8205.0
+10590,IFP,AZ,Laughlin/Bullhead International,Bullhead City,618.0,0.0,0.0,1345.0
+10599,BHM,AL,Birmingham-Shuttlesworth International,Birmingham,1555698.0,637321.0,1104090.0,1352689.0
+10613,BID,RI,Block Island State,Block Island,16845.0,12343.0,16294.0,14190.0
+10617,BIH,CA,Bishop Airport,Bishop,0.0,0.0,1157.0,10747.0
+10620,BIL,MT,Billings Logan International,Billings,464458.0,241668.0,380918.0,387814.0
+10627,BIS,ND,Bismarck Municipal,Bismarck/Mandan,310137.0,150784.0,213822.0,242419.0
+10631,BJI,MN,Bemidji Regional,Bemidji,29341.0,15951.0,25390.0,25264.0
+10640,BKC,AK,Buckland Airport,Buckland,4121.0,1547.0,2400.0,3295.0
+10643,BKG,MO,Branson Airport,Branson,27383.0,7066.0,10096.0,5999.0
+10654,BKW,WV,Raleigh County Memorial,Beckley,11392.0,7423.0,18884.0,17586.0
+10661,BLD,NV,Boulder City Municipal,Boulder City,291.0,144.0,621.0,583.0
+10666,BLI,WA,Bellingham International,Bellingham,329722.0,93347.0,155230.0,320487.0
+10676,BLV,IL,Scott AFB MidAmerica St Louis,Belleville,152900.0,108388.0,160128.0,163259.0
+10683,BMG,IN,Monroe County,Bloomington,0.0,0.0,0.0,0.0
+10685,BMI,IL,Central Il Regional Airport at Bloomington,Bloomington/Normal,208581.0,89754.0,158402.0,173499.0
+10693,BNA,TN,Nashville International,Nashville,8975918.0,4093358.0,7733619.0,9854277.0
+10697,BNF,AK,Warm Spring Bay Seaplane Base,Baranof,0.0,0.0,3.0,3.0
+10713,BOI,ID,Boise Air Terminal,Boise,2079281.0,996215.0,1822907.0,2239699.0
+10721,BOS,MA,Logan International,Boston,16788125.0,5256846.0,9877115.0,14499807.0
+10728,BPT,TX,Jack Brooks Regional,Beaumont/Port Arthur,29056.0,15864.0,21697.0,24699.0
+10731,BQK,GA,Brunswick Golden Isles,Brunswick,40468.0,19117.0,35805.0,34149.0
+10732,BQN,PR,Rafael Hernandez,Aguadilla,369187.0,75313.0,228524.0,345703.0
+10739,BRD,MN,Brainerd Lakes Regional,Brainerd,21486.0,11497.0,18457.0,21816.0
+10744,BRL,IA,Southeast Iowa Regional,Burlington,8058.0,2676.0,3547.0,3654.0
+10747,BRO,TX,Brownsville South Padre Island International,Brownsville,124879.0,60530.0,113373.0,126613.0
+10754,BRW,AK,Wiley Post/Will Rogers Memorial,Barrow,62435.0,28013.0,31530.0,36675.0
+10775,BTI,AK,Barter Island Airport,Barter Island,2364.0,1127.0,1816.0,2130.0
+10778,BTL,MI,Battle Creek Executive at Kellogg Field,Battle Creek,0.0,0.0,0.0,0.0
+10779,BTM,MT,Bert Mooney,Butte,25926.0,12276.0,16596.0,17991.0
+10781,BTR,LA,Baton Rouge Metropolitan/Ryan Field,Baton Rouge,397646.0,175899.0,275129.0,327822.0
+10783,BTT,AK,Bettles Airport,Bettles,2605.0,1285.0,2157.0,2741.0
+10785,BTV,VT,Burlington International,Burlington,685973.0,211978.0,382020.0,601002.0
+10792,BUF,NY,Buffalo Niagara International,Buffalo,2461186.0,705014.0,1425731.0,2003174.0
+10800,BUR,CA,Bob Hope,Burbank,3053832.0,1021123.0,1944501.0,3074069.0
+10821,BWI,MD,Baltimore/Washington International Thurgood Marshall,Baltimore,12918239.0,5332981.0,9011432.0,10758628.0
+10849,BZN,MT,Bozeman Yellowstone International,Bozeman,783237.0,445207.0,979263.0,1136060.0
+10857,C01,CA,Camarillo Airport,Camarillo,37.0,5.0,12.0,16.0
+10868,CAE,SC,Columbia Metropolitan,Columbia,649589.0,273206.0,420458.0,513317.0
+10874,CAK,OH,Akron-Canton Regional,Akron,403754.0,143097.0,200786.0,262249.0
+10917,CDB,AK,Cold Bay Airport,Cold Bay,10000.0,9155.0,9287.0,8173.0
+10918,CDC,UT,Cedar City Regional,Cedar City,23230.0,5936.0,12057.0,11459.0
+10925,CDR,NE,Chadron Municipal,Chadron,4268.0,2462.0,2891.0,3641.0
+10926,CDV,AK,Merle K Mudhole Smith,Cordova,39166.0,20048.0,28373.0,31626.0
+10930,CEC,CA,Jack McNamara Field,Crescent City,9530.0,4042.0,7644.0,7530.0
+10938,CEM,AK,Central Airport,Central,204.0,86.0,163.0,216.0
+10950,CEZ,CO,Cortez Municipal,Cortez,8798.0,5638.0,6177.0,7000.0
+10961,CGA,AK,Craig Seaplane Base,Craig,1175.0,205.0,136.0,82.0
+10967,CGI,MO,Cape Girardeau Regional,Cape Girardeau,16458.0,4640.0,9079.0,11099.0
+10980,CHA,TN,Lovell Field,Chattanooga,556934.0,227102.0,379100.0,435939.0
+10990,CHO,VA,Charlottesville Albemarle,Charlottesville,385906.0,131220.0,212263.0,260607.0
+10994,CHS,SC,Charleston AFB/International,Charleston,2385037.0,950924.0,2034068.0,2622525.0
+10996,CHU,AK,Chuathbaluk Airport,Chuathbaluk,448.0,59.0,51.0,72.0
+11003,CID,IA,The Eastern Iowa,Cedar Rapids/Iowa City,667410.0,309232.0,528108.0,607504.0
+11007,CIK,AK,Chalkyitsik Airport,Chalkyitsik,1008.0,484.0,570.0,659.0
+11013,CIU,MI,Chippewa County International,Sault Ste. Marie,24380.0,10613.0,17308.0,22197.0
+11027,CKB,WV,North Central West Virginia,Clarksburg/Fairmont,39439.0,16307.0,34976.0,48315.0
+11028,CKD,AK,Crooked Creek Airport,Crooked Creek,331.0,56.0,47.0,41.0
+11036,CKX,AK,Chicken Airport,Chicken,23.0,19.0,30.0,33.0
+11041,CLD,CA,McClellan-Palomar,Carlsbad,0.0,0.0,783.0,3283.0
+11042,CLE,OH,Cleveland-Hopkins International,Cleveland,4850296.0,1978265.0,3529743.0,4170660.0
+11049,CLL,TX,Easterwood Field,College Station/Bryan,82365.0,38933.0,64438.0,51744.0
+11053,CLP,AK,Clarks Point Airport,Clarks Point,699.0,500.0,550.0,987.0
+11057,CLT,NC,Charlotte Douglas International,Charlotte,22442113.0,12543953.0,19912462.0,21385545.0
+11066,CMH,OH,John Glenn Columbus International,Columbus,4170553.0,1582949.0,2830664.0,3601597.0
+11067,CMI,IL,University of Illinois/Willard,Champaign/Urbana,103063.0,34291.0,54452.0,62360.0
+11076,CMX,MI,Houghton County Memorial,Hancock/Houghton,24371.0,11838.0,20907.0,22556.0
+11085,CNM,NM,Cavern City Air Terminal,Carlsbad,5190.0,2961.0,4565.0,5375.0
+11092,CNY,UT,Canyonlands Regional,Moab,16514.0,8320.0,20059.0,18809.0
+11097,COD,WY,Yellowstone Regional,Cody,41380.0,20494.0,37346.0,37784.0
+11109,COS,CO,City of Colorado Springs Municipal,Colorado Springs,858185.0,365318.0,983569.0,1126339.0
+11111,COU,MO,Columbia Regional,Columbia,127803.0,49311.0,78124.0,78642.0
+11122,CPR,WY,Casper/Natrona County International,Casper,97453.0,44620.0,67133.0,73019.0
+11123,CPS,MO,Bi-State Parks,St. Louis,0.0,0.0,0.0,0.0
+11126,CPX,PR,Benjamin Rivera Noriega,Culebra,22051.0,13012.0,24687.0,20663.0
+11140,CRP,TX,Corpus Christi International,Corpus Christi,329034.0,160998.0,287829.0,320084.0
+11146,CRW,WV,West Virginia International Yeager,Charleston/Dunbar,225609.0,91818.0,148370.0,163906.0
+11150,CSG,GA,Columbus Airport,Columbus,52337.0,22396.0,48736.0,76963.0
+11193,CVG,KY,Cincinnati/Northern Kentucky International,Cincinnati,4294130.0,1712782.0,3041284.0,3629527.0
+11197,CVN,NM,Clovis Regional,Clovis,5374.0,2643.0,7575.0,13113.0
+11203,CWA,WI,Central Wisconsin,Mosinee,138232.0,55870.0,97301.0,76686.0
+11214,CXF,AK,Coldfoot Airport,Coldfoot,692.0,302.0,493.0,686.0
+11227,CYF,AK,Chefornak Airport,Chefornak,5753.0,2163.0,2956.0,4207.0
+11233,CYS,WY,Cheyenne Regional/Jerry Olson Field,Cheyenne,23276.0,3791.0,4161.0,21696.0
+11241,CZF,AK,Cape Romanzof LRRS,Cape Romanzof,0.0,0.0,0.0,0.0
+11245,CZN,AK,Chisana Airport,Chisana,44.0,57.0,73.0,61.0
+11252,DAB,FL,Daytona Beach International,Daytona Beach,336568.0,161067.0,273400.0,280402.0
+11259,DAL,TX,Dallas Love Field,Dallas,8384847.0,3811898.0,6705426.0,8038533.0
+11267,DAY,OH,James M Cox/Dayton International,Dayton,843696.0,316831.0,516127.0,556461.0
+11274,DBQ,IA,Dubuque Regional,Dubuque,36521.0,11049.0,17995.0,14438.0
+11278,DCA,VA,Ronald Reagan Washington National,Washington,11434096.0,3618383.0,6725931.0,11435615.0
+11280,DCK,AK,Dahl Creek Airport,Dahl Creek,0.0,0.0,0.0,8.0
+11283,DDC,KS,Dodge City Regional,Dodge City,4968.0,2849.0,8243.0,8428.0
+11288,DEC,IL,Decatur Airport,Decatur,8485.0,3548.0,8872.0,16929.0
+11292,DEN,CO,Denver International,Denver,32315710.0,15912077.0,27956210.0,32416349.0
+11298,DFW,TX,Dallas/Fort Worth International,Dallas/Fort Worth,31234022.0,16971199.0,27119834.0,30651945.0
+11299,DGB,AK,Danger Bay Airport,Danger Bay,0.0,0.0,0.0,0.0
+11308,DHN,AL,Dothan Regional,Dothan,58166.0,23858.0,37089.0,38315.0
+11315,DIK,ND,Dickinson - Theodore Roosevelt Regional,Dickinson,23901.0,11377.0,17440.0,21606.0
+11336,DLG,AK,Dillingham Airport,Dillingham,38077.0,16914.0,28368.0,31547.0
+11337,DLH,MN,Duluth International,Duluth,154380.0,64472.0,108425.0,117805.0
+11348,DMN,NM,Deming Municipal,Deming,0.0,0.0,8.0,3.0
+11367,DOF,AK,Dora Bay Airport,Dora Bay,24.0,22.0,18.0,10.0
+11392,DQL,AK,Lake Hood,Anchorage,179.0,56.0,0.0,0.0
+11401,DQU,AK,Neets Bay,Ketchikan,2685.0,0.0,4.0,2010.0
+11411,DRG,AK,Deering Airport,Deering,2879.0,996.0,1919.0,2647.0
+11413,DRO,CO,Durango La Plata County,Durango,195740.0,99509.0,205856.0,183470.0
+11415,DRT,TX,Del Rio International,Del Rio,22439.0,8335.0,19879.0,26629.0
+11421,DSI,FL,Destin Executive,Destin,828.0,253.0,206.0,58.0
+11423,DSM,IA,Des Moines International,Des Moines,1437514.0,636868.0,1067159.0,1381100.0
+11431,DTR,WA,Decatur,Decatur Island,0.0,10.0,132.0,0.0
+11433,DTW,MI,Detroit Metro Wayne County,Detroit,16310227.0,6394748.0,11036128.0,12671743.0
+11441,DUJ,PA,DuBois Regional,DuBois,5825.0,2451.0,4557.0,6190.0
+11445,DUT,AK,Unalaska Airport,Unalaska,24195.0,4642.0,14929.0,17617.0
+11447,DVL,ND,Devils Lake Regional,Devils Lake,9357.0,5291.0,8722.0,11361.0
+11450,DVT,AZ,Phoenix - Deer Valley,Phoenix,0.0,0.0,0.0,0.0
+11463,EAA,AK,Eagle Airport,Eagle,597.0,328.0,396.0,609.0
+11468,EAR,NE,Kearney Regional,Kearney,21309.0,11858.0,25253.0,22209.0
+11470,EAT,WA,Pangborn Memorial,Wenatchee,64610.0,28095.0,48338.0,34830.0
+11471,EAU,WI,Chippewa Valley Regional,Eau Claire,22590.0,9201.0,18600.0,16151.0
+11481,ECP,FL,Northwest Florida Beaches International,Panama City,628337.0,404930.0,813011.0,755067.0
+11484,EDA,AK,Edna Bay Airport,Edna Bay,175.0,128.0,121.0,80.0
+11492,EEK,AK,Eek Airport,Eek,5592.0,1858.0,2637.0,4210.0
+11503,EGE,CO,Eagle County Regional,Eagle,190743.0,143276.0,201305.0,214574.0
+11511,EGX,AK,Egegik Airport,Egegik,829.0,214.0,270.0,679.0
+11512,EHM,AK,Cape Newenham LRRS,Cape Newenham,0.0,0.0,0.0,0.0
+11525,EKO,NV,Elko Regional,Elko,19966.0,10351.0,15626.0,8443.0
+11531,ELD,AR,South Arkansas Regional at Goodwin Field,El Dorado,4064.0,2427.0,3078.0,3923.0
+11535,ELI,AK,Elim Airport,Elim,3941.0,1901.0,2701.0,3442.0
+11537,ELM,NY,Elmira/Corning Regional,Elmira/Corning,156385.0,51364.0,76920.0,81817.0
+11540,ELP,TX,El Paso International,El Paso,1777859.0,729185.0,1426376.0,1918218.0
+11545,ELV,AK,Elfin Cove Seaplane Base,Elfin Cove,478.0,263.0,546.0,384.0
+11550,EMK,AK,Emmonak Airport,Emmonak,8145.0,2903.0,5606.0,8315.0
+11555,ENA,AK,Kenai Municipal,Kenai,95178.0,33193.0,69445.0,75019.0
+11559,ENN,AK,Nenana Municipal,Nenana,0.0,0.0,2.0,38.0
+11563,ENV,UT,Wendover Airport,Wendover,0.0,0.0,34.0,0.0
+11577,ERI,PA,Erie International/Tom Ridge Field,Erie,106576.0,46272.0,68944.0,61825.0
+11587,ESC,MI,Delta County,Escanaba,18726.0,8185.0,14780.0,20583.0
+11588,ESD,WA,Orcas Island,Eastsound,7215.0,2980.0,7154.0,8256.0
+11603,EUG,OR,Mahlon Sweet Field,Eugene,591671.0,264709.0,561465.0,778187.0
+11612,EVV,IN,Evansville Regional,Evansville,243029.0,104589.0,164932.0,152575.0
+11615,EWB,MA,New Bedford Regional,New Bedford/Fall River,4220.0,1769.0,3342.0,2110.0
+11617,EWN,NC,Coastal Carolina Regional,New Bern/Morehead/Beaufort,114204.0,56081.0,76291.0,64193.0
+11618,EWR,NJ,Newark Liberty International,Newark,16091099.0,6106241.0,11282549.0,15498077.0
+11619,EXI,AK,Excursion Inlet Seaplane Base,Excursion Inlet,137.0,47.0,70.0,77.0
+11624,EYW,FL,Key West International,Key West,483510.0,322862.0,723556.0,692845.0
+11630,FAI,AK,Fairbanks International,Fairbanks,568046.0,235013.0,449174.0,501082.0
+11637,FAR,ND,Hector International,Fargo,475703.0,240933.0,403484.0,458530.0
+11638,FAT,CA,Fresno Yosemite International,Fresno,828923.0,401726.0,830572.0,919158.0
+11641,FAY,NC,Fayetteville Regional/Grannis Field,Fayetteville,217055.0,121203.0,186844.0,164879.0
+11643,FBK,AK,Ladd AAF,Fairbanks,0.0,12.0,0.0,0.0
+11646,FBS,WA,Friday Harbor Seaplane Base,Friday Harbor,0.0,2540.0,9547.0,8086.0
+11648,FCA,MT,Glacier Park International,Kalispell,355852.0,215618.0,418166.0,420742.0
+11650,FCM,MN,Flying Cloud,Minneapolis,5.0,0.0,0.0,0.0
+11684,FKL,PA,Venango Regional,Franklin/Oil City,1669.0,0.0,0.0,0.0
+11695,FLG,AZ,Flagstaff Pulliam,Flagstaff,119026.0,61199.0,114186.0,91347.0
+11697,FLL,FL,Fort Lauderdale-Hollywood International,Fort Lauderdale,13786875.0,6629188.0,11677973.0,12305521.0
+11699,FLO,SC,Florence Regional,Florence,43998.0,13598.0,23273.0,29340.0
+11702,FLT,AK,Flat Airport,Flat,5.0,0.0,4.0,0.0
+11711,FMN,NM,Four Corners Regional,Farmington,1.0,0.0,0.0,0.0
+11719,FNL,CO,Northern Colorado Regional,Fort Collins/Loveland,0.0,0.0,2671.0,10170.0
+11721,FNT,MI,Bishop International,Flint,300978.0,176639.0,240510.0,299184.0
+11725,FOD,IA,Fort Dodge Regional,Fort Dodge,8042.0,3702.0,7040.0,7329.0
+11726,FOE,KS,Topeka Regional,Topeka,46.0,0.0,0.0,0.0
+11762,FRD,WA,Friday Harbor Airport,Friday Harbor,11474.0,4308.0,10236.0,10311.0
+11775,FSD,SD,Joe Foss Field,Sioux Falls,577065.0,293942.0,499374.0,604942.0
+11778,FSM,AR,Fort Smith Regional,Fort Smith,92394.0,37042.0,46094.0,59914.0
+11789,FTW,TX,Fort Worth Meacham International,Dallas/Fort Worth,0.0,0.0,0.0,0.0
+11813,FVQ,AK,Donlin Creek Mine Airport,Donlin Creek Mine,0.0,4.0,0.0,0.0
+11823,FWA,IN,Fort Wayne International,Fort Wayne,401815.0,214541.0,334677.0,358208.0
+11827,FXE,FL,Fort Lauderdale Executive,Fort Lauderdale,288.0,0.0,0.0,5.0
+11833,FYU,AK,Fort Yukon Airport,Fort Yukon,8907.0,3380.0,4891.0,5814.0
+11844,GAL,AK,Edward G. Pitka Sr.,Galena,12036.0,4262.0,7987.0,10357.0
+11845,GAM,AK,Gambell Airport,Gambell,4004.0,1989.0,2805.0,3624.0
+11859,GBH,AK,Galbraith Lake Airport,Galbraith Lake,0.0,13.0,0.0,19.0
+11865,GCC,WY,Northeast Wyoming Regional,Gillette,29480.0,15194.0,23816.0,24239.0
+11867,GCK,KS,Garden City Regional,Garden City,25206.0,16121.0,27061.0,29230.0
+11869,GCN,AZ,Grand Canyon National Park,Grand Canyon,1125.0,0.0,0.0,0.0
+11879,GDV,MT,Dawson Community,Glendive,2568.0,1561.0,2126.0,4313.0
+11884,GEG,WA,Spokane International,Spokane,1950460.0,916469.0,1591262.0,1909019.0
+11898,GFK,ND,Grand Forks International,Grand Forks,116079.0,46397.0,66613.0,87700.0
+11905,GGG,TX,East Texas Regional,Longview,28806.0,14638.0,24064.0,26199.0
+11908,GGW,MT,Wokal Field Glasgow Valley County,Glasgow,4001.0,2660.0,3330.0,2982.0
+11921,GJT,CO,Grand Junction Regional,Grand Junction,262325.0,141537.0,261770.0,232197.0
+11924,GKN,AK,Gulkana Airport,Gulkana,355.0,138.0,408.0,400.0
+11931,GLH,MS,Greenville Mid Delta,Greenville,4747.0,3112.0,5567.0,9509.0
+11941,GLV,AK,Golovin Airport,Golovin,3562.0,1675.0,2586.0,3103.0
+11952,GNU,AK,Goodnews,Goodnews Bay,1205.0,333.0,510.0,848.0
+11953,GNV,FL,Gainesville Regional,Gainesville,269915.0,123943.0,197311.0,262174.0
+11973,GPT,MS,Gulfport-Biloxi International,Gulfport/Biloxi,285878.0,143565.0,218197.0,244101.0
+11977,GRB,WI,Green Bay Austin Straubel International,Green Bay,340804.0,137587.0,258730.0,295416.0
+11980,GRI,NE,Central Nebraska Regional,Grand Island,68856.0,36122.0,54759.0,64854.0
+11982,GRK,TX,Robert Gray AAF,Killeen,145940.0,84535.0,128042.0,97760.0
+11986,GRR,MI,Gerald R. Ford International,Grand Rapids,1797756.0,860656.0,1456839.0,1726368.0
+11995,GSO,NC,Piedmont Triad International,Greensboro/High Point,1082150.0,383346.0,627039.0,792288.0
+11996,GSP,SC,Greenville-Spartanburg International,Greer,1276972.0,516020.0,893337.0,1089615.0
+11997,GST,AK,Gustavus Airport,Gustavus,10922.0,2885.0,10032.0,10003.0
+12003,GTF,MT,Great Falls International,Great Falls,174442.0,79332.0,132628.0,141829.0
+12007,GTR,MS,Golden Triangle Regional,Columbus,49874.0,20544.0,34534.0,41032.0
+12012,GUC,CO,Gunnison-Crested Butte Regional,Gunnison,36233.0,28540.0,38756.0,50768.0
+12016,GUM,TT,Guam International,Guam,161031.0,60952.0,90743.0,145168.0
+12018,GUP,NM,Gallup Municipal,Gallup,0.0,0.0,0.0,870.0
+12021,GUS,IN,Grissom ARB,Peru,0.0,0.0,0.0,0.0
+12039,GWO,MS,Greenwood/Leflore,Greenwood,6.0,0.0,0.0,0.0
+12054,GYR,AZ,Phoenix Goodyear,Goodyear,0.0,0.0,181.0,0.0
+12055,GYY,IN,Gary/Chicago International,Gary,0.0,0.0,259.0,0.0
+12087,HCR,AK,Holy Cross Airport,Holy Cross,1794.0,237.0,165.0,180.0
+12094,HDN,CO,Yampa Valley,Hayden,106357.0,87782.0,152748.0,200603.0
+12119,HGR,MD,Hagerstown Regional-Richard A. Henson Field,Hagerstown,29062.0,14325.0,23106.0,32052.0
+12124,HHH,SC,Hilton Head Airport,Hilton Head,110230.0,73569.0,176336.0,114340.0
+12127,HHR,CA,Jack Northrop Field/Hawthorne Municipal,Hawthorne,2628.0,1219.0,2270.0,3413.0
+12129,HIB,MN,Range Regional,Hibbing,17163.0,8024.0,12320.0,12863.0
+12173,HNL,HI,Daniel K Inouye International,Honolulu,7606672.0,2596245.0,5737833.0,8138899.0
+12141,HKB,AK,Healy River,Healy,180.0,143.0,227.0,243.0
+12156,HLN,MT,Helena Regional,Helena,118300.0,46974.0,71442.0,82323.0
+12171,HNH,AK,Hoonah Airport,Hoonah,7948.0,4428.0,5536.0,5821.0
+12174,HNM,HI,Hana Airport,Hana,1204.0,421.0,2315.0,2528.0
+12175,HNS,AK,Haines Airport,Haines,8849.0,4565.0,7990.0,8495.0
+12177,HOB,NM,Lea County Regional,Hobbs,27765.0,9080.0,11970.0,17877.0
+12184,HOM,AK,Homer Airport,Homer,40846.0,6195.0,26330.0,30790.0
+12190,HOT,AR,Memorial Field,Hot Springs,4824.0,3020.0,4343.0,4968.0
+12191,HOU,TX,William P Hobby,Houston,6829752.0,3055579.0,5383700.0,6185321.0
+12195,HPB,AK,Hooper Bay Airport,Hooper Bay,7150.0,2962.0,4169.0,5260.0
+12197,HPN,NY,Westchester County,White Plains,863562.0,234873.0,534155.0,892513.0
+12206,HRL,TX,Valley International,Harlingen/San Benito,334755.0,172288.0,306616.0,428719.0
+12207,HRO,AR,Boone County,Harrison,4924.0,3495.0,4761.0,5780.0
+12211,HSH,NV,Henderson Executive,Las Vegas,0.0,0.0,0.0,1.0
+12214,HSL,AK,Huslia Airport,Huslia,3519.0,1314.0,2338.0,3331.0
+12217,HSV,AL,Huntsville International-Carl T Jones Field,Huntsville,713574.0,276440.0,462634.0,592300.0
+12222,HTO,NY,East Hampton Town,East Hampton,0.0,0.0,4.0,67.0
+12223,HTS,WV,Tri-State/Milton J. Ferguson Field,Ashland,106951.0,57669.0,93397.0,89492.0
+12235,HUS,AK,Hughes Airport,Hughes,1997.0,809.0,1289.0,1445.0
+12244,HVN,CT,Tweed New Haven,New Haven,48642.0,11367.0,29560.0,351690.0
+12245,HVR,MT,Havre City-County,Havre,3343.0,2037.0,2941.0,2863.0
+12250,HYA,MA,Cape Cod Gateway,Hyannis,24071.0,9679.0,19243.0,15221.0
+12252,HYG,AK,Hydaburg Seaplane Base,Hydaburg,17.0,7.0,5.0,1.0
+12253,HYL,AK,Hollis Seaplane Base,Hollis,1056.0,169.0,203.0,120.0
+12255,HYS,KS,Hays Regional,Hays,27558.0,9347.0,11086.0,15926.0
+12264,IAD,VA,Washington Dulles International,Washington,7803701.0,2933490.0,5594821.0,6711550.0
+12265,IAG,NY,Niagara Falls International,Niagara Falls,122017.0,42087.0,42468.0,58451.0
+12266,IAH,TX,George Bush Intercontinental/Houston,Houston,16530581.0,6956005.0,13119363.0,15297731.0
+12268,IAN,AK,Bob Baker Memorial,Kiana,4623.0,1910.0,2736.0,3121.0
+12278,ICT,KS,Wichita Dwight D Eisenhower National,Wichita,879070.0,391179.0,637317.0,788123.0
+12280,IDA,ID,Idaho Falls Regional,Idaho Falls,177340.0,101538.0,219781.0,309673.0
+12294,IGG,AK,Igiugig Airport,Igiugig,163.0,22.0,44.0,120.0
+12297,IGM,AZ,Kingman Airport,Kingman,135.0,0.0,0.0,0.0
+12315,IKO,AK,Nikolski AS,Nikolski,136.0,48.0,92.0,156.0
+12320,ILG,DE,New Castle,Wilmington,0.0,0.0,11871.0,4583.0
+12321,ILI,AK,Iliamna Airport,Iliamna,4212.0,1421.0,2081.0,1461.0
+12323,ILM,NC,Wilmington International,Wilmington,540935.0,245761.0,463903.0,537261.0
+12335,IMT,MI,Ford,Iron Mountain/Kingsfd,22206.0,10464.0,14863.0,21335.0
+12339,IND,IN,Indianapolis International,Indianapolis,4672874.0,1985951.0,3488294.0,4200232.0
+12343,INL,MN,Falls International Einarson Field,International Falls,17066.0,5542.0,8257.0,11951.0
+12363,IPL,CA,Imperial County,El Centro,5561.0,2716.0,5177.0,9172.0
+12365,IPT,PA,Williamsport Regional,Williamsport,20256.0,6847.0,4110.0,0.0
+12370,IRC,AK,Circle City,Circle,317.0,145.0,214.0,327.0
+12375,IRK,MO,Kirksville Regional,Kirksville,5244.0,2905.0,4099.0,4667.0
+12388,ISM,FL,Kissimmee Gateway,Orlando,0.0,0.0,0.0,0.0
+12389,ISN,ND,Sloulin Field International,Williston,68464.0,0.0,0.0,0.0
+12390,ISO,NC,Kinston Regional Jetport at Stallings Field,Kinston,0.0,0.0,0.0,0.0
+12391,ISP,NY,Long Island MacArthur,Islip,780620.0,263769.0,556513.0,616815.0
+12397,ITH,NY,Ithaca Tompkins International,Ithaca/Cortland,109236.0,33081.0,57851.0,56326.0
+12402,ITO,HI,Hilo International,Hilo,582804.0,232788.0,358485.0,636359.0
+12412,IWD,MI,Gogebic-Iron County,Ironwood,5151.0,2541.0,4763.0,7276.0
+12441,JAC,WY,Jackson Hole,Jackson,443456.0,275995.0,497251.0,399510.0
+12448,JAN,MS,Jackson Medgar Wiley Evers International,Jackson/Vicksburg,550997.0,214176.0,485326.0,632610.0
+12451,JAX,FL,Jacksonville International,Jacksonville,3514549.0,1381455.0,2438539.0,3187642.0
+12455,JBR,AR,Jonesboro Municipal,Jonesboro,5271.0,2546.0,3999.0,3901.0
+12478,JFK,NY,John F. Kennedy International,New York,14109730.0,4111653.0,8944945.0,13995738.0
+12492,JHM,HI,Kapalua Airport,Kapalua,34102.0,5826.0,5794.0,8053.0
+12511,JLN,MO,Joplin Regional,Joplin,47625.0,24957.0,26480.0,20662.0
+12519,JMS,ND,Jamestown Regional,Jamestown,19253.0,10560.0,20386.0,17825.0
+12523,JNU,AK,Juneau International,Juneau,453748.0,196156.0,352436.0,446063.0
+12544,USA,NC,Concord Padgett Regional,Concord,179126.0,86153.0,138068.0,122599.0
+12553,JRV,PR,Jose Aponte de la Torre,Ceiba,24067.0,17169.0,27311.0,27272.0
+12559,JST,PA,John Murtha Johnstown-Cambria County,Johnstown,6435.0,3012.0,8519.0,8774.0
+12591,JZM,AK,Hog River Airport,Hog River,0.0,0.0,0.0,1.0
+12610,KAE,AK,Kake Seaplane Base,Kake,3766.0,1851.0,2521.0,3218.0
+12615,KAL,AK,Kaltag Airport,Kaltag,2280.0,767.0,1294.0,1720.0
+12621,KBC,AK,Birch Creek Airport,Birch Creek,1341.0,568.0,573.0,681.0
+12633,KCC,AK,Coffman Cove Seaplane Base,Coffman Cove,108.0,43.0,43.0,45.0
+12635,KCG,AK,Chignik Bay Airport,Chignik Bay,264.0,64.0,68.0,170.0
+12638,KCL,AK,Chignik Lagoon Airport,Chignik Lagoon,266.0,74.0,76.0,172.0
+12641,KCQ,AK,Chignik Lake,Chignik,381.0,99.0,195.0,263.0
+12649,KEB,AK,Nanwalek Airport,Nanwalek,2942.0,895.0,1478.0,2245.0
+12652,KEH,WA,Kenmore Air Harbor,Kenmore,2549.0,615.0,17311.0,8049.0
+12653,KEK,AK,Ekwok Airport,Ekwok,731.0,880.0,1413.0,1487.0
+12663,KFP,AK,False Pass Airport,False Pass,303.0,114.0,52.0,65.0
+12671,KGK,AK,Koliganek Airport,Koliganek,998.0,696.0,1240.0,1544.0
+12676,KGX,AK,Grayling Airport,Grayling,1000.0,147.0,101.0,99.0
+12704,KKA,AK,Koyuk Alfred Adams,Koyuk,3477.0,1759.0,2609.0,3246.0
+12705,KKB,AK,Kitoi Bay Airport,Kitoi Bay,61.0,61.0,69.0,61.0
+12708,KKH,AK,Kongiganak Airport,Kongiganak,4893.0,1665.0,2717.0,3442.0
+12709,KKI,AK,Akiachak Airport,Akiachak,3510.0,1172.0,1737.0,1681.0
+12716,KKU,AK,Ekuk Airport,Ekuk,0.0,6.0,0.0,0.0
+12719,KLG,AK,Kalskag Airport,Kalskag,4920.0,763.0,924.0,806.0
+12720,KLL,AK,Levelock Airport,Levelock,407.0,391.0,567.0,595.0
+12721,KLN,AK,Larsen Bay Airport,Larsen Bay,1628.0,1117.0,1738.0,2125.0
+12728,KLW,AK,Klawock Airport,Klawock,12617.0,9908.0,14011.0,15753.0
+12737,KMO,AK,Manokatak Seaplane Base,Manokotak,1557.0,700.0,952.0,1547.0
+12743,KMY,AK,Moser Bay Airport,Moser Bay,71.0,52.0,61.0,93.0
+12748,KNK,AK,Kokhanok Airport,Kokhanok,1490.0,758.0,925.0,638.0
+12755,KNW,AK,New Stuyahok Airport,New Stuyahok,2528.0,1484.0,2123.0,2074.0
+12758,KOA,HI,Ellison Onizuka Kona International at Keahole,Kona,1816536.0,590597.0,1394258.0,1977224.0
+12769,KOT,AK,Kotlik Airport,Kotlik,5184.0,2534.0,3293.0,2861.0
+12771,KOY,AK,Olga Bay Seaplane Base,Olga Bay,81.0,70.0,58.0,97.0
+12772,KOZ,AK,Ouzinkie Airport,Ouzinkie,997.0,756.0,1042.0,1099.0
+12773,KPB,AK,Point Baker Airport,Point Baker,49.0,19.0,30.0,21.0
+12774,KPC,AK,Port Clarence CGS,Port Clarence,0.0,0.0,0.0,4.0
+12779,KPN,AK,Kipnuk Airport,Kipnuk,7008.0,2469.0,3469.0,5257.0
+12782,KPR,AK,Port Williams Airport,Port Williams,41.0,72.0,53.0,59.0
+12784,KPV,AK,Perryville Airport,Perryville,272.0,92.0,95.0,245.0
+12785,KPY,AK,Port Bailey Airport,Port Bailey,46.0,76.0,73.0,55.0
+12786,KQA,AK,Akutan Airport,Akutan,1031.0,566.0,628.0,854.0
+12807,KSM,AK,St. Mary's Airport,St. Mary's,10395.0,2497.0,4147.0,5905.0
+12815,KTB,AK,Thorne Bay Seaplane Base,Thorne Bay,1887.0,266.0,369.0,248.0
+12819,KTN,AK,Ketchikan International,Ketchikan,212248.0,94807.0,192854.0,225415.0
+12822,KTS,AK,Brevig Mission Airport,Brevig Mission,3680.0,1870.0,2724.0,3229.0
+12831,KUK,AK,Kasigluk Airport,Kasigluk,4769.0,1599.0,2674.0,3818.0
+12841,KVC,AK,King Cove Airport,King Cove,1279.0,437.0,434.0,542.0
+12844,KVL,AK,Kivalina Airport,Kivalina,4818.0,1910.0,2696.0,3368.0
+12847,KWF,AK,Waterfall Seaplane Base,Waterfall,52.0,0.0,0.0,0.0
+12851,KWK,AK,Kwigillingok Airport,Kwigillingok,4342.0,1347.0,2112.0,2930.0
+12853,KWN,AK,Quinhagak Airport,Quinhagak,7114.0,2317.0,3782.0,4957.0
+12854,KWP,AK,West Point Village,West Point,78.0,91.0,87.0,74.0
+12855,KWT,AK,Kwethluk Airport,Kwethluk,4198.0,1183.0,1471.0,1798.0
+12857,KXA,AK,Kasaan Seaplane Base,Kasaan,88.0,5.0,14.0,2.0
+12866,KYK,AK,Karluk Airport,Karluk,298.0,112.0,211.0,218.0
+12868,KYU,AK,Koyukuk Airport,Koyukuk,1909.0,858.0,1167.0,1183.0
+12869,KZB,AK,Zachar Bay Airport,Zachar Bay,55.0,68.0,51.0,65.0
+12878,LAF,IN,Purdue University,Lafayette,37.0,0.0,0.0,0.0
+12882,LAL,FL,Lakeland Linder International,Lakeland,0.0,0.0,0.0,0.0
+12884,LAN,MI,Capital Region International,Lansing,162955.0,58274.0,89889.0,78465.0
+12888,LAR,WY,Laramie Regional,Laramie,18224.0,8935.0,16171.0,16707.0
+12889,LAS,NV,Harry Reid International,Las Vegas,22977687.0,10261651.0,18753963.0,24250475.0
+12891,LAW,OK,Lawton-Fort Sill Regional,Lawton/Fort Sill,51625.0,21994.0,38848.0,41099.0
+12892,LAX,CA,Los Angeles International,Los Angeles,30562787.0,10960320.0,19869665.0,24550313.0
+12896,LBB,TX,Lubbock Preston Smith International,Lubbock,536062.0,254616.0,407284.0,493721.0
+12898,LBE,PA,Arnold Palmer Regional,Latrobe,155429.0,62177.0,122533.0,122560.0
+12899,LBF,NE,North Platte Regional Airport Lee Bird Field,North Platte,15970.0,9311.0,13810.0,13461.0
+12902,LBL,KS,Liberal Mid-America Regional,Liberal,6923.0,2926.0,6567.0,12414.0
+12915,LCH,LA,Lake Charles Regional,Lake Charles,63090.0,32154.0,52775.0,61341.0
+12917,LCK,OH,Rickenbacker International,Columbus,151495.0,104246.0,147767.0,147003.0
+12925,LDJ,NJ,Linden Airport,Linden,0.0,0.0,4.0,0.0
+12932,LEB,NH,Lebanon Municipal,Lebanon-Hanover,10091.0,3656.0,7492.0,9609.0
+12945,LEX,KY,Blue Grass,Lexington,704920.0,284220.0,460832.0,572005.0
+12951,LFT,LA,Lafayette Regional Paul Fournet Field,Lafayette,264969.0,120482.0,206579.0,224674.0
+12953,LGA,NY,LaGuardia,New York,14286312.0,3947103.0,7677576.0,13729503.0
+12954,LGB,CA,Long Beach Airport,Long Beach,1750934.0,517637.0,1106368.0,1686624.0
+12982,LIH,HI,Lihue Airport,Lihue,1603007.0,480937.0,1020559.0,1751020.0
+12983,LIJ,AK,Long Island Airport,Long Island,1.0,0.0,0.0,0.0
+12992,LIT,AR,Bill and Hillary Clinton Nat Adams Field,Little Rock,1105261.0,472349.0,843576.0,1009374.0
+13002,LKE,WA,Lake Union Terminal,Seattle,11538.0,5416.0,13069.0,10644.0
+13003,LKK,AK,Kulik Lake Airport,Kulik Lake,0.0,0.0,251.0,359.0
+13016,LMA,AK,Lake Minchumina Airport,Lake Minchumina,0.0,116.0,184.0,179.0
+13024,LMT,OR,Crater Lake Klamath Regional,Klamath Falls,0.0,0.0,0.0,4.0
+13028,LNI,AK,Lonely AS,Lonely,0.0,0.0,0.0,0.0
+13029,LNK,NE,Lincoln Airport,Lincoln,163199.0,50609.0,88984.0,91267.0
+13032,LNS,PA,Lancaster Airport,Lancaster,5583.0,2405.0,4028.0,6267.0
+13034,LNY,HI,Lanai Airport,Lanai,47359.0,16976.0,24076.0,34304.0
+13055,LPS,WA,Lopez Island Airport,Lopez Island,0.0,410.0,1000.0,5410.0
+13057,LPW,AK,Little Port Walter Airport,Little Port Walter,0.0,0.0,0.0,6.0
+13061,LRD,TX,Laredo International,Laredo,90818.0,41987.0,87707.0,110300.0
+13076,LSE,WI,La Crosse Regional,La Crosse,94813.0,42875.0,80070.0,62386.0
+13087,LSV,NV,Nellis AFB,Las Vegas,185.0,0.0,0.0,0.0
+13109,LUP,HI,Kalaupapa Airport,Kalaupapa,1101.0,399.0,2193.0,6361.0
+13111,LUR,AK,Cape Lisburne LRRS,Cape Lisburne,233.0,33.0,44.0,93.0
+13121,LWB,WV,Greenbrier Valley,Lewisburg,12667.0,3786.0,10393.0,14636.0
+13127,LWS,ID,Lewiston Nez Perce County,Lewiston,38022.0,15412.0,30721.0,41618.0
+13139,LYH,VA,Lynchburg Regional/Preston Glenn Field,Lynchburg,91094.0,44272.0,68931.0,75373.0
+13158,MAF,TX,Midland International Air and Space Port,Midland/Odessa,690084.0,327485.0,524606.0,662240.0
+13176,MAZ,PR,Eugenio Maria de Hostos,Mayaguez,7669.0,4718.0,6294.0,7059.0
+13182,MBL,MI,Manistee County-Blacker,Manistee/Ludington,0.0,613.0,5100.0,5185.0
+13184,MBS,MI,MBS International,Saginaw/Bay City/Midland,132582.0,47173.0,67556.0,69261.0
+13192,MCC,CA,McClellan Airfield,Sacramento,0.0,11.0,0.0,0.0
+13194,MCE,CA,Merced Regional/Macready Field,Merced,6832.0,4507.0,5301.0,3427.0
+13196,MCG,AK,McGrath Airport,McGrath,2127.0,1214.0,1977.0,2339.0
+13198,MCI,MO,Kansas City International,Kansas City,5848953.0,2194735.0,3841990.0,4855237.0
+13200,MCK,NE,McCook Ben Nelson Regional,McCook,2132.0,1269.0,1920.0,1509.0
+13203,MCN,GA,Middle Georgia Regional,Macon,15091.0,6873.0,11295.0,11968.0
+13204,MCO,FL,Orlando International,Orlando,21233624.0,9744813.0,18777217.0,21898303.0
+13211,MCW,IA,Mason City Municipal,Mason City,8160.0,3517.0,7747.0,9464.0
+13221,MDH,IL,Southern Illinois,Carbondale,0.0,0.0,0.0,0.0
+13230,MDT,PA,Harrisburg International,Harrisburg,750978.0,315806.0,511881.0,623983.0
+13232,MDW,IL,Chicago Midway International,Chicago,9861975.0,4201484.0,7587712.0,9546142.0
+13234,MDY,TT,Sand Island Field,Midway Island,0.0,0.0,63.0,0.0
+13241,MEI,MS,Key Field,Meridian,24688.0,9153.0,12080.0,20711.0
+13244,MEM,TN,Memphis International,Memphis,2326342.0,1023661.0,1803734.0,2180345.0
+13249,MER,CA,Castle,Atwater,0.0,0.0,0.0,0.0
+13256,MFE,TX,McAllen Miller International,Mission/McAllen/Edinburg,413161.0,184013.0,416827.0,448568.0
+13264,MFR,OR,Rogue Valley International - Medford,Medford,528075.0,244760.0,437107.0,504455.0
+13273,MGE,GA,Dobbins ARB,Marietta,0.0,0.0,0.0,99.0
+13277,MGM,AL,Montgomery Regional,Montgomery,196016.0,86074.0,130113.0,152411.0
+13282,MGW,WV,Morgantown Municipal,Morgantown,6695.0,3172.0,6407.0,7253.0
+13290,MHK,KS,Manhattan Regional,Manhattan/Ft. Riley,77823.0,32118.0,57211.0,73979.0
+13292,MHM,AK,Minchumina Airport,Minchumina,169.0,0.0,0.0,3.0
+13296,MHT,NH,Manchester Boston Regional,Manchester,855049.0,310117.0,478349.0,644464.0
+13303,MIA,FL,Miami International,Miami,10790948.0,5249699.0,11583394.0,14137031.0
+13342,MKE,WI,General Mitchell International,Milwaukee,3381779.0,1272085.0,2245662.0,2657308.0
+13344,MKG,MI,Muskegon County,Muskegon,19048.0,5774.0,12562.0,11092.0
+13347,MKK,HI,Molokai,Hoolehua,51122.0,30798.0,68251.0,95528.0
+13348,MKL,TN,McKellar-Sipes Regional,Jackson,5403.0,2835.0,2728.0,3393.0
+13354,MKT,MN,Mankato Regional,Mankato,0.0,0.0,0.0,0.0
+13360,MLB,FL,Melbourne Orlando International,Melbourne,239639.0,110013.0,176053.0,219826.0
+13367,MLI,IL,Quad Cities International,Moline,354068.0,149110.0,245815.0,268531.0
+13369,MLL,AK,Marshall Don Hunter Sr.,Marshall,2630.0,952.0,1966.0,2778.0
+13377,MLU,LA,Monroe Regional,Monroe,113883.0,54667.0,82082.0,87338.0
+13381,MLY,AK,Manley Hot Springs Airport,Manley Hot Springs,442.0,200.0,395.0,518.0
+13388,MMH,CA,Mammoth Lakes Airport,Mammoth Lakes,17164.0,6775.0,316.0,3986.0
+13415,MNT,AK,Minto Al Wright,Minto,513.0,247.0,407.0,545.0
+13422,MOB,AL,Mobile Regional,Mobile,329093.0,158290.0,235872.0,261982.0
+13433,MOT,ND,Minot International,Minot,163248.0,84683.0,125881.0,138818.0
+13434,MOU,AK,Mountain Village Airport,Mountain Village,3714.0,1536.0,2061.0,2475.0
+13439,MPB,FL,Watson Island International,Miami,0.0,0.0,0.0,0.0
+13459,MQT,MI,Sawyer International,Marquette,59060.0,26856.0,51527.0,42543.0
+13461,MQY,TN,Smyrna Airport,Smyrna,0.0,0.0,5.0,0.0
+13467,MRI,AK,Merrill Field,Anchorage,390.0,1473.0,1132.0,1060.0
+13476,MRY,CA,Monterey Regional,Monterey,233023.0,85761.0,183615.0,224198.0
+13484,MSL,AL,Northwest Alabama Regional,Muscle Shoals,6143.0,3406.0,5979.0,6387.0
+13485,MSN,WI,Dane County Regional-Truax Field,Madison,1161870.0,414781.0,696176.0,915413.0
+13486,MSO,MT,Missoula Montana,Missoula,451887.0,209011.0,383717.0,424028.0
+13487,MSP,MN,Minneapolis-St Paul International,Minneapolis,17586386.0,6647634.0,11833263.0,14167096.0
+13490,MSS,NY,Massena International-Richards Field,Massena,5139.0,2000.0,3613.0,4803.0
+13495,MSY,LA,Louis Armstrong New Orleans International,New Orleans,6885526.0,2639146.0,4046162.0,5932038.0
+13502,MTJ,CO,Montrose Regional,Montrose/Delta,159127.0,101447.0,189863.0,234805.0
+13504,MTM,AK,Metlakatala,Metlakatla,1369.0,272.0,383.0,492.0
+13507,MTP,NY,Sky Portal,Montauk Point,0.0,0.0,0.0,22.0
+13520,MUE,HI,Waimea-Kohala,Kamuela,1830.0,1467.0,3298.0,4344.0
+13535,MVL,VT,Morrisville Stowe State,Morrisville,14.0,105.0,0.0,42.0
+13541,MVY,MA,Martha's Vineyard Airport,Martha's Vineyard,51300.0,17608.0,66399.0,68567.0
+13543,MWA,IL,Veterans Airport of Southern Illinois,Marion/Herrin,10366.0,5358.0,8849.0,9319.0
+13546,MWH,WA,Grant County International,Moses Lake,0.0,0.0,375.0,393.0
+13547,MWL,TX,Mineral Wells Regional,Mineral Wells,8.0,0.0,0.0,0.0
+13564,MXY,AK,McCarthy Airport,McCarthy,153.0,57.0,117.0,176.0
+13570,MYF,CA,Montgomery Gibbs Executive,San Diego,1.0,0.0,0.0,0.0
+13574,MYK,AK,May Creek Airport,May Creek,25.0,22.0,18.0,40.0
+13577,MYR,SC,Myrtle Beach International,Myrtle Beach,1333968.0,551174.0,1606129.0,1719611.0
+13579,MYU,AK,Mekoryuk Airport,Mekoryuk,1849.0,553.0,617.0,846.0
+13629,NCN,AK,Chenega Bay,Chenega,0.0,33.0,209.0,194.0
+13676,NIB,AK,Nikolai Airport,Nikolai,145.0,1024.0,997.0,793.0
+13685,NJ1,NJ,Camden County,Berlin,253.0,0.0,0.0,0.0
+13693,NKI,AK,Naukiti Airport,Naukiti,67.0,37.0,39.0,35.0
+13704,NLG,AK,Nelson Lagoon Airport,Nelson Lagoon,211.0,40.0,18.0,35.0
+13710,NME,AK,Nightmute Airport,Nightmute,3940.0,1440.0,1686.0,2529.0
+13714,NNK,AK,Naknek Airport,Naknek,0.0,1.0,6.0,2.0
+13715,NNL,AK,Nondalton Airport,Nondalton,392.0,221.0,334.0,209.0
+13731,NPT,RI,Newport State,Newport,0.0,0.0,30.0,70.0
+13767,NUI,AK,Nuiqsut Airport,Nuiqsut,3174.0,1899.0,2819.0,3047.0
+13768,NUL,AK,Nulato Airport,Nulato,4090.0,1365.0,2486.0,3010.0
+13770,NUP,AK,Nunapitchuk Airport,Nunapitchuk,4441.0,1266.0,2072.0,3066.0
+16218,YUM,AZ,Yuma MCAS/Yuma International,Yuma,98027.0,53931.0,91353.0,87812.0
+13795,OAJ,NC,Albert J Ellis,Jacksonville/Camp Lejeune,162142.0,105572.0,161383.0,136970.0
+13796,OAK,CA,Metro Oakland International,Oakland,6282197.0,2157199.0,3869573.0,5385782.0
+13806,OBU,AK,Kobuk Airport,Kobuk,2943.0,1034.0,1960.0,2418.0
+13829,OGD,UT,Ogden-Hinckley,Ogden,15835.0,8702.0,29373.0,11848.0
+13830,OGG,HI,Kahului Airport,Kahului,3606891.0,1077047.0,2901182.0,3985232.0
+13832,OGS,NY,Ogdensburg International,Ogdensburg,26895.0,9199.0,10292.0,7888.0
+13851,OKC,OK,Will Rogers World,Oklahoma City,2190710.0,953685.0,1668010.0,1988537.0
+13862,OLF,MT,L. M. Clayton,Wolf Point,3821.0,2755.0,3349.0,3203.0
+13863,OLH,AK,Old Harbor Airport,Old Harbor,1856.0,1344.0,2059.0,2050.0
+13871,OMA,NE,Eppley Airfield,Omaha,2480998.0,1047622.0,1854679.0,2234482.0
+13873,OME,AK,Nome Airport,Nome,76692.0,31536.0,50008.0,67807.0
+13891,ONT,CA,Ontario International,Ontario,2632338.0,1209294.0,2193523.0,2803055.0
+13894,OOK,AK,Toksook Bay,Toksook,5936.0,2467.0,2913.0,3892.0
+13930,ORD,IL,Chicago O'Hare International,Chicago,34136831.0,12871164.0,23784074.0,27632668.0
+13931,ORF,VA,Norfolk International,Norfolk,2015792.0,890281.0,1673234.0,2078910.0
+13933,ORH,MA,Worcester Regional,Worcester,97006.0,20451.0,14082.0,79919.0
+13934,ORI,AK,Port Lions Airport,Port Lions,1108.0,830.0,1025.0,1059.0
+13940,ORT,AK,Northway Airport,Northway,0.0,0.0,0.0,0.0
+13942,ORV,AK,Robert/Bob/Curtis Memorial,Noorvik,5021.0,2045.0,2924.0,3541.0
+13964,OTH,OR,Southwest Oregon Regional,North Bend/Coos Bay,13246.0,6747.0,13331.0,16750.0
+13968,OTS,WA,Anacortes Airport,Anacortes,0.0,0.0,6.0,0.0
+13970,OTZ,AK,Ralph Wien Memorial,Kotzebue,76412.0,31474.0,51324.0,67311.0
+13983,OWB,KY,Owensboro Daviess County Regional,Owensboro,18421.0,9156.0,13390.0,15631.0
+13984,OWD,MA,Norwood Memorial,Norwood,294.0,681.0,611.0,581.0
+13987,OXC,CT,Waterbury Oxford,Waterbury,0.0,2.0,0.0,4.0
+14004,PAE,WA,Snohomish County,Everett,389854.0,118386.0,114990.0,261443.0
+14006,PAH,KY,Barkley Regional,Paducah,25239.0,6585.0,13482.0,17915.0
+14013,PAQ,AK,Warren Bud Woods Palmer Municipal,Palmer,0.0,0.0,0.0,0.0
+14025,PBG,NY,Plattsburgh International,Plattsburgh,125269.0,43652.0,40761.0,74583.0
+14027,PBI,FL,Palm Beach International,West Palm Beach/Palm Beach,3408169.0,1489952.0,2575106.0,3242365.0
+14028,PBK,AK,Pack Creek Airport,Pack Creek,14.0,0.0,11.0,0.0
+14044,PCT,NJ,Princeton Airport,Princeton,151.0,0.0,0.0,0.0
+14046,PDB,AK,Pedro Bay Airport,Pedro Bay,34.0,95.0,60.0,30.0
+14054,PDT,OR,Eastern Oregon Regional at Pendleton,Pendleton,6882.0,3539.0,4258.0,5079.0
+14057,PDX,OR,Portland International,Portland,9403137.0,3354713.0,5664519.0,6972796.0
+14062,PEC,AK,Pelican Seaplane Base,Pelican,1403.0,843.0,1676.0,1428.0
+14081,PGA,AZ,Page Municipal,Page,10192.0,4935.0,9591.0,9834.0
+14082,PGD,FL,Punta Gorda Airport,Punta Gorda,821528.0,596854.0,783576.0,922345.0
+14088,PGM,AK,Port Graham Airport,Port Graham,3193.0,1040.0,923.0,1695.0
+14092,PGV,NC,Pitt Greenville,Greenville,52687.0,16628.0,31875.0,29535.0
+14098,PHF,VA,Newport News/Williamsburg International,Newport News/Williamsburg,211507.0,71078.0,83355.0,80209.0
+14100,PHL,PA,Philadelphia International,Philadelphia,14049533.0,5504565.0,9288399.0,10897128.0
+14102,PHO,AK,Point Hope Airport,Point Hope,4153.0,1913.0,2891.0,3578.0
+14107,PHX,AZ,Phoenix Sky Harbor International,Phoenix,21573500.0,10207451.0,18505521.0,20928138.0
+14108,PIA,IL,General Downing - Peoria International,Peoria,339122.0,160227.0,236273.0,284031.0
+14109,PIB,MS,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,12535.0,7536.0,12988.0,13776.0
+14112,PIE,FL,St Pete Clearwater International,St. Petersburg,1119067.0,687140.0,1002698.0,1192009.0
+14113,PIH,ID,Pocatello Regional,Pocatello,43973.0,19528.0,23349.0,11095.0
+14119,PIP,AK,Pilot Point Airport,Pilot Point,354.0,177.0,320.0,397.0
+14120,PIR,SD,Pierre Regional,Pierre,16971.0,8017.0,17483.0,16404.0
+14122,PIT,PA,Pittsburgh International,Pittsburgh,4641012.0,1746216.0,3062084.0,3882860.0
+14125,PIZ,AK,Point Lay LRRS,Point Lay,1833.0,911.0,1173.0,1307.0
+14130,PKA,AK,Napaskiak Airport,Napaskiak,1719.0,434.0,548.0,743.0
+14131,PKB,WV,Mid-Ohio Valley Regional,Parkersburg,5188.0,2995.0,7678.0,7362.0
+14150,PLN,MI,Pellston Regional Airport of Emmet County,Pellston,32600.0,17504.0,29265.0,25693.0
+14167,PML,AK,Port Moller Airport,Port Moller,104.0,15.0,13.0,20.0
+14193,PNS,FL,Pensacola International,Pensacola,1109460.0,585650.0,1191251.0,1222143.0
+14197,POB,NC,Pope AAF,Fayetteville,0.0,0.0,0.0,0.0
+14218,PPC,AK,Prospect Creek Airport,Prospect Creek,0.0,0.0,29.0,0.0
+14222,PPG,TT,Pago Pago International,Pago Pago,28676.0,5277.0,1468.0,16422.0
+14229,PPV,AK,Port Protection Airport,Port Protection,79.0,20.0,52.0,32.0
+14231,PQI,ME,Presque Isle International,Presque Isle/Houlton,13234.0,5271.0,11129.0,15409.0
+14234,PQS,AK,Pilot Station Airport,Pilot Station,3964.0,1144.0,2206.0,3252.0
+14237,PRC,AZ,Prescott Regional Ernest A Love Field,Prescott,27779.0,13026.0,23555.0,24058.0
+14252,PSC,WA,Tri Cities,Pasco/Kennewick/Richland,438068.0,190138.0,347232.0,391989.0
+14254,PSE,PR,Mercedita,Ponce,102212.0,18643.0,32497.0,109550.0
+14256,PSG,AK,Petersburg James A Johnson,Petersburg,55707.0,36850.0,48262.0,53700.0
+14259,PSM,NH,Portsmouth International at Pease,Portsmouth,61241.0,27858.0,40102.0,55716.0
+14262,PSP,CA,Palm Springs International,Palm Springs,1088250.0,545158.0,1015781.0,1372062.0
+14268,PTA,AK,Port Alsworth Airport,Port Alsworth,69.0,9.0,28.0,16.0
+14270,PTD,AK,Port Alexander Airport,Port Alexander,75.0,0.0,67.0,120.0
+14273,PTH,AK,Port Heiden Airport,Port Heiden,647.0,213.0,330.0,453.0
+14276,PTL,AK,Port Armstrong Airport,Port Armstrong,0.0,0.0,29.0,36.0
+14282,PTU,AK,Platinum Airport,Platinum,609.0,189.0,247.0,350.0
+14288,PUB,CO,Pueblo Memorial,Pueblo,17223.0,6266.0,11754.0,9437.0
+14303,PUW,WA,Pullman Moscow Regional,Pullman,69555.0,31533.0,51752.0,72296.0
+14306,PVC,MA,Provincetown Municipal,Provincetown,10432.0,2816.0,7642.0,7308.0
+14307,PVD,RI,Rhode Island Tf Green International,Providence,1944732.0,647938.0,1159486.0,1567407.0
+14314,PVU,UT,Provo Municipal,Provo,109385.0,75352.0,116833.0,209100.0
+14321,PWM,ME,Portland International Jetport,Portland,1088598.0,403961.0,853272.0,981748.0
+14332,PYM,MA,Plymouth Municipal,Plymouth,0.0,0.0,12.0,138.0
+14400,QMN,MA,Mansfield Municipal,Mansfield,44.0,0.0,0.0,0.0
+14412,QQB,AK,Keyes Point Airport,Keyes Point,10.0,0.0,9.0,8.0
+14457,RAP,SD,Rapid City Regional,Rapid City,343992.0,177414.0,339364.0,333087.0
+14468,RBH,AK,Brooks Lodge Airport,Brooks Lodge,6334.0,1159.0,3457.0,6242.0
+14474,RBY,AK,Ruby Airport,Ruby,3388.0,1377.0,2792.0,3110.0
+14477,RCE,WA,Roche Harbor Airport,Roche Harbor,18.0,1796.0,5846.0,7331.0
+14485,RDB,AK,Red Dog Airport,Red Dog,274.0,19.0,0.0,0.0
+14487,RDD,CA,Redding Municipal,Redding,51697.0,19091.0,58268.0,98618.0
+14489,RDM,OR,Roberts Field,Bend/Redmond,482898.0,224340.0,422283.0,514072.0
+14492,RDU,NC,Raleigh-Durham International,Raleigh/Durham,6768116.0,2328012.0,4296215.0,5732379.0
+14493,RDV,AK,Red Devil Airport,Red Devil,173.0,35.0,34.0,30.0
+14512,RFD,IL,Chicago/Rockford International,Rockford,120762.0,78818.0,104154.0,125755.0
+14520,RHI,WI,Rhinelander/Oneida County,Rhinelander,27225.0,13652.0,26239.0,21000.0
+14524,RIC,VA,Richmond International,Richmond,2196628.0,845432.0,1609977.0,2052448.0
+14534,RIW,WY,Central Wyoming Regional,Riverton/Lander,18993.0,9693.0,15467.0,12972.0
+14539,RKD,ME,Knox County Regional,Rockland,6730.0,2115.0,5773.0,6990.0
+14543,RKS,WY,Southwest Wyoming Regional,Rock Springs,24118.0,11441.0,16722.0,15278.0
+14551,RLU,AK,Bornite Upper,Bornite/Ruby Creek,0.0,0.0,0.0,0.0
+14559,RMP,AK,Rampart Airport,Rampart,465.0,250.0,471.0,547.0
+14570,RNO,NV,Reno/Tahoe International,Reno,2148917.0,959850.0,1746706.0,2079489.0
+14572,RNT,WA,Renton Municipal,Renton,1712.0,957.0,2729.0,2244.0
+14574,ROA,VA,Roanoke Blacksburg Regional,Roanoke,359270.0,143530.0,239603.0,297025.0
+14576,ROC,NY,Frederick Douglass Grtr Rochester International,Rochester,1280335.0,417338.0,770737.0,1160408.0
+14582,ROP,TT,Benjamin Taisacan Manglona International,Rota,9580.0,4067.0,6534.0,8221.0
+14588,ROW,NM,Roswell Air Center,Roswell,60541.0,24054.0,45054.0,55691.0
+14627,RSH,AK,Russian Mission Airport,Russian Mission,2711.0,537.0,1304.0,1748.0
+14628,RSJ,WA,Rosario Seaplane Base,Rosario,10.0,295.0,1475.0,8135.0
+14633,RST,MN,Rochester International,Rochester,183772.0,65262.0,99727.0,84999.0
+14635,RSW,FL,Southwest Florida International,Fort Myers,4883638.0,2878643.0,5091516.0,5044263.0
+14648,RUT,VT,Rutland - Southern Vermont Regional,Rutland,5464.0,2083.0,4505.0,5454.0
+14660,RYE,CO,Weld County Municipal,Greeley,8.0,0.0,0.0,0.0
+14674,SAF,NM,Santa Fe Municipal,Santa Fe,142535.0,49881.0,95081.0,123404.0
+14679,SAN,CA,San Diego International,San Diego,12228785.0,4535919.0,7761307.0,10887010.0
+14683,SAT,TX,San Antonio International,San Antonio,4907583.0,1858183.0,3366779.0,4551011.0
+14685,SAV,GA,Savannah/Hilton Head International,Savannah,1455694.0,583142.0,1372589.0,1740986.0
+14689,SBA,CA,Santa Barbara Municipal,Santa Barbara,509170.0,193595.0,449420.0,625069.0
+14691,SBD,CA,San Bernardino International,San Bernardino,0.0,0.0,0.0,9122.0
+14696,SBN,IN,South Bend International,South Bend,413525.0,206875.0,337182.0,358401.0
+14698,SBP,CA,San Luis County Regional,San Luis Obispo,266971.0,130830.0,199836.0,272620.0
+14704,SBY,MD,Salisbury-Ocean City/Wicomico Regional,Salisbury,70202.0,34408.0,58913.0,47384.0
+14709,SCC,AK,Deadhorse Airport,Deadhorse,84294.0,38824.0,24720.0,29765.0
+14711,SCE,PA,University Park,State College,191020.0,72444.0,119987.0,109678.0
+14712,SCF,AZ,Scottsdale,Phoenix,48.0,2.0,0.0,0.0
+14716,SCK,CA,Stockton Metro,Stockton,101119.0,44314.0,68852.0,74374.0
+14718,SCM,AK,Scammon Bay Airport,Scammon Bay,6241.0,2446.0,3373.0,4163.0
+14730,SDF,KY,Louisville Muhammad Ali International,Louisville,2065141.0,790452.0,1554234.0,1908428.0
+14738,SDP,AK,Sand Point,Sandpoint,6533.0,643.0,2370.0,4050.0
+14745,SDY,MT,Sidney Richland Regional,Sidney,9732.0,6892.0,8151.0,6535.0
+14747,SEA,WA,Seattle/Tacoma International,Seattle,22236200.0,8806001.0,16633608.0,20054575.0
+14761,SFB,FL,Orlando Sanford International,Sanford,1493356.0,752692.0,1166626.0,1324965.0
+14771,SFO,CA,San Francisco International,San Francisco,20412326.0,6196988.0,10142437.0,15617797.0
+14783,SGF,MO,Springfield-Branson National,Springfield,582674.0,290754.0,478088.0,538176.0
+14794,SGU,UT,St George Regional,St. George,102428.0,80566.0,152608.0,127946.0
+14797,SGY,AK,Skagway Airport,Skagway,7903.0,2169.0,3927.0,5817.0
+14802,SHD,VA,Shenandoah Valley Regional,Staunton,17124.0,6042.0,13654.0,11039.0
+14804,SHG,AK,Shungnak Airport,Shungnak,3563.0,1309.0,2179.0,2659.0
+14805,SHH,AK,Shishmaref Airport,Shishmaref,3902.0,1546.0,2778.0,3517.0
+14812,SHR,WY,Sheridan County,Sheridan,11706.0,10250.0,23704.0,25103.0
+14814,SHV,LA,Shreveport Regional,Shreveport,330499.0,155263.0,247981.0,275891.0
+14816,SHX,AK,Shageluk Airport,Shageluk,924.0,130.0,79.0,91.0
+14819,SIG,PR,Isla Grande,San Juan,16177.0,9587.0,16297.0,16339.0
+14828,SIT,AK,Sitka Rocky Gutierrez,Sitka,127782.0,46053.0,96986.0,122234.0
+14831,SJC,CA,Norman Y. Mineta San Jose International,San Jose,7367892.0,2172368.0,3475047.0,5481416.0
+14842,SJT,TX,San Angelo Regional/Mathis Field,San Angelo,65758.0,34270.0,58956.0,54689.0
+14843,SJU,PR,Luis Munoz Marin International,San Juan,4127834.0,2217323.0,4498674.0,4636288.0
+14856,SKK,AK,Shaktoolik Airport,Shaktoolik,3749.0,1258.0,1828.0,2428.0
+14863,SKW,AK,Skwentna Airport,Skwentna,32.0,51.0,93.0,137.0
+14869,SLC,UT,Salt Lake City International,Salt Lake City,12362168.0,5836571.0,10568299.0,11878530.0
+14875,SLK,NY,Adirondack Regional,Saranac Lake/Lake Placid,4735.0,1605.0,3856.0,5011.0
+14877,SLN,KS,Salina Regional,Salina,18788.0,6778.0,18367.0,23228.0
+14880,SLQ,AK,Sleetmute Airport,Sleetmute,197.0,45.0,41.0,30.0
+14893,SMF,CA,Sacramento International,Sacramento,6377519.0,2659934.0,4673341.0,5948742.0
+14895,SMK,AK,St. Michael Airport,St. Michael,4765.0,1976.0,3034.0,3558.0
+14897,SMN,ID,Lemhi County,Salmon,220.0,180.0,245.0,0.0
+14905,SMX,CA,Santa Maria Public/Capt. G. Allan Hancock Field,Santa Maria,24125.0,10293.0,27268.0,15485.0
+14908,SNA,CA,John Wayne Airport-Orange County,Santa Ana,5067142.0,1806650.0,3755719.0,5387095.0
+14919,SNP,AK,St. Paul Island,St. Paul,2910.0,582.0,1310.0,1657.0
+14942,SOV,AK,Seldovia Airport,Seldovia,6222.0,3093.0,4246.0,3969.0
+14943,SOW,AZ,Show Low Regional,Show Low,4560.0,3716.0,4567.0,4535.0
+14945,SPB,VI,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,19978.0,9516.0,15038.0,9771.0
+14952,SPI,IL,Abraham Lincoln Capital,Springfield,73159.0,34216.0,60208.0,71704.0
+14955,SPN,TT,Francisco C. Ada Saipan International,Saipan,106135.0,37017.0,46902.0,78481.0
+14960,SPS,TX,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,41232.0,21300.0,33460.0,30812.0
+14965,SQA,CA,Santa Ynez Airport,Santa Ynez,0.0,0.0,0.0,0.0
+14967,SQL,CA,San Carlos Airport,San Carlos,5065.0,2817.0,4351.0,1736.0
+14986,SRQ,FL,Sarasota/Bradenton International,Sarasota/Bradenton,956745.0,602878.0,1586600.0,1918882.0
+14987,SRV,AK,Stony River Airport,Stony River,108.0,35.0,19.0,10.0
+14992,SSB,VI,Christiansted Harbor Seaplane Base,Christiansted,19831.0,9674.0,15490.0,9985.0
+15008,STC,MN,St. Cloud Regional,St. Cloud,20390.0,14683.0,16185.0,17751.0
+15012,STG,AK,St. George Island Airport,St. George Island,552.0,210.0,193.0,283.0
+15016,STL,MO,St Louis Lambert International,St. Louis,7807419.0,3115520.0,5113431.0,6708200.0
+15023,STS,CA,Charles M. Schulz - Sonoma County,Santa Rosa,239532.0,96732.0,215510.0,303679.0
+15024,STT,VI,Cyril E King,Charlotte Amalie,579489.0,353835.0,726208.0,715778.0
+15027,STX,VI,Henry E. Rohlsen,Christiansted,216548.0,121478.0,217226.0,209770.0
+15041,SUN,ID,Friedman Memorial,Sun Valley/Hailey/Ketchum,88910.0,46342.0,94000.0,100456.0
+15048,SUX,IA,Sioux Gateway Brig Gen Bud Day Field,Sioux City,46597.0,16842.0,30356.0,25084.0
+15049,SVA,AK,Savoonga Airport,Savoonga,4225.0,1924.0,2771.0,3713.0
+15051,SVC,NM,Grant County,Silver City/Hurley,5960.0,2717.0,4907.0,6340.0
+15061,SVS,AK,Stevens Village Airport,Stevens Village,758.0,454.0,625.0,467.0
+15069,SWD,AK,Seward Airport,Seward,0.0,0.0,3.0,0.0
+15070,SWF,NY,New York Stewart International,Newburgh/Poughkeepsie,190015.0,48575.0,67804.0,123417.0
+15074,SWO,OK,Stillwater Regional,Stillwater,28003.0,11311.0,18714.0,26525.0
+15085,SXP,AK,Nunam Iqua,Sheldon Point,1538.0,663.0,965.0,1494.0
+15086,SXQ,AK,Soldotna Airport,Soldotna,0.0,0.0,0.0,0.0
+15091,SYB,AK,Seal Bay Airport,Seal Bay,53.0,65.0,57.0,63.0
+15096,SYR,NY,Syracuse Hancock International,Syracuse,1273891.0,432255.0,836724.0,1243178.0
+15124,TAL,AK,Ralph M Calhoun Memorial,Tanana,3845.0,1451.0,1453.0,2046.0
+15138,TBN,MO,Waynesville-St. Robert Regional Forney Field,Fort Leonard Wood,5398.0,4055.0,8630.0,7891.0
+15160,TCT,AK,Takotna Airport,Takotna,75.0,315.0,191.0,199.0
+15167,TEB,NJ,Teterboro Airport,Teterboro,0.0,0.0,0.0,4.0
+15171,TEK,AK,Tatitlek Airport,Tatitlek,225.0,363.0,310.0,321.0
+15177,TEX,CO,Telluride Regional,Telluride,5399.0,3741.0,6600.0,11703.0
+15215,TIQ,TT,Tinian International,Tinian,39356.0,16571.0,22570.0,25876.0
+15231,TKE,AK,Tenakee Airport,Tenakee,1311.0,662.0,952.0,901.0
+15232,TKF,CA,Truckee Tahoe,Truckee,851.0,667.0,1132.0,515.0
+15236,TKJ,AK,Tok Junction,Tok,138.0,129.0,185.0,171.0
+15245,TLA,AK,Teller Airport,Teller,2601.0,1410.0,2397.0,2640.0
+15249,TLH,FL,Tallahassee International,Tallahassee,417065.0,184837.0,318356.0,396403.0
+15250,TLJ,AK,Tatalina LRRS,Tatalina,22.0,150.0,54.0,49.0
+15257,TLT,AK,Tuluksak Airport,Tuluksak,2766.0,915.0,1560.0,1448.0
+15278,TNC,AK,Tin City LRRS,Tin City,234.0,69.0,94.0,131.0
+15282,TNK,AK,Tununak Airport,Tununak,4094.0,1450.0,1950.0,2625.0
+15293,TOG,AK,Togiak Airport,Togiak,928.0,545.0,688.0,2324.0
+15295,TOL,OH,Eugene F Kranz Toledo Express,Toledo,122766.0,61356.0,80978.0,79067.0
+15304,TPA,FL,Tampa International,Tampa,10483990.0,4855517.0,8806090.0,10192966.0
+15323,TRI,TN,Tri Cities,Bristol/Johnson City/Kingsport,223819.0,99807.0,157624.0,192377.0
+15342,TSM,NM,Taos Regional,Taos,0.0,0.0,2289.0,5999.0
+15356,TTN,NJ,Trenton Mercer,Trenton,461596.0,129339.0,243329.0,328139.0
+15370,TUL,OK,Tulsa International,Tulsa,1537082.0,675670.0,1178298.0,1488187.0
+15374,TUP,MS,Tupelo Regional,Tupelo,14180.0,8774.0,13623.0,12125.0
+15376,TUS,AZ,Tucson International,Tucson,1860527.0,824918.0,1336596.0,1719219.0
+15380,TVC,MI,Cherry Capital,Traverse City,286207.0,146113.0,298769.0,287839.0
+15381,TVF,MN,Thief River Falls Regional,Thief River Falls,5155.0,2612.0,7208.0,8741.0
+15385,TWA,AK,Twin Hills Airport,Twin Hills,577.0,390.0,534.0,1347.0
+15389,TWF,ID,Joslin Field - Magic Valley Regional,Twin Falls,52599.0,24069.0,35858.0,17801.0
+15393,TX1,TX,Mesquite Metro,Mesquite,0.0,0.0,0.0,32.0
+15401,TXK,AR,Texarkana Regional-Webb Field,Texarkana,37868.0,17499.0,27756.0,36093.0
+15411,TYR,TX,Tyler Pounds Regional,Tyler,59888.0,29265.0,40151.0,40776.0
+15412,TYS,TN,McGhee Tyson,Knoxville,1249001.0,569555.0,978604.0,1219099.0
+15427,UBF,MA,Chatham Municipal,Chatham,193.0,0.0,0.0,0.0
+15448,UGS,AK,Ugashik Airport,Ugashik,137.0,76.0,100.0,193.0
+15446,UGI,AK,Uganik Airport,Uganik,59.0,64.0,74.0,56.0
+15454,UIN,IL,Quincy Regional-Baldwin Field,Quincy,10041.0,4908.0,7378.0,4747.0
+15472,UMT,AK,Umiat Airport,Umiat,0.0,0.0,0.0,0.0
+15478,UNK,AK,Unalakleet Airport,Unalakleet,16026.0,4422.0,7821.0,9454.0
+15481,UOX,MS,University-Oxford,Oxford,0.0,0.0,0.0,0.0
+15497,UST,FL,Northeast Florida Regional,St. Augustine,0.0,0.0,359.0,1030.0
+15504,UTO,AK,Indian Mountain LRRS,Utopia,0.0,0.0,0.0,0.0
+15554,VAK,AK,Chevak Airport,Chevak,7650.0,3182.0,4598.0,5639.0
+15569,VCT,TX,Victoria Regional,Victoria,5773.0,2837.0,6643.0,7649.0
+15570,VCV,CA,Southern California Logistics,Victorville,0.0,0.0,156.0,90.0
+15579,VDZ,AK,Valdez Pioneer Field,Valdez,9308.0,986.0,4913.0,5220.0
+15581,VEE,AK,Venetie Airport,Venetie,3507.0,1318.0,1994.0,2567.0
+15582,VEL,UT,Vernal Regional,Vernal,12657.0,5737.0,9168.0,11072.0
+15599,VIK,AK,Kavik River Airport,Kavik River,0.0,10.0,9.0,0.0
+15607,VLD,GA,Valdosta Regional,Valdosta,44223.0,21727.0,38560.0,38517.0
+15618,VNY,CA,Van Nuys Airport,Van Nuys,0.0,0.0,1.0,0.0
+15624,VPS,FL,Eglin AFB Destin Fort Walton Beach,Valparaiso,813496.0,459569.0,983091.0,988665.0
+15626,VQS,PR,Antonio Rivera Rodriguez,Vieques,36788.0,23801.0,36454.0,39459.0
+15628,VRB,FL,Vero Beach Regional,Vero Beach,7430.0,2399.0,4052.0,977.0
+15709,WAA,AK,Wales Airport,Wales,1524.0,874.0,1546.0,1872.0
+15721,WBB,AK,Stebbins Airport,Stebbins,4933.0,2106.0,2997.0,3564.0
+15725,WBQ,AK,Beaver Airport,Beaver,928.0,494.0,661.0,760.0
+15731,WCR,AK,Chandalar Lake,Chandalar,0.0,0.0,0.0,0.0
+15741,WFB,AK,Ketchikan Waterfront Seaplane Base,Ketchikan,11388.0,1158.0,1595.0,6394.0
+15754,WHD,AK,Hyder Seaplane Base,Hyder,46.0,39.0,78.0,55.0
+15785,WLK,AK,Selawik Airport,Selawik,4317.0,1856.0,2740.0,3279.0
+15793,WMK,AK,Meyers Chuck Seaplane Base,Meyers Chuck,149.0,5.0,4.0,0.0
+15794,WMO,AK,White Mountain Airport,White Mountain,3376.0,1661.0,2541.0,3308.0
+15798,WNA,AK,Napakiak Airport,Napakiak,1804.0,436.0,774.0,1247.0
+15825,CWF,LA,Chennault International,Lake Charles,0.0,0.0,0.0,0.0
+15838,WQZ,AK,Chignik Lake Airport,Chignik Lake,0.0,0.0,1.0,0.0
+15841,WRG,AK,Wrangell Airport,Wrangell,50401.0,34277.0,46959.0,56328.0
+15881,WWA,AK,Wasilla Airport,Wasilla,0.0,0.0,0.0,0.0
+15853,WSN,AK,South Naknek 2,South Naknek,436.0,114.0,121.0,162.0
+15855,WST,RI,Westerly State,Westerly,18260.0,12720.0,16902.0,14419.0
+15856,WSX,WA,Westsound Airport,Westsound,0.0,53.0,297.0,2662.0
+15861,WTK,AK,Noatak Airport,Noatak,4612.0,1667.0,2435.0,3096.0
+15862,WTL,AK,Tuntutuliak Airport,Tuntutuliak,6175.0,2294.0,2696.0,3520.0
+15885,WWP,AK,Whale Pass Airport,Whale Pass,21.0,18.0,25.0,13.0
+15887,WWT,AK,Newtok Airport,Newtok,3570.0,1338.0,1264.0,1740.0
+15897,WYS,MT,Yellowstone,West Yellowstone,8972.0,4586.0,13143.0,7341.0
+15919,XNA,AR,Northwest Arkansas National,Fayetteville,888820.0,340713.0,600989.0,810354.0
+15991,YAK,AK,Yakutat Airport,Yakutat,30319.0,14007.0,21458.0,26054.0
+16091,YIP,MI,Willow Run,Detroit,0.0,0.0,0.0,0.0
+16101,YKM,WA,Yakima Air Terminal/McAllister Field,Yakima,67598.0,29007.0,45317.0,35127.0
+16311,ZNC,AK,Nyac Airport,Nyac,0.0,0.0,1.0,0.0
+16339,ZXF,AK,Illinois Creek Airport,Illinois Creek,0.0,0.0,2.0,0.0
+16340,ZXH,AK,Chomondely Sound Airport,Chomondely Sound,1.0,2.0,3.0,0.0
+16345,ZXM,AK,Saltery Cove Airport,Saltery Cove,242.0,0.0,0.0,0.0
+16346,ZXN,AK,Clover Bay Airport,Clover Bay,66.0,0.0,0.0,0.0
+16353,ZXU,RI,Quonset State,North Kingstown,0.0,0.0,0.0,8.0
+16390,BVU,AK,Beluga Airport,Beluga,0.0,0.0,0.0,0.0
+16560,OR4,OR,Bend Municipal,Bend,0.0,0.0,0.0,3.0
+16567,7AK,AK,Akun Airport,Akun,2172.0,1002.0,1134.0,1644.0
+16603,DHB,WA,Deer Harbor Marina,Deer Harbor,4.0,903.0,4161.0,6505.0
+16654,WA3,WA,Shaw Islands Water Aerodrome,Shaw Island,0.0,2.0,2.0,0.0
+16662,AA2,AK,Icicle Seafoods,Naknek-1,0.0,1.0,0.0,0.0
+16755,T8X,TX,McKinney National,Dallas,0.0,0.0,0.0,19.0
+16832,NYS,NY,New York Skyports Seaplane Base,New York,0.0,0.0,125.0,1155.0
+16869,XWA,ND,Williston Basin International,Williston,19981.0,31291.0,46281.0,66235.0
+16879,T4X,TX,Llano Municipal,Llano,0.0,0.0,0.0,591.0
+16923,1AK,AK,Mertarvik Quarry Road Landing Strip,Mertarvik,0.0,0.0,0.0,95.0
+16929,2AK,AK,Deer Park Airport,Deer Park,0.0,0.0,15.0,11.0
+16954,BNH,MA,Boston Harbor Seaplane Base,Boston,0.0,0.0,110.0,994.0

@@ -1,0 +1,90 @@
+﻿ORIGIN_AIRPORT_ID,CODE,ORIGIN_STATE_ABR,NAME,LOCATION,category,EAS,hub_cat,diff,pct_change,change_category,total_2019,total_2020,total_2021,total_2022,diff_2022,change_type,total_50s_2019,pct_50_2019,total_50s_2022,pct_50_2022,Latitude,Longitude
+14704,SBY,MD,Salisbury-Ocean City/Wicomico Regional,Salisbury,10k-100k,no,N,loss,-36.4,at least -30%,1905,1372,1576,1212,-364,less,1905,100.0,1212,100.0,38.339115,-75.5075949
+11288,DEC,IL,Decatur Airport,Decatur,less than 10k,yes,,loss,-45.4,at least -30%,1842,794,599,1005,406,more,0,0.0,1005,100.0,39.8331255,-88.8773767
+15607,VLD,GA,Valdosta Regional,Valdosta,10k-100k,no,N,loss,-3.5,less than -10%,1040,822,1176,1004,-172,less,1039,99.9,1004,100.0,30.7891551,-83.2786564
+10731,BQK,GA,Brunswick Golden Isles,Brunswick,10k-100k,no,N,loss,-15.9,at least -10%,1035,785,1030,870,-160,less,1035,100.0,870,100.0,31.2548331,-81.4669111
+14877,SLN,KS,Salina Regional,Salina,10k-100k,yes,N,loss,-11.4,at least -10%,916,644,685,812,127,more,916,100.0,812,100.0,38.8332633,-97.6097952
+10739,BRD,MN,Brainerd Lakes Regional,Brainerd,10k-100k,yes,N,gain,14,at least 10%,641,615,639,731,92,more,628,98.0,731,100.0,46.3526733,-94.2020084
+14237,PRC,AZ,Prescott Regional Ernest A Love Field,Prescott,10k-100k,yes,N,loss,-0.1,less than -10%,730,690,971,729,-242,less,728,99.7,729,100.0,34.6501415,-112.4282583
+12335,IMT,MI,Ford,Iron Mountain/Kingsfd,10k-100k,yes,N,gain,8.1,less than 10%,664,697,727,718,-9,less,664,100.0,718,100.0,45.81515,-88.11853
+11013,CIU,MI,Chippewa County International,Sault Ste. Marie,10k-100k,yes,N,gain,6.3,less than 10%,667,703,731,709,-22,less,667,100.0,709,100.0,45.0673752,-91.2924666
+12519,JMS,ND,Jamestown Regional,Jamestown,10k-100k,yes,N,loss,-24.6,at least -20%,932,878,973,703,-270,less,932,100.0,703,100.0,46.92649,-98.6791
+15374,TUP,MS,Tupelo Regional,Tupelo,10k-100k,yes,N,loss,-29.2,at least -20%,992,879,784,702,-82,less,551,55.5,702,100.0,34.2576066,-88.7033859
+14802,SHD,VA,Shenandoah Valley Regional,Staunton,10k-100k,yes,N,gain,0.7,less than 10%,696,686,690,701,11,more,696,100.0,701,100.0,38.2638356,-78.897264
+11587,ESC,MI,Delta County,Escanaba,10k-100k,yes,N,gain,14.5,at least 10%,605,577,675,693,18,more,605,100.0,693,100.0,38.8531357,-107.763621
+12255,HYS,KS,Hays Regional,Hays,10k-100k,yes,N,loss,-43.1,at least -30%,1199,813,612,682,70,more,1199,100.0,682,100.0,38.85406,-99.27376
+10268,ALO,IA,Waterloo Regional,Waterloo,10k-100k,yes,N,gain,0.7,less than 10%,669,435,538,674,136,more,669,100.0,674,100.0,42.55058,-92.39661
+11092,CNY,UT,Canyonlands Regional,Moab,10k-100k,yes,N,gain,7.8,less than 10%,592,621,710,638,-72,less,592,100.0,638,100.0,38.2135733,-109.9025345
+12511,JLN,MO,Joplin Regional,Joplin,10k-100k,no,N,loss,-52.9,at least -30%,1336,834,795,629,-166,less,904,67.7,629,100.0,37.0847269,-94.241987
+10361,ART,NY,Watertown International,Watertown,10k-100k,yes,N,loss,-6.9,less than -10%,671,584,618,625,7,more,670,99.9,625,100.0,43.99431,-76.02332
+11447,DVL,ND,Devils Lake Regional,Devils Lake,less than 10k,yes,,gain,4,less than 10%,598,573,633,622,-11,less,598,100.0,622,100.0,48.10919,-98.90391
+10967,CGI,MO,Cape Girardeau Regional,Cape Girardeau,10k-100k,yes,,loss,-33.6,at least -30%,926,567,598,615,17,more,926,100.0,615,100.0,37.226842,-89.5645181
+13121,LWB,WV,Greenbrier Valley,Lewisburg,10k-100k,yes,N,loss,-4.1,less than -10%,636,554,656,610,-46,less,636,100.0,610,100.0,38.0198478,-80.543845
+10333,APN,MI,Alpena County Regional,Alpena,10k-100k,yes,N,unchanged,0,unchanged,608,604,618,608,-10,less,608,100.0,608,100.0,45.11297,-83.57758
+12902,LBL,KS,Liberal Mid-America Regional,Liberal,less than 10k,yes,,loss,-1.3,less than -10%,614,567,599,606,7,more,612,99.7,606,100.0,37.0439061,-100.962346
+10779,BTM,MT,Bert Mooney,Butte,10k-100k,yes,N,loss,-10.6,at least -10%,677,628,690,605,-85,less,674,99.6,605,100.0,45.9551935,-112.5021977
+14081,PGA,AZ,Page Municipal,Page,10k-100k,yes,N,loss,-16.9,at least -10%,704,560,586,585,-1,less,704,100.0,585,100.0,36.9244374,-111.451092
+11315,DIK,ND,Dickinson - Theodore Roosevelt Regional,Dickinson,10k-100k,yes,N,loss,-6.4,less than -10%,613,441,532,574,42,more,613,100.0,574,100.0,46.8016664,-102.7928843
+12177,HOB,NM,Lea County Regional,Hobbs,10k-100k,no,N,loss,-23.1,at least -20%,740,385,417,569,152,more,740,100.0,569,100.0,32.8968816,-103.3587288
+13832,OGS,NY,Ogdensburg International,Ogdensburg,10k-100k,yes,N,loss,-36.7,at least -30%,833,610,611,527,-84,less,397,47.7,527,100.0,44.6820927,-75.4768298
+15582,VEL,UT,Vernal Regional,Vernal,10k-100k,yes,,loss,-16.5,at least -10%,587,551,603,490,-113,less,587,100.0,490,100.0,40.4555157,-109.5287479
+11274,DBQ,IA,Dubuque Regional,Dubuque,10k-100k,no,N,loss,-55.2,at least -30%,985,453,562,441,-121,less,985,100.0,441,100.0,42.4015826,-90.7094375
+14534,RIW,WY,Central Wyoming Regional,Riverton/Lander,10k-100k,no,N,loss,-61.7,at least -30%,1020,486,576,391,-185,less,0,0.0,391,100.0,43.0759678,-107.2902839
+14543,RKS,WY,Southwest Wyoming Regional,Rock Springs,10k-100k,no,N,loss,-45.5,at least -30%,715,525,573,390,-183,less,713,99.7,390,100.0,41.5988254,-109.0718882
+11525,EKO,NV,Elko Regional,Elko,10k-100k,no,N,loss,-46.3,at least -30%,672,544,671,361,-310,less,672,100.0,361,100.0,40.8324211,-115.7631232
+14006,PAH,KY,Barkley Regional,Paducah,10k-100k,yes,N,loss,-35.8,at least -30%,1239,650,700,796,96,more,1239,100.0,795,99.9,37.0612439,-88.7675112
+13241,MEI,MS,Key Field,Meridian,10k-100k,yes,N,loss,-17.4,at least -10%,952,611,602,786,184,more,935,98.2,785,99.9,32.333547,-88.7451526
+10141,ABR,SD,Aberdeen Regional,Aberdeen,10k-100k,yes,N,loss,-5.4,less than -10%,740,690,754,700,-54,less,735,99.3,699,99.9,45.45324,-98.41844
+11468,EAR,NE,Kearney Regional,Kearney,10k-100k,yes,N,gain,5,less than 10%,655,708,941,688,-253,less,654,99.8,687,99.9,40.6819259,-99.1127073
+14109,PIB,MS,Hattiesburg-Laurel Regional,Hattiesburg/Laurel,10k-100k,yes,N,loss,-4.9,less than -10%,694,586,606,660,54,more,664,95.7,659,99.8,31.468239,-89.335421
+10918,CDC,UT,Cedar City Regional,Cedar City,10k-100k,yes,N,loss,-18.4,at least -10%,766,414,627,625,-2,less,748,97.7,624,99.8,37.6774769,-113.0618931
+14812,SHR,WY,Sheridan County,Sheridan,10k-100k,no,N,loss,-13,at least -10%,715,477,712,622,-90,less,0,0.0,621,99.8,44.787904,-106.925973
+12343,INL,MN,Falls International Einarson Field,International Falls,10k-100k,yes,,loss,-13.2,at least -10%,646,582,622,561,-61,less,645,99.8,560,99.8,48.56654,-93.39765
+10146,ABY,GA,Southwest Georgia Regional,Albany,10k-100k,no,N,loss,-5.1,less than -10%,1013,748,1051,961,-90,less,1012,99.9,959,99.8,31.3254159,-84.4382721
+11203,CWA,WI,Central Wisconsin,Mosinee,100k-1 million,no,N,loss,-47.8,at least -30%,3443,2062,2804,1798,-1006,less,3413,99.1,1794,99.8,44.523165,-89.5831373
+12007,GTR,MS,Golden Triangle Regional,Columbus,10k-100k,no,N,loss,-14.3,at least -10%,1188,891,995,1018,23,more,1188,100.0,1015,99.7,33.4515977,-88.5875147
+12899,LBF,NE,North Platte Regional Airport Lee Bird Field,North Platte,10k-100k,yes,N,gain,7,less than 10%,602,695,626,644,18,more,601,99.8,642,99.7,41.1326828,-100.6979522
+12129,HIB,MN,Range Regional,Hibbing,10k-100k,yes,N,gain,2.1,less than 10%,627,586,632,640,8,more,627,100.0,638,99.7,47.39257,-92.84258
+11076,CMX,MI,Houghton County Memorial,Hancock/Houghton,10k-100k,yes,N,loss,-6.7,less than -10%,685,676,711,639,-72,less,682,99.6,637,99.7,47.0499507,-88.6148185
+11097,COD,WY,Yellowstone Regional,Cody,10k-100k,yes,N,loss,-12.1,at least -10%,1084,696,1038,953,-85,less,1065,98.2,950,99.7,44.5170669,-109.0227432
+11865,GCC,WY,Northeast Wyoming Regional,Gillette,10k-100k,no,N,loss,-18.3,at least -10%,756,558,739,618,-121,less,753,99.6,616,99.7,43.0759678,-107.2902839
+12888,LAR,WY,Laramie Regional,Laramie,10k-100k,yes,N,loss,-2,less than -10%,598,566,616,586,-30,less,596,99.7,584,99.7,41.3113669,-105.5911007
+10654,BKW,WV,Raleigh County Memorial,Beckley,10k-100k,yes,,gain,7.2,less than 10%,1096,1142,1339,1175,-164,less,1095,99.9,1170,99.6,37.7381597,-81.2518833
+14520,RHI,WI,Rhinelander/Oneida County,Rhinelander,10k-100k,yes,N,loss,-10.7,at least -10%,796,686,925,711,-214,less,786,98.7,706,99.3,45.6366228,-89.4120753
+15048,SUX,IA,Sioux Gateway Brig Gen Bud Day Field,Sioux City,10k-100k,no,N,loss,-47.1,at least -30%,1293,718,871,684,-187,less,1287,99.5,679,99.3,42.4008903,-96.3787307
+14113,PIH,ID,Pocatello Regional,Pocatello,10k-100k,no,N,loss,-66.7,at least -30%,1101,855,945,367,-578,less,1083,98.4,364,99.2,42.8621042,-112.4506191
+13203,MCN,GA,Middle Georgia Regional,Macon,10k-100k,yes,N,loss,-19,at least -10%,743,626,654,602,-52,less,650,87.5,593,98.5,32.1574351,-82.907123
+14150,PLN,MI,Pellston Regional Airport of Emmet County,Pellston,10k-100k,yes,N,loss,-30.8,at least -30%,1060,907,898,733,-165,less,1057,99.7,720,98.2,45.5714903,-84.7861834
+14288,PUB,CO,Pueblo Memorial,Pueblo,10k-100k,yes,,loss,-44.2,at least -30%,924,719,656,516,-140,less,907,98.2,505,97.9,38.2544472,-104.6091409
+11233,CYS,WY,Cheyenne Regional/Jerry Olson Field,Cheyenne,10k-100k,no,,gain,15.2,at least 10%,566,148,205,652,447,more,484,85.5,637,97.7,41.1529786,-104.8106149
+13459,MQT,MI,Sawyer International,Marquette,10k-100k,no,N,loss,-23,at least -20%,1378,1073,1456,1061,-395,less,1016,73.7,1031,97.2,46.3497439,-87.3873273
+11471,EAU,WI,Chippewa Valley Regional,Eau Claire,10k-100k,yes,N,loss,-29.2,at least -20%,698,684,712,494,-218,less,697,99.9,478,96.8,44.8609,-91.48157
+10409,ATY,SD,Watertown Regional,Watertown,10k-100k,yes,N,gain,24.1,at least 20%,502,588,916,623,-293,less,502,100.0,596,95.7,44.92257,-97.15795
+10469,AZO,MI,Kalamazoo/Battle Creek International,Kalamazoo,100k-1 million,no,N,loss,-55.1,at least -30%,3697,2087,2134,1661,-473,less,2866,77.5,1588,95.6,42.2314382,-85.5512496
+11067,CMI,IL,University of Illinois/Willard,Champaign/Urbana,100k-1 million,no,N,loss,-46.9,at least -30%,2810,1501,1724,1491,-233,less,2785,99.1,1423,95.4,40.0364962,-88.2639879
+14092,PGV,NC,Pitt Greenville,Greenville,10k-100k,no,N,loss,-47,at least -30%,1484,683,907,786,-121,less,1484,100.0,744,94.7,35.612661,-77.3663538
+11308,DHN,AL,Dothan Regional,Dothan,10k-100k,no,N,loss,-32.5,at least -30%,1382,879,1062,933,-129,less,1382,100.0,883,94.6,31.2232313,-85.3904888
+15389,TWF,ID,Joslin Field - Magic Valley Regional,Twin Falls,10k-100k,no,N,loss,-66,at least -30%,1280,953,1179,435,-744,less,1008,78.8,405,93.1,42.48348,-114.48472
+10577,BGM,NY,Greater Binghamton/Edwin A. Link Field,Binghamton,10k-100k,no,N,loss,-60.5,at least -30%,951,425,364,376,12,more,939,98.7,350,93.1,42.2081084,-75.9820633
+10136,ABI,TX,Abilene Regional,Abilene,10k-100k,no,N,loss,-16.8,at least -10%,2312,1695,2394,1924,-470,less,2250,97.3,1766,91.8,32.4118941,-99.6800464
+13184,MBS,MI,MBS International,Saginaw/Bay City/Midland,100k-1 million,no,N,loss,-44.8,at least -30%,2935,1747,1770,1621,-149,less,2022,68.9,1487,91.7,43.5386272,-84.0821024
+11867,GCK,KS,Garden City Regional,Garden City,10k-100k,yes,N,gain,1,less than 10%,701,624,708,708,0,unchg,699,99.7,649,91.7,37.93021,-100.71167
+14120,PIR,SD,Pierre Regional,Pierre,10k-100k,yes,N,loss,-2.2,less than -10%,631,584,910,617,-293,less,630,99.8,565,91.6,44.38325,-100.29729
+10558,BFF,NE,Western Neb. Regional/William B. Heilig Field,Scottsbluff,10k-100k,yes,N,gain,18.1,at least 10%,668,674,672,789,117,more,618,92.5,720,91.3,41.8696365,-103.5926208
+11905,GGG,TX,East Texas Regional,Longview,10k-100k,no,N,loss,-18,at least -10%,941,649,898,772,-126,less,921,97.9,703,91.1,31.9685988,-99.9018131
+13029,LNK,NE,Lincoln Airport,Lincoln,100k-1 million,no,N,loss,-41.9,at least -30%,3678,1786,2303,2138,-165,less,3182,86.5,1937,90.6,40.8485424,-96.7603024
+13127,LWS,ID,Lewiston Nez Perce County,Lewiston,10k-100k,no,N,gain,3.4,less than 10%,993,694,1008,1027,19,more,982,98.9,928,90.4,46.4004089,-117.0011889
+13076,LSE,WI,La Crosse Regional,La Crosse,10k-100k,no,N,loss,-35,at least -30%,2151,1485,2100,1398,-702,less,1587,73.8,1257,89.9,43.8137751,-91.2519017
+11577,ERI,PA,Erie International/Tom Ridge Field,Erie,100k-1 million,no,N,loss,-45.4,at least -30%,2539,1470,1546,1386,-160,less,2533,99.8,1239,89.4,42.0851397,-80.17134
+13139,LYH,VA,Lynchburg Regional/Preston Glenn Field,Lynchburg,10k-100k,no,N,loss,-18.3,at least -10%,2146,1289,1728,1753,25,more,1269,59.1,1543,88.0,37.3254785,-79.2014774
+16869,XWA,ND,Williston Basin International,Williston,10k-100k,no,N,loss,-28,at least -20%,2057,854,1132,1481,349,more,1952,94.9,1277,86.2,48.25828,-103.72141
+10631,BJI,MN,Bemidji Regional,Bemidji,10k-100k,yes,N,loss,-11.9,at least -10%,964,915,971,849,-122,less,739,76.7,730,86.0,47.471573,-94.8826861
+10155,ACT,TX,Waco Regional,Waco,10k-100k,no,N,loss,-5,less than -10%,1777,1074,1602,1689,87,more,1673,94.1,1452,86.0,31.6092433,-97.2232208
+10728,BPT,TX,Jack Brooks Regional,Beaumont/Port Arthur,10k-100k,no,N,loss,-18.6,at least -10%,961,646,939,782,-157,less,961,100.0,671,85.8,29.955004,-94.01843
+11699,FLO,SC,Florence Regional,Florence,10k-100k,no,N,loss,-36.1,at least -30%,1223,609,726,781,55,more,1207,98.7,668,85.5,34.19336,-79.72826
+15074,SWO,OK,Stillwater Regional,Stillwater,10k-100k,no,N,loss,-16.7,at least -10%,846,540,540,705,165,more,841,99.4,593,84.1,36.1578398,-97.0838743
+15401,TXK,AR,Texarkana Regional-Webb Field,Texarkana,10k-100k,no,N,gain,3,less than 10%,1208,759,1048,1244,196,more,1203,99.6,1043,83.8,33.425125,-94.0476882
+15411,TYR,TX,Tyler Pounds Regional,Tyler,10k-100k,no,N,loss,-20.9,at least -20%,1519,1004,1335,1201,-134,less,1448,95.3,982,81.8,32.3511258,-95.4096293
+11122,CPR,WY,Casper/Natrona County International,Casper,10k-100k,no,N,loss,-23.6,at least -20%,2311,1601,2002,1766,-236,less,1806,78.1,1443,81.7,42.848709,-106.2980824
+14960,SPS,TX,Sheppard AFB/Wichita Falls Municipal,Wichita Falls,10k-100k,no,N,loss,-11.5,at least -10%,1223,740,1240,1082,-158,less,1207,98.7,884,81.7,33.9685715,-98.510735
+12884,LAN,MI,Capital Region International,Lansing,100k-1 million,no,N,loss,-50.9,at least -30%,3932,2085,2475,1931,-544,less,3459,88.0,1573,81.5,42.77529,-84.59021

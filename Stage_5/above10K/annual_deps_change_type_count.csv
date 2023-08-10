@@ -1,0 +1,12 @@
+category,less,more,unchg,,,,,
+1-5 million,7,41,,,,,,
+100k-1 million,84,47,,,,84,,47
+10k-100k,77,49,1,,,77,,49
+less than 10k,1,6,,,,1,,6
+more than 5 million,8,33,,,,162,,102
+,,,,,,,,
+,,,,,,,,
+airports_by_size,less,more,,,,,,
+more than 5 million,8,33,,,,,,
+1-5 million,7,41,,,,,,
+less than 1 million,162,1012,,,,,,
